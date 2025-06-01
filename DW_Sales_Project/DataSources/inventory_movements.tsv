@@ -1,0 +1,2001 @@
+MovementID	Date	ProductID	MovementType	Quantity	Location	Reference	Notes
+MOV00001	2023-05-29	P045	Purchase	67	Store 1	REF4643	
+MOV00002	2023-05-17	P006	Sale	41	Warehouse A	REF1909	Supplier issue
+MOV00003	2024-06-04	P055	Adjustment	64	Store 1	REF6473	Regular operation
+MOV00004	2023-02-05	P100	Return	-2	Store 1	REF8932	Supplier issue
+MOV00005	2024-12-31	P008	Damaged	6	Store 2	REF8411	Quality check
+MOV00006	2023-08-11	P050	Purchase	18	Warehouse B	REF5148	Supplier issue
+MOV00007	2023-10-15	P011	Return	-27	Store 2	REF4668	Quality check
+MOV00008	2024-09-22	P041	Adjustment	56	Warehouse A	REF5509	
+MOV00009	2024-12-08	P021	Damaged	17	Warehouse B	REF7825	Customer return
+MOV00010	2024-07-12	P044	Purchase	63	Online Fulfillment	REF3653	Supplier issue
+MOV00011	2024-11-28	P047	Damaged	76	Store 2	REF4325	Regular operation
+MOV00012	2024-02-01	P009	Return	50	Warehouse A	REF2311	Supplier issue
+MOV00013	2024-11-16	P033	Purchase	46	Store 1	REF1420	Regular operation
+MOV00014	2023-03-04	P094	Transfer	-11	Store 1	REF7755	
+MOV00015	2023-07-27	P087	Return	59	Warehouse B	REF8309	
+MOV00016	2023-09-13	P081	Transfer	71	Store 2	REF8840	Supplier issue
+MOV00017	2023-12-03	P034	Purchase	-16	Warehouse B	REF5876	Supplier issue
+MOV00018	2023-05-05	P037	Return	-21	Warehouse B	REF8400	Customer return
+MOV00019	2024-11-05	P001	Sale	86	Warehouse B	REF7850	Customer return
+MOV00020	2024-10-22	P099	Adjustment	37	Warehouse B	REF4649	Supplier issue
+MOV00021	2024-05-05	P047	Adjustment	-5	Store 2	REF7059	Customer return
+MOV00022	2023-12-16	P087	Return	-47	Warehouse B	REF5996	
+MOV00023	2024-10-11	P066	Transfer	13	Online Fulfillment	REF8355	Customer return
+MOV00024	2024-09-27	P046	Return	10	Store 2	REF5888	Quality check
+MOV00025	2023-07-05	P088	Purchase	98	Store 1	REF8176	Regular operation
+MOV00026	2023-12-06	P033	Return	76	Store 2	REF6866	
+MOV00027	2024-12-26	P090	Sale	-48	Warehouse A	REF8675	Supplier issue
+MOV00028	2024-12-08	P078	Sale	64	Warehouse A	REF5465	Quality check
+MOV00029	2024-06-07	P070	Return	-13	Online Fulfillment	REF8384	Regular operation
+MOV00030	2023-12-28	P099	Damaged	82	Warehouse B	REF5446	Customer return
+MOV00031	2023-08-19	P004	Sale	99	Online Fulfillment	REF8637	Quality check
+MOV00032	2024-07-16	P041	Return	19	Warehouse B	REF5592	Regular operation
+MOV00033	2023-06-09	P079	Return	87	Warehouse A	REF5940	Supplier issue
+MOV00034	2024-06-11	P068	Adjustment	92	Online Fulfillment	REF1766	
+MOV00035	2024-12-30	P058	Adjustment	1	Store 1	REF3852	Supplier issue
+MOV00036	2023-06-19	P040	Adjustment	69	Warehouse A	REF2825	Customer return
+MOV00037	2024-04-01	P071	Adjustment	-1	Store 2	REF9798	Regular operation
+MOV00038	2023-12-16	P053	Purchase	53	Warehouse B	REF2064	Supplier issue
+MOV00039	2023-08-05	P049	Adjustment	-29	Warehouse B	REF9643	Supplier issue
+MOV00040	2023-07-22	P009	Return	-45	Warehouse B	REF2234	
+MOV00041	2024-12-08	P016	Adjustment	58	Store 2	REF2970	Supplier issue
+MOV00042	2023-06-23	P040	Damaged	51	Online Fulfillment	REF9938	
+MOV00043	2024-08-14	P083	Damaged	60	Store 2	REF7443	Quality check
+MOV00044	2023-03-19	P065	Sale	-4	Store 1	REF8609	
+MOV00045	2024-10-06	P081	Sale	-18	Store 1	REF9094	Supplier issue
+MOV00046	2024-10-29	P071	Adjustment	62	Warehouse A	REF8468	Regular operation
+MOV00047	2024-02-06	P057	Purchase	18	Online Fulfillment	REF6886	Supplier issue
+MOV00048	2024-09-16	P019	Return	66	Online Fulfillment	REF7071	Quality check
+MOV00049	2023-07-16	P041	Sale	78	Warehouse A	REF1424	
+MOV00050	2023-07-13	P038	Purchase	7	Store 2	REF4918	Customer return
+MOV00051	2023-12-16	P035	Sale	23	Store 2	REF2570	Regular operation
+MOV00052	2023-12-21	P041	Transfer	-3	Warehouse B	REF2084	
+MOV00053	2023-04-26	P073	Return	-29	Store 2	REF2508	
+MOV00054	2023-01-02	P058	Purchase	61	Store 2	REF8735	Supplier issue
+MOV00055	2024-11-14	P078	Sale	-21	Warehouse B	REF2592	Supplier issue
+MOV00056	2023-11-01	P041	Sale	91	Warehouse B	REF4164	Supplier issue
+MOV00057	2023-10-31	P021	Return	32	Warehouse A	REF4652	Customer return
+MOV00058	2023-09-08	P032	Damaged	-6	Warehouse A	REF1541	Regular operation
+MOV00059	2023-06-14	P044	Return	53	Store 2	REF6365	
+MOV00060	2023-03-12	P038	Transfer	100	Online Fulfillment	REF6868	
+MOV00061	2024-04-04	P061	Purchase	9	Warehouse A	REF8865	Regular operation
+MOV00062	2024-01-05	P055	Transfer	-18	Store 1	REF4214	Quality check
+MOV00063	2023-02-12	P009	Return	5	Store 1	REF6023	Customer return
+MOV00064	2024-02-02	P025	Adjustment	70	Online Fulfillment	REF9360	
+MOV00065	2024-12-03	P030	Adjustment	78	Store 2	REF4854	Supplier issue
+MOV00066	2024-10-09	P039	Damaged	29	Store 1	REF9319	Regular operation
+MOV00067	2023-02-01	P085	Adjustment	-1	Warehouse B	REF7758	Supplier issue
+MOV00068	2023-07-17	P073	Sale	-44	Store 2	REF1377	Customer return
+MOV00069	2023-05-24	P075	Return	-13	Online Fulfillment	REF3296	Regular operation
+MOV00070	2023-04-02	P079	Sale	18	Store 2	REF5303	Quality check
+MOV00071	2024-10-19	P098	Damaged	37	Warehouse A	REF8059	
+MOV00072	2024-11-10	P062	Transfer	-7	Warehouse A	REF4392	
+MOV00073	2024-05-06	P018	Purchase	-26	Warehouse B	REF1303	Quality check
+MOV00074	2024-06-07	P020	Damaged	79	Warehouse B	REF1670	Regular operation
+MOV00075	2024-01-13	P001	Damaged	44	Online Fulfillment	REF6724	Customer return
+MOV00076	2024-05-16	P055	Purchase	61	Online Fulfillment	REF1997	Supplier issue
+MOV00077	2024-06-09	P005	Sale	-41	Store 1	REF1504	Regular operation
+MOV00078	2023-12-01	P088	Damaged	19	Store 2	REF9532	Regular operation
+MOV00079	2023-03-23	P090	Sale	-20	Store 1	REF4460	Quality check
+MOV00080	2024-03-02	P001	Return	76	Store 1	REF4211	Quality check
+MOV00081	2023-04-15	P095	Purchase	-20	Store 1	REF5359	
+MOV00082	2023-12-07	P080	Damaged	-17	Online Fulfillment	REF2343	Supplier issue
+MOV00083	2024-09-01	P095	Purchase	47	Online Fulfillment	REF1773	
+MOV00084	2023-03-10	P031	Adjustment	24	Warehouse A	REF9029	Supplier issue
+MOV00085	2023-11-21	P090	Transfer	-18	Warehouse A	REF7039	
+MOV00086	2023-11-06	P070	Damaged	2	Store 2	REF1410	
+MOV00087	2023-01-28	P010	Adjustment	83	Warehouse A	REF2759	Regular operation
+MOV00088	2023-12-15	P085	Sale	56	Warehouse A	REF7307	Customer return
+MOV00089	2023-08-04	P078	Return	43	Warehouse B	REF5370	
+MOV00090	2024-05-19	P027	Sale	-35	Warehouse A	REF7783	Regular operation
+MOV00091	2023-04-30	P048	Sale	35	Warehouse B	REF1474	Customer return
+MOV00092	2023-08-14	P023	Return	60	Warehouse B	REF6050	
+MOV00093	2024-07-13	P095	Transfer	88	Warehouse A	REF5922	
+MOV00094	2024-05-22	P006	Return	55	Store 1	REF6414	Customer return
+MOV00095	2023-12-31	P013	Damaged	53	Online Fulfillment	REF4445	Quality check
+MOV00096	2023-10-17	P005	Return	65	Store 1	REF2634	Regular operation
+MOV00097	2024-10-17	P073	Sale	44	Warehouse B	REF2608	Regular operation
+MOV00098	2023-08-29	P066	Damaged	98	Warehouse A	REF7495	Supplier issue
+MOV00099	2024-05-24	P057	Damaged	-44	Online Fulfillment	REF6902	Quality check
+MOV00100	2023-03-16	P065	Return	79	Store 2	REF9694	Regular operation
+MOV00101	2023-09-25	P089	Sale	16	Warehouse B	REF1229	Regular operation
+MOV00102	2024-06-11	P087	Damaged	85	Online Fulfillment	REF3341	Customer return
+MOV00103	2024-07-06	P082	Return	73	Online Fulfillment	REF4275	
+MOV00104	2024-07-11	P006	Sale	72	Warehouse A	REF4511	Supplier issue
+MOV00105	2024-04-27	P027	Purchase	-11	Warehouse A	REF7032	
+MOV00106	2024-07-22	P053	Transfer	28	Online Fulfillment	REF6812	Quality check
+MOV00107	2024-12-09	P008	Adjustment	14	Online Fulfillment	REF8516	
+MOV00108	2023-03-21	P025	Return	-45	Online Fulfillment	REF6719	Regular operation
+MOV00109	2023-10-08	P002	Return	-36	Warehouse A	REF2654	Quality check
+MOV00110	2024-12-28	P091	Adjustment	-31	Store 2	REF1548	Regular operation
+MOV00111	2023-02-08	P036	Transfer	41	Store 1	REF2788	Quality check
+MOV00112	2024-11-29	P025	Damaged	14	Online Fulfillment	REF2696	Regular operation
+MOV00113	2024-08-19	P037	Damaged	33	Warehouse B	REF6215	Customer return
+MOV00114	2023-09-12	P090	Transfer	48	Warehouse B	REF6295	Customer return
+MOV00115	2024-03-17	P011	Return	18	Warehouse A	REF3545	
+MOV00116	2024-07-09	P058	Purchase	-34	Warehouse A	REF4125	Quality check
+MOV00117	2023-05-05	P043	Sale	100	Store 1	REF2767	Supplier issue
+MOV00118	2024-03-17	P015	Purchase	-26	Store 1	REF9439	Quality check
+MOV00119	2023-06-11	P033	Damaged	-41	Online Fulfillment	REF7655	Customer return
+MOV00120	2023-05-19	P087	Adjustment	-31	Warehouse B	REF3022	Supplier issue
+MOV00121	2024-02-27	P092	Transfer	26	Online Fulfillment	REF2442	Regular operation
+MOV00122	2023-01-02	P010	Purchase	-8	Warehouse B	REF4592	Regular operation
+MOV00123	2023-05-06	P054	Adjustment	98	Store 2	REF6525	Customer return
+MOV00124	2024-10-02	P050	Damaged	68	Warehouse B	REF4059	Quality check
+MOV00125	2024-07-15	P094	Damaged	-1	Store 2	REF9272	Customer return
+MOV00126	2023-04-12	P038	Sale	28	Store 1	REF7440	Quality check
+MOV00127	2023-06-29	P065	Purchase	74	Store 1	REF1913	Customer return
+MOV00128	2023-07-24	P066	Damaged	96	Warehouse A	REF6615	
+MOV00129	2024-01-12	P001	Transfer	19	Warehouse B	REF9596	Regular operation
+MOV00130	2024-03-22	P070	Sale	51	Warehouse B	REF6428	Supplier issue
+MOV00131	2024-05-18	P023	Purchase	-44	Online Fulfillment	REF9035	Quality check
+MOV00132	2024-04-23	P037	Purchase	-38	Store 1	REF2303	Customer return
+MOV00133	2024-04-16	P074	Transfer	-29	Store 1	REF6563	Customer return
+MOV00134	2023-04-04	P071	Return	41	Store 1	REF3743	
+MOV00135	2024-03-10	P033	Sale	31	Warehouse B	REF3256	Regular operation
+MOV00136	2024-05-10	P026	Sale	91	Store 1	REF3319	Customer return
+MOV00137	2024-06-21	P062	Damaged	-7	Online Fulfillment	REF9761	Regular operation
+MOV00138	2024-11-10	P021	Purchase	-11	Online Fulfillment	REF2246	Supplier issue
+MOV00139	2023-06-26	P050	Return	-23	Warehouse B	REF5304	Quality check
+MOV00140	2023-02-03	P040	Damaged	35	Store 2	REF9449	Regular operation
+MOV00141	2023-09-08	P014	Return	42	Store 2	REF3247	Customer return
+MOV00142	2023-08-21	P008	Sale	-35	Warehouse B	REF5597	Regular operation
+MOV00143	2023-08-13	P003	Purchase	-21	Warehouse A	REF4455	Regular operation
+MOV00144	2023-10-16	P055	Return	28	Warehouse B	REF2370	Customer return
+MOV00145	2023-09-12	P060	Damaged	72	Online Fulfillment	REF1455	Customer return
+MOV00146	2023-12-10	P085	Transfer	-15	Warehouse B	REF8838	Supplier issue
+MOV00147	2023-01-25	P085	Sale	59	Warehouse A	REF6009	
+MOV00148	2024-04-22	P052	Transfer	71	Online Fulfillment	REF9489	Supplier issue
+MOV00149	2024-12-13	P024	Return	53	Online Fulfillment	REF8144	Customer return
+MOV00150	2023-03-21	P009	Sale	39	Warehouse A	REF8337	Supplier issue
+MOV00151	2023-10-24	P080	Transfer	47	Store 2	REF3750	Supplier issue
+MOV00152	2024-12-24	P052	Sale	5	Online Fulfillment	REF7731	
+MOV00153	2023-01-27	P006	Adjustment	-22	Warehouse A	REF5631	Supplier issue
+MOV00154	2023-11-18	P007	Damaged	41	Warehouse B	REF3099	Regular operation
+MOV00155	2023-04-08	P009	Sale	73	Warehouse A	REF5619	Quality check
+MOV00156	2023-05-12	P090	Return	95	Warehouse B	REF4857	Quality check
+MOV00157	2023-08-04	P098	Transfer	-29	Store 1	REF4805	Quality check
+MOV00158	2023-04-25	P053	Purchase	60	Store 2	REF8727	Customer return
+MOV00159	2024-11-25	P040	Adjustment	99	Store 2	REF1649	Supplier issue
+MOV00160	2023-04-28	P015	Transfer	84	Online Fulfillment	REF6414	Regular operation
+MOV00161	2023-04-23	P016	Return	76	Online Fulfillment	REF8432	Quality check
+MOV00162	2023-09-03	P075	Purchase	0	Store 2	REF2924	Customer return
+MOV00163	2024-10-24	P048	Transfer	52	Warehouse A	REF3978	Supplier issue
+MOV00164	2023-11-05	P017	Sale	53	Warehouse B	REF5953	Customer return
+MOV00165	2024-06-05	P069	Damaged	23	Store 2	REF4383	Supplier issue
+MOV00166	2023-03-12	P036	Adjustment	91	Store 2	REF6675	Regular operation
+MOV00167	2024-06-15	P086	Purchase	41	Store 2	REF2072	Regular operation
+MOV00168	2024-05-24	P068	Return	28	Store 1	REF1804	Regular operation
+MOV00169	2023-06-09	P094	Adjustment	16	Online Fulfillment	REF5185	Quality check
+MOV00170	2023-10-10	P040	Sale	63	Online Fulfillment	REF4356	Supplier issue
+MOV00171	2024-02-04	P055	Purchase	23	Store 1	REF9826	Supplier issue
+MOV00172	2024-04-14	P015	Purchase	87	Online Fulfillment	REF2245	Supplier issue
+MOV00173	2023-03-11	P068	Sale	75	Store 2	REF4608	Customer return
+MOV00174	2024-04-01	P060	Return	100	Store 2	REF8178	
+MOV00175	2023-10-26	P048	Damaged	-18	Store 2	REF4851	Quality check
+MOV00176	2024-10-19	P082	Damaged	-24	Online Fulfillment	REF9519	Regular operation
+MOV00177	2023-11-22	P054	Adjustment	33	Store 1	REF2980	Quality check
+MOV00178	2023-12-10	P036	Damaged	40	Store 1	REF8179	
+MOV00179	2024-04-12	P082	Purchase	67	Online Fulfillment	REF1999	Supplier issue
+MOV00180	2024-03-28	P083	Purchase	29	Store 1	REF6527	Quality check
+MOV00181	2023-01-28	P003	Purchase	74	Warehouse B	REF2701	Customer return
+MOV00182	2023-04-17	P020	Adjustment	-6	Store 1	REF3873	Regular operation
+MOV00183	2024-10-15	P024	Transfer	91	Store 1	REF7257	Supplier issue
+MOV00184	2024-12-08	P017	Return	-37	Store 1	REF6996	Customer return
+MOV00185	2024-10-23	P081	Sale	33	Warehouse A	REF9160	Supplier issue
+MOV00186	2023-10-23	P082	Transfer	40	Store 2	REF6254	Quality check
+MOV00187	2024-10-27	P052	Return	-11	Store 1	REF4539	Supplier issue
+MOV00188	2023-11-12	P020	Transfer	-16	Warehouse B	REF1387	Quality check
+MOV00189	2023-05-11	P007	Return	-32	Warehouse A	REF7854	Customer return
+MOV00190	2024-08-07	P052	Purchase	67	Warehouse B	REF7160	Customer return
+MOV00191	2023-06-10	P092	Purchase	-23	Store 1	REF9413	Supplier issue
+MOV00192	2024-03-05	P007	Transfer	55	Store 2	REF4799	Supplier issue
+MOV00193	2023-06-24	P048	Purchase	-36	Online Fulfillment	REF4909	Quality check
+MOV00194	2023-05-01	P095	Transfer	37	Store 2	REF4196	Quality check
+MOV00195	2023-03-02	P048	Damaged	-50	Store 2	REF6691	Regular operation
+MOV00196	2024-02-11	P073	Adjustment	-21	Store 1	REF9863	
+MOV00197	2023-09-17	P035	Damaged	39	Warehouse B	REF4562	Supplier issue
+MOV00198	2023-09-14	P075	Return	-32	Warehouse A	REF1446	Regular operation
+MOV00199	2024-11-24	P022	Purchase	87	Online Fulfillment	REF7148	Supplier issue
+MOV00200	2024-02-18	P096	Purchase	26	Warehouse A	REF7748	Quality check
+MOV00201	2023-09-08	P024	Purchase	42	Warehouse A	REF8639	Customer return
+MOV00202	2023-05-08	P078	Adjustment	71	Online Fulfillment	REF3929	
+MOV00203	2024-02-22	P004	Return	83	Store 2	REF6794	Quality check
+MOV00204	2023-03-24	P035	Damaged	4	Store 1	REF3918	Quality check
+MOV00205	2023-02-03	P064	Purchase	23	Warehouse B	REF2288	Regular operation
+MOV00206	2024-04-11	P059	Sale	-8	Warehouse B	REF8647	Customer return
+MOV00207	2024-09-24	P077	Return	79	Online Fulfillment	REF4153	Supplier issue
+MOV00208	2024-05-13	P038	Sale	88	Store 2	REF1540	Regular operation
+MOV00209	2024-05-12	P100	Adjustment	70	Online Fulfillment	REF8376	Quality check
+MOV00210	2024-05-29	P098	Transfer	-36	Warehouse A	REF2701	Regular operation
+MOV00211	2023-07-31	P005	Damaged	39	Warehouse B	REF3464	Quality check
+MOV00212	2024-06-26	P029	Return	-8	Warehouse B	REF4446	Supplier issue
+MOV00213	2024-05-20	P043	Purchase	19	Store 1	REF9589	Regular operation
+MOV00214	2024-02-12	P084	Sale	-3	Store 1	REF5565	
+MOV00215	2024-11-28	P079	Adjustment	90	Store 1	REF7713	Regular operation
+MOV00216	2023-10-13	P015	Damaged	-7	Store 2	REF2717	Supplier issue
+MOV00217	2024-01-11	P042	Damaged	29	Warehouse B	REF8652	
+MOV00218	2023-09-11	P026	Damaged	100	Online Fulfillment	REF8681	Regular operation
+MOV00219	2023-05-16	P016	Return	47	Warehouse A	REF7316	
+MOV00220	2023-02-05	P040	Adjustment	47	Warehouse A	REF1826	Quality check
+MOV00221	2024-09-17	P055	Damaged	43	Store 1	REF5812	Regular operation
+MOV00222	2024-08-24	P096	Purchase	17	Warehouse B	REF9016	Supplier issue
+MOV00223	2023-02-03	P022	Transfer	56	Store 2	REF1538	Customer return
+MOV00224	2023-01-11	P027	Return	55	Warehouse B	REF4893	Supplier issue
+MOV00225	2023-07-11	P097	Return	51	Store 1	REF6332	Supplier issue
+MOV00226	2023-01-10	P038	Transfer	41	Warehouse A	REF2393	
+MOV00227	2024-08-30	P005	Adjustment	31	Store 2	REF4855	Quality check
+MOV00228	2023-07-10	P087	Adjustment	74	Online Fulfillment	REF2167	Regular operation
+MOV00229	2023-03-20	P063	Transfer	36	Warehouse A	REF3944	Customer return
+MOV00230	2024-09-09	P092	Sale	66	Warehouse B	REF2264	Supplier issue
+MOV00231	2024-09-03	P038	Sale	-13	Warehouse B	REF3327	Customer return
+MOV00232	2023-09-10	P070	Return	-32	Online Fulfillment	REF8259	Customer return
+MOV00233	2024-05-04	P050	Purchase	75	Store 2	REF7133	Supplier issue
+MOV00234	2023-06-15	P021	Damaged	16	Store 1	REF9532	
+MOV00235	2023-08-30	P056	Adjustment	-47	Store 2	REF4543	Quality check
+MOV00236	2024-11-09	P037	Purchase	81	Warehouse B	REF4186	Supplier issue
+MOV00237	2024-06-07	P028	Adjustment	-22	Store 1	REF3990	Supplier issue
+MOV00238	2024-02-29	P067	Adjustment	47	Online Fulfillment	REF1386	
+MOV00239	2023-01-23	P062	Transfer	44	Store 2	REF6503	Quality check
+MOV00240	2023-02-22	P004	Purchase	-3	Warehouse B	REF8938	Customer return
+MOV00241	2023-01-14	P079	Sale	54	Warehouse A	REF5602	Supplier issue
+MOV00242	2023-01-06	P080	Sale	93	Warehouse A	REF4847	Quality check
+MOV00243	2024-04-08	P012	Return	-14	Warehouse A	REF4537	Supplier issue
+MOV00244	2023-10-23	P058	Sale	77	Online Fulfillment	REF4730	
+MOV00245	2023-06-29	P081	Sale	54	Online Fulfillment	REF5560	
+MOV00246	2023-12-02	P034	Sale	77	Store 2	REF3063	
+MOV00247	2023-09-10	P094	Damaged	13	Store 2	REF9368	Quality check
+MOV00248	2023-05-25	P097	Return	-43	Store 2	REF3848	
+MOV00249	2023-03-29	P079	Return	78	Warehouse A	REF7823	Regular operation
+MOV00250	2024-11-11	P065	Purchase	100	Online Fulfillment	REF1504	
+MOV00251	2024-07-01	P072	Damaged	-35	Store 1	REF1318	
+MOV00252	2023-08-01	P030	Adjustment	-5	Store 2	REF3401	Customer return
+MOV00253	2023-11-06	P043	Sale	-3	Store 2	REF6888	
+MOV00254	2023-09-23	P018	Adjustment	75	Warehouse B	REF3193	Supplier issue
+MOV00255	2023-07-03	P024	Sale	-24	Store 1	REF6706	Quality check
+MOV00256	2023-05-30	P041	Purchase	-26	Store 2	REF4073	Quality check
+MOV00257	2024-08-03	P057	Return	42	Warehouse A	REF2398	Supplier issue
+MOV00258	2023-12-13	P090	Purchase	58	Warehouse A	REF9956	Supplier issue
+MOV00259	2023-06-27	P100	Return	33	Warehouse A	REF4682	Quality check
+MOV00260	2024-08-18	P055	Adjustment	-49	Store 1	REF8606	Customer return
+MOV00261	2023-06-02	P083	Transfer	53	Store 2	REF5994	Supplier issue
+MOV00262	2023-03-09	P088	Purchase	81	Warehouse A	REF4476	Quality check
+MOV00263	2024-11-05	P001	Adjustment	-11	Warehouse B	REF2944	
+MOV00264	2024-12-27	P012	Transfer	17	Store 2	REF6400	Customer return
+MOV00265	2023-02-25	P100	Adjustment	5	Store 2	REF9332	Customer return
+MOV00266	2023-03-06	P049	Adjustment	57	Store 1	REF6819	
+MOV00267	2024-09-25	P097	Transfer	-31	Online Fulfillment	REF7211	Supplier issue
+MOV00268	2024-08-22	P057	Adjustment	-35	Warehouse B	REF3259	Quality check
+MOV00269	2024-01-23	P036	Return	96	Online Fulfillment	REF6692	Regular operation
+MOV00270	2023-10-24	P031	Adjustment	-49	Store 1	REF4229	Customer return
+MOV00271	2023-06-08	P038	Transfer	-24	Store 2	REF3544	Supplier issue
+MOV00272	2023-07-22	P016	Adjustment	69	Store 2	REF5449	Customer return
+MOV00273	2023-06-01	P024	Sale	-25	Warehouse B	REF5940	Quality check
+MOV00274	2024-10-23	P014	Damaged	72	Warehouse B	REF9408	Regular operation
+MOV00275	2024-11-15	P094	Damaged	97	Warehouse A	REF4810	Customer return
+MOV00276	2024-03-30	P027	Purchase	66	Store 1	REF2653	Regular operation
+MOV00277	2024-11-08	P023	Transfer	43	Online Fulfillment	REF4873	
+MOV00278	2023-12-01	P002	Transfer	2	Warehouse B	REF3757	Supplier issue
+MOV00279	2023-04-14	P004	Return	30	Warehouse B	REF6285	Regular operation
+MOV00280	2023-08-11	P041	Damaged	59	Warehouse B	REF5829	Quality check
+MOV00281	2023-03-09	P090	Adjustment	-31	Online Fulfillment	REF2056	Supplier issue
+MOV00282	2023-08-24	P026	Return	16	Store 2	REF2394	Customer return
+MOV00283	2023-09-24	P028	Sale	79	Warehouse B	REF6302	Customer return
+MOV00284	2023-04-21	P063	Adjustment	89	Online Fulfillment	REF3305	Quality check
+MOV00285	2023-02-03	P051	Transfer	-16	Online Fulfillment	REF5173	Customer return
+MOV00286	2024-07-18	P089	Purchase	-6	Online Fulfillment	REF5974	Customer return
+MOV00287	2024-04-16	P016	Damaged	92	Store 2	REF2638	
+MOV00288	2024-11-10	P083	Transfer	-29	Store 2	REF3883	Customer return
+MOV00289	2023-10-28	P077	Transfer	0	Warehouse A	REF5955	Customer return
+MOV00290	2023-09-12	P094	Adjustment	36	Warehouse A	REF4281	Quality check
+MOV00291	2024-06-13	P056	Purchase	7	Store 2	REF8634	Customer return
+MOV00292	2024-01-31	P011	Adjustment	-25	Store 2	REF1177	Customer return
+MOV00293	2023-10-07	P031	Sale	65	Warehouse A	REF8931	Quality check
+MOV00294	2024-01-27	P061	Purchase	-18	Store 2	REF5254	Supplier issue
+MOV00295	2023-01-05	P054	Transfer	45	Warehouse B	REF2279	Quality check
+MOV00296	2023-04-21	P059	Transfer	27	Warehouse A	REF7354	
+MOV00297	2024-04-06	P018	Transfer	59	Store 2	REF3307	Regular operation
+MOV00298	2023-10-07	P012	Transfer	60	Warehouse B	REF4201	Regular operation
+MOV00299	2024-09-22	P097	Purchase	46	Store 2	REF8409	Customer return
+MOV00300	2024-12-07	P072	Adjustment	16	Store 2	REF5235	Regular operation
+MOV00301	2023-04-30	P078	Sale	43	Store 1	REF5042	Regular operation
+MOV00302	2024-04-08	P043	Return	-50	Store 1	REF7407	Regular operation
+MOV00303	2024-03-20	P015	Return	9	Online Fulfillment	REF5454	Regular operation
+MOV00304	2023-08-21	P078	Adjustment	-18	Store 2	REF8811	Customer return
+MOV00305	2023-10-16	P045	Adjustment	57	Online Fulfillment	REF1940	
+MOV00306	2023-10-29	P012	Return	-17	Store 1	REF2012	
+MOV00307	2023-12-28	P051	Sale	54	Warehouse A	REF4572	
+MOV00308	2023-12-05	P083	Return	-9	Online Fulfillment	REF9566	Quality check
+MOV00309	2023-07-14	P015	Sale	-12	Online Fulfillment	REF8004	Supplier issue
+MOV00310	2024-06-08	P028	Return	1	Store 1	REF9778	Customer return
+MOV00311	2024-09-24	P075	Purchase	68	Store 2	REF7705	Quality check
+MOV00312	2024-06-08	P047	Transfer	50	Online Fulfillment	REF3425	Quality check
+MOV00313	2023-12-09	P092	Damaged	19	Warehouse B	REF8991	Supplier issue
+MOV00314	2023-07-20	P054	Adjustment	-5	Online Fulfillment	REF9148	Regular operation
+MOV00315	2023-03-20	P060	Purchase	61	Store 1	REF4476	Customer return
+MOV00316	2024-09-03	P097	Return	38	Warehouse B	REF5412	Customer return
+MOV00317	2023-02-18	P055	Damaged	95	Online Fulfillment	REF6519	
+MOV00318	2024-11-04	P017	Transfer	17	Online Fulfillment	REF7766	Quality check
+MOV00319	2023-03-04	P078	Transfer	68	Warehouse B	REF9528	Customer return
+MOV00320	2023-11-30	P089	Damaged	20	Warehouse A	REF8318	
+MOV00321	2023-07-29	P090	Transfer	26	Warehouse B	REF2395	Customer return
+MOV00322	2024-08-02	P091	Purchase	17	Warehouse B	REF2166	Customer return
+MOV00323	2023-09-16	P040	Damaged	-42	Online Fulfillment	REF7576	Supplier issue
+MOV00324	2024-02-03	P019	Return	-14	Online Fulfillment	REF6910	Supplier issue
+MOV00325	2023-09-25	P005	Return	-45	Store 1	REF3603	Supplier issue
+MOV00326	2024-10-13	P089	Adjustment	-45	Warehouse B	REF7032	Customer return
+MOV00327	2024-04-17	P056	Adjustment	9	Warehouse A	REF8418	Supplier issue
+MOV00328	2024-08-07	P078	Adjustment	32	Warehouse A	REF1007	
+MOV00329	2023-01-29	P051	Damaged	40	Warehouse A	REF5635	Regular operation
+MOV00330	2024-05-14	P022	Sale	21	Store 2	REF2680	Customer return
+MOV00331	2023-02-12	P035	Purchase	-34	Store 2	REF1817	
+MOV00332	2023-06-06	P073	Sale	-15	Warehouse A	REF3351	Customer return
+MOV00333	2023-04-01	P097	Damaged	3	Online Fulfillment	REF1464	Regular operation
+MOV00334	2023-07-03	P075	Damaged	41	Warehouse A	REF2048	Regular operation
+MOV00335	2023-11-08	P057	Return	64	Warehouse B	REF1898	Customer return
+MOV00336	2024-01-15	P042	Sale	11	Store 2	REF9257	Quality check
+MOV00337	2024-12-11	P080	Purchase	14	Online Fulfillment	REF9102	Customer return
+MOV00338	2024-05-06	P090	Return	30	Store 2	REF9915	Customer return
+MOV00339	2023-10-18	P018	Adjustment	9	Warehouse B	REF4452	Quality check
+MOV00340	2024-10-11	P072	Transfer	28	Store 2	REF6613	Regular operation
+MOV00341	2024-08-07	P006	Sale	24	Online Fulfillment	REF4274	Regular operation
+MOV00342	2024-07-26	P018	Return	-28	Warehouse B	REF1674	Regular operation
+MOV00343	2024-03-08	P007	Adjustment	15	Store 1	REF1672	Quality check
+MOV00344	2024-01-10	P082	Damaged	94	Warehouse B	REF5762	Regular operation
+MOV00345	2024-05-11	P088	Adjustment	-1	Warehouse B	REF5664	Quality check
+MOV00346	2024-12-26	P081	Purchase	66	Warehouse A	REF9962	Quality check
+MOV00347	2023-04-13	P081	Transfer	-10	Warehouse A	REF7273	Regular operation
+MOV00348	2024-03-20	P086	Sale	95	Warehouse B	REF4600	Regular operation
+MOV00349	2024-06-24	P049	Adjustment	83	Warehouse A	REF2391	Regular operation
+MOV00350	2024-07-11	P008	Sale	10	Online Fulfillment	REF4948	Supplier issue
+MOV00351	2024-08-14	P088	Adjustment	-49	Warehouse B	REF6830	Supplier issue
+MOV00352	2024-09-14	P041	Sale	41	Store 2	REF6072	Customer return
+MOV00353	2024-11-06	P009	Purchase	-2	Store 1	REF5783	Supplier issue
+MOV00354	2024-12-11	P024	Transfer	50	Warehouse B	REF7424	Quality check
+MOV00355	2023-11-10	P003	Damaged	-10	Warehouse B	REF9228	Customer return
+MOV00356	2024-09-29	P019	Purchase	7	Warehouse A	REF8780	Customer return
+MOV00357	2024-09-29	P010	Return	32	Warehouse A	REF1727	
+MOV00358	2024-10-20	P004	Damaged	-2	Online Fulfillment	REF6983	Supplier issue
+MOV00359	2023-05-22	P067	Adjustment	11	Online Fulfillment	REF6570	Quality check
+MOV00360	2024-08-13	P082	Purchase	-44	Store 2	REF8877	Quality check
+MOV00361	2023-08-14	P028	Transfer	-3	Store 2	REF7291	Customer return
+MOV00362	2023-08-10	P098	Return	88	Warehouse A	REF3916	Customer return
+MOV00363	2024-08-13	P050	Adjustment	83	Online Fulfillment	REF3806	Quality check
+MOV00364	2024-07-24	P047	Transfer	38	Store 1	REF3988	Regular operation
+MOV00365	2023-03-17	P001	Damaged	-22	Store 1	REF6080	Customer return
+MOV00366	2023-11-12	P071	Return	75	Online Fulfillment	REF3313	Regular operation
+MOV00367	2024-04-02	P035	Purchase	43	Warehouse A	REF8638	Regular operation
+MOV00368	2023-07-13	P087	Sale	-7	Warehouse A	REF8406	Supplier issue
+MOV00369	2023-12-03	P079	Transfer	-37	Warehouse B	REF6642	Customer return
+MOV00370	2024-10-04	P077	Transfer	11	Online Fulfillment	REF2219	Regular operation
+MOV00371	2023-08-02	P023	Purchase	20	Warehouse A	REF1855	Quality check
+MOV00372	2024-10-17	P063	Sale	80	Warehouse A	REF1897	Quality check
+MOV00373	2024-09-03	P059	Sale	37	Store 2	REF6353	Customer return
+MOV00374	2023-04-28	P020	Adjustment	4	Store 2	REF1914	Regular operation
+MOV00375	2024-05-20	P098	Transfer	59	Warehouse B	REF4405	Regular operation
+MOV00376	2023-07-05	P021	Return	-24	Store 2	REF7342	Supplier issue
+MOV00377	2024-03-23	P069	Transfer	-6	Warehouse A	REF3690	Supplier issue
+MOV00378	2023-10-20	P054	Sale	-25	Warehouse B	REF4507	Customer return
+MOV00379	2024-01-09	P074	Damaged	38	Online Fulfillment	REF3901	
+MOV00380	2024-01-12	P051	Return	51	Warehouse B	REF2047	
+MOV00381	2023-06-25	P077	Damaged	33	Online Fulfillment	REF1538	
+MOV00382	2024-08-03	P039	Return	-31	Store 1	REF9166	Customer return
+MOV00383	2023-08-02	P098	Adjustment	59	Warehouse B	REF8403	
+MOV00384	2024-12-28	P023	Return	56	Store 1	REF9323	Customer return
+MOV00385	2024-07-10	P055	Return	77	Store 2	REF7843	
+MOV00386	2024-01-02	P085	Return	77	Store 2	REF1073	Customer return
+MOV00387	2023-05-01	P072	Adjustment	43	Warehouse A	REF7493	Supplier issue
+MOV00388	2024-09-05	P094	Transfer	55	Store 1	REF6523	Regular operation
+MOV00389	2023-04-12	P048	Transfer	-49	Store 1	REF3250	Customer return
+MOV00390	2024-02-27	P065	Adjustment	-50	Store 1	REF3714	Supplier issue
+MOV00391	2023-09-26	P049	Transfer	77	Online Fulfillment	REF6850	Regular operation
+MOV00392	2024-07-12	P007	Return	51	Store 2	REF1110	Supplier issue
+MOV00393	2023-08-14	P065	Damaged	-4	Online Fulfillment	REF7083	Regular operation
+MOV00394	2023-10-30	P014	Adjustment	-14	Store 2	REF6410	Regular operation
+MOV00395	2024-10-06	P082	Sale	-43	Online Fulfillment	REF3587	Quality check
+MOV00396	2023-12-09	P023	Purchase	-3	Warehouse B	REF1204	Quality check
+MOV00397	2024-08-17	P087	Damaged	22	Store 1	REF7262	Quality check
+MOV00398	2024-05-19	P049	Sale	32	Warehouse A	REF5811	
+MOV00399	2024-04-20	P034	Transfer	70	Warehouse A	REF6162	Regular operation
+MOV00400	2023-05-15	P087	Transfer	34	Store 1	REF7057	
+MOV00401	2024-09-04	P031	Damaged	89	Store 1	REF4663	Quality check
+MOV00402	2023-12-06	P065	Damaged	25	Online Fulfillment	REF2090	Supplier issue
+MOV00403	2024-08-27	P045	Sale	39	Online Fulfillment	REF6566	Quality check
+MOV00404	2023-05-17	P071	Damaged	71	Store 1	REF2297	Quality check
+MOV00405	2023-01-08	P074	Damaged	-39	Warehouse A	REF9981	Regular operation
+MOV00406	2024-05-23	P086	Return	97	Store 2	REF5086	Regular operation
+MOV00407	2023-05-06	P011	Return	58	Warehouse B	REF4439	Supplier issue
+MOV00408	2023-01-27	P073	Transfer	-26	Warehouse A	REF6152	Regular operation
+MOV00409	2023-10-16	P087	Return	49	Warehouse A	REF8410	Customer return
+MOV00410	2023-03-05	P004	Damaged	42	Online Fulfillment	REF9040	Customer return
+MOV00411	2024-06-16	P027	Return	24	Store 1	REF5465	Quality check
+MOV00412	2023-04-02	P003	Damaged	26	Warehouse B	REF1273	
+MOV00413	2023-10-29	P012	Transfer	-3	Online Fulfillment	REF7669	Customer return
+MOV00414	2023-10-05	P073	Purchase	69	Online Fulfillment	REF8257	Quality check
+MOV00415	2023-11-29	P043	Purchase	45	Store 1	REF2956	Customer return
+MOV00416	2023-05-04	P078	Purchase	96	Warehouse B	REF8503	Customer return
+MOV00417	2024-04-03	P098	Adjustment	-50	Store 2	REF7210	Regular operation
+MOV00418	2024-11-29	P052	Purchase	58	Online Fulfillment	REF5515	Regular operation
+MOV00419	2023-08-05	P098	Return	-25	Warehouse B	REF9879	Customer return
+MOV00420	2024-07-23	P027	Adjustment	30	Store 1	REF6971	
+MOV00421	2023-06-13	P063	Adjustment	-35	Store 2	REF3152	Quality check
+MOV00422	2024-03-01	P077	Damaged	-22	Store 1	REF7367	
+MOV00423	2024-11-19	P086	Return	-43	Store 2	REF1341	
+MOV00424	2024-10-22	P023	Adjustment	58	Warehouse A	REF1318	Regular operation
+MOV00425	2023-06-23	P092	Sale	40	Warehouse A	REF3252	Regular operation
+MOV00426	2024-09-30	P098	Return	43	Online Fulfillment	REF7287	
+MOV00427	2023-04-23	P043	Adjustment	2	Store 1	REF5282	Quality check
+MOV00428	2024-07-29	P045	Damaged	58	Warehouse B	REF4350	Supplier issue
+MOV00429	2024-01-03	P073	Transfer	18	Online Fulfillment	REF2393	Quality check
+MOV00430	2024-07-07	P095	Adjustment	85	Store 2	REF1044	Regular operation
+MOV00431	2024-07-28	P067	Purchase	-28	Warehouse A	REF4776	Quality check
+MOV00432	2024-04-29	P079	Return	-10	Warehouse B	REF4310	Regular operation
+MOV00433	2023-09-30	P031	Sale	20	Warehouse A	REF8244	Regular operation
+MOV00434	2024-11-16	P060	Purchase	-13	Store 2	REF9244	Supplier issue
+MOV00435	2024-09-08	P054	Sale	12	Online Fulfillment	REF8951	
+MOV00436	2024-10-23	P006	Transfer	-33	Warehouse B	REF3820	Quality check
+MOV00437	2023-02-21	P065	Sale	-4	Warehouse A	REF6001	Customer return
+MOV00438	2024-06-15	P038	Damaged	11	Store 1	REF2838	
+MOV00439	2024-05-17	P066	Transfer	-25	Store 2	REF5184	
+MOV00440	2023-12-28	P061	Purchase	-42	Store 1	REF3313	Customer return
+MOV00441	2024-09-29	P076	Purchase	-47	Warehouse B	REF9375	Customer return
+MOV00442	2023-06-18	P018	Return	-26	Store 2	REF1716	Regular operation
+MOV00443	2024-07-06	P100	Damaged	7	Warehouse A	REF4908	Supplier issue
+MOV00444	2024-05-19	P087	Return	3	Store 1	REF1572	Quality check
+MOV00445	2023-03-02	P044	Damaged	71	Online Fulfillment	REF3794	Customer return
+MOV00446	2024-12-25	P082	Purchase	77	Warehouse B	REF4653	Quality check
+MOV00447	2023-12-22	P067	Purchase	9	Store 2	REF9205	Quality check
+MOV00448	2023-06-16	P007	Purchase	35	Warehouse B	REF8970	
+MOV00449	2024-03-04	P071	Return	23	Store 2	REF3878	Regular operation
+MOV00450	2023-04-05	P050	Adjustment	-48	Warehouse A	REF7833	Quality check
+MOV00451	2023-02-14	P066	Sale	-23	Warehouse B	REF5388	Regular operation
+MOV00452	2024-04-13	P100	Damaged	46	Store 2	REF5660	Customer return
+MOV00453	2024-11-14	P028	Adjustment	-11	Online Fulfillment	REF3095	Regular operation
+MOV00454	2024-12-13	P032	Damaged	35	Warehouse A	REF2645	Regular operation
+MOV00455	2023-09-03	P035	Return	46	Online Fulfillment	REF6344	Regular operation
+MOV00456	2024-08-27	P017	Transfer	-29	Online Fulfillment	REF5674	
+MOV00457	2024-08-22	P076	Return	41	Store 1	REF5554	
+MOV00458	2024-03-25	P019	Return	25	Store 2	REF3403	Regular operation
+MOV00459	2023-10-23	P063	Return	28	Warehouse B	REF2765	Supplier issue
+MOV00460	2024-01-05	P053	Sale	95	Store 1	REF1031	Customer return
+MOV00461	2024-01-29	P042	Purchase	22	Store 1	REF5236	Customer return
+MOV00462	2024-03-06	P089	Return	74	Store 1	REF9467	Regular operation
+MOV00463	2023-10-27	P095	Return	-10	Store 1	REF3205	
+MOV00464	2024-06-07	P069	Damaged	50	Store 1	REF7208	Customer return
+MOV00465	2023-01-18	P072	Transfer	8	Warehouse A	REF5096	Quality check
+MOV00466	2023-03-26	P061	Transfer	25	Warehouse B	REF2252	Quality check
+MOV00467	2024-09-02	P013	Sale	61	Online Fulfillment	REF9179	Customer return
+MOV00468	2023-09-24	P068	Sale	4	Store 2	REF8944	Supplier issue
+MOV00469	2023-05-16	P096	Adjustment	-19	Store 1	REF5118	Quality check
+MOV00470	2023-06-17	P033	Purchase	-8	Store 1	REF1024	Quality check
+MOV00471	2024-06-23	P087	Sale	20	Warehouse A	REF4048	Customer return
+MOV00472	2024-05-01	P018	Sale	8	Store 2	REF3395	Regular operation
+MOV00473	2024-03-31	P039	Purchase	73	Store 1	REF4547	Supplier issue
+MOV00474	2023-02-20	P087	Purchase	59	Warehouse B	REF3641	Quality check
+MOV00475	2024-09-02	P078	Transfer	92	Store 2	REF8471	Quality check
+MOV00476	2023-08-20	P048	Sale	-26	Warehouse A	REF9699	Customer return
+MOV00477	2024-06-26	P025	Damaged	67	Store 1	REF6838	
+MOV00478	2023-07-03	P054	Sale	-10	Warehouse A	REF9641	
+MOV00479	2023-10-15	P099	Return	-25	Warehouse A	REF9574	Customer return
+MOV00480	2024-06-03	P073	Damaged	98	Online Fulfillment	REF2529	
+MOV00481	2023-05-06	P013	Transfer	19	Warehouse B	REF2967	Supplier issue
+MOV00482	2024-12-28	P072	Sale	23	Warehouse B	REF1033	Supplier issue
+MOV00483	2023-09-19	P025	Sale	100	Store 1	REF6560	Quality check
+MOV00484	2023-11-13	P026	Sale	22	Online Fulfillment	REF8434	Regular operation
+MOV00485	2024-09-02	P057	Sale	-47	Store 1	REF1827	
+MOV00486	2024-11-22	P028	Sale	24	Warehouse B	REF5538	Quality check
+MOV00487	2024-10-03	P099	Purchase	-44	Online Fulfillment	REF2327	Supplier issue
+MOV00488	2023-08-19	P015	Adjustment	-1	Warehouse B	REF3191	Customer return
+MOV00489	2024-10-25	P030	Purchase	82	Store 2	REF3796	Customer return
+MOV00490	2023-09-18	P062	Transfer	11	Online Fulfillment	REF1465	Supplier issue
+MOV00491	2023-05-02	P018	Purchase	-8	Store 1	REF9122	
+MOV00492	2024-07-06	P076	Adjustment	-31	Warehouse A	REF3400	Customer return
+MOV00493	2023-04-25	P073	Transfer	-5	Store 2	REF3667	Customer return
+MOV00494	2023-10-25	P084	Transfer	42	Warehouse B	REF1611	Supplier issue
+MOV00495	2024-01-29	P074	Transfer	-31	Store 1	REF3348	
+MOV00496	2023-08-04	P011	Purchase	94	Store 2	REF9077	
+MOV00497	2024-08-13	P046	Purchase	59	Store 2	REF6870	Regular operation
+MOV00498	2023-04-20	P069	Purchase	-37	Store 1	REF5522	Customer return
+MOV00499	2023-01-22	P097	Sale	69	Store 2	REF7387	Regular operation
+MOV00500	2023-04-30	P086	Sale	6	Warehouse A	REF7372	Quality check
+MOV00501	2023-12-14	P061	Return	-27	Warehouse A	REF1550	Regular operation
+MOV00502	2023-08-09	P050	Adjustment	87	Store 1	REF8724	Customer return
+MOV00503	2023-09-02	P075	Adjustment	10	Online Fulfillment	REF5425	Supplier issue
+MOV00504	2024-10-16	P012	Damaged	89	Store 1	REF6998	
+MOV00505	2023-03-18	P050	Sale	-38	Warehouse B	REF2755	Quality check
+MOV00506	2024-08-29	P010	Transfer	-10	Warehouse B	REF7669	Quality check
+MOV00507	2024-04-30	P018	Return	-22	Warehouse A	REF3283	
+MOV00508	2024-11-10	P067	Purchase	2	Warehouse A	REF1863	Quality check
+MOV00509	2024-01-25	P020	Sale	62	Warehouse A	REF6946	Regular operation
+MOV00510	2024-01-28	P059	Damaged	25	Online Fulfillment	REF3857	Customer return
+MOV00511	2023-06-13	P020	Transfer	-10	Store 1	REF5609	Supplier issue
+MOV00512	2023-12-11	P097	Damaged	21	Store 2	REF7161	Quality check
+MOV00513	2023-03-20	P056	Transfer	-27	Store 1	REF7071	Customer return
+MOV00514	2024-09-01	P007	Sale	48	Store 1	REF4691	Customer return
+MOV00515	2023-10-16	P021	Sale	62	Warehouse B	REF5188	Supplier issue
+MOV00516	2024-03-10	P058	Adjustment	-18	Warehouse B	REF7706	Supplier issue
+MOV00517	2024-02-04	P010	Adjustment	27	Store 2	REF1194	Customer return
+MOV00518	2023-12-31	P097	Return	-8	Warehouse B	REF5820	Quality check
+MOV00519	2024-12-09	P006	Return	59	Store 1	REF3413	Customer return
+MOV00520	2023-10-23	P078	Adjustment	86	Warehouse A	REF7151	Customer return
+MOV00521	2023-08-23	P062	Purchase	51	Warehouse A	REF4097	Customer return
+MOV00522	2024-06-07	P080	Adjustment	6	Warehouse A	REF2778	Supplier issue
+MOV00523	2023-02-17	P016	Return	47	Store 1	REF4842	
+MOV00524	2024-09-09	P048	Sale	-27	Warehouse A	REF6209	Customer return
+MOV00525	2023-07-07	P033	Purchase	-27	Store 1	REF1375	Customer return
+MOV00526	2023-08-07	P082	Adjustment	-35	Online Fulfillment	REF7813	
+MOV00527	2023-01-28	P068	Transfer	11	Store 1	REF9639	Customer return
+MOV00528	2023-12-27	P065	Damaged	7	Store 2	REF5273	Customer return
+MOV00529	2023-09-27	P082	Transfer	64	Store 1	REF8355	
+MOV00530	2024-08-01	P099	Damaged	73	Store 1	REF3178	Customer return
+MOV00531	2023-10-27	P021	Damaged	98	Warehouse A	REF5968	Quality check
+MOV00532	2024-01-29	P068	Sale	72	Store 1	REF7612	
+MOV00533	2023-09-19	P075	Adjustment	85	Store 1	REF2011	Supplier issue
+MOV00534	2024-06-19	P083	Adjustment	73	Warehouse B	REF6200	Quality check
+MOV00535	2023-02-28	P098	Transfer	-23	Store 1	REF9682	Regular operation
+MOV00536	2024-07-10	P052	Adjustment	83	Online Fulfillment	REF5285	Customer return
+MOV00537	2023-04-21	P014	Transfer	6	Warehouse B	REF5643	Supplier issue
+MOV00538	2024-05-08	P010	Damaged	94	Online Fulfillment	REF3528	Supplier issue
+MOV00539	2023-12-11	P022	Sale	62	Warehouse A	REF1332	Regular operation
+MOV00540	2023-05-31	P094	Transfer	44	Online Fulfillment	REF7318	Quality check
+MOV00541	2023-11-22	P010	Transfer	74	Store 1	REF8412	Regular operation
+MOV00542	2024-01-11	P027	Sale	-40	Online Fulfillment	REF5025	Supplier issue
+MOV00543	2023-03-20	P029	Damaged	-45	Warehouse A	REF5726	Customer return
+MOV00544	2024-02-22	P036	Purchase	73	Warehouse B	REF5734	Regular operation
+MOV00545	2024-11-04	P008	Sale	59	Store 2	REF6375	
+MOV00546	2023-01-15	P050	Transfer	6	Warehouse B	REF9590	
+MOV00547	2023-09-30	P006	Purchase	-27	Store 2	REF2271	Quality check
+MOV00548	2023-02-04	P097	Sale	74	Warehouse A	REF8535	Regular operation
+MOV00549	2024-06-25	P034	Adjustment	67	Online Fulfillment	REF1935	
+MOV00550	2024-04-21	P061	Damaged	9	Store 2	REF4541	Regular operation
+MOV00551	2024-03-02	P074	Sale	64	Store 1	REF3775	Supplier issue
+MOV00552	2023-11-13	P053	Purchase	-29	Warehouse A	REF1265	Supplier issue
+MOV00553	2024-10-14	P078	Damaged	63	Store 2	REF5785	Regular operation
+MOV00554	2023-01-02	P077	Damaged	68	Warehouse A	REF2032	
+MOV00555	2023-08-09	P017	Return	51	Store 2	REF2168	
+MOV00556	2023-01-09	P049	Purchase	-50	Online Fulfillment	REF6549	Quality check
+MOV00557	2024-04-09	P006	Purchase	77	Warehouse A	REF1338	Regular operation
+MOV00558	2023-01-07	P020	Sale	-17	Warehouse A	REF3773	Supplier issue
+MOV00559	2024-07-27	P028	Transfer	-40	Store 1	REF2569	Regular operation
+MOV00560	2023-05-05	P010	Transfer	-33	Store 2	REF4210	Customer return
+MOV00561	2024-08-25	P015	Purchase	47	Store 2	REF8149	
+MOV00562	2024-06-14	P062	Purchase	-40	Warehouse A	REF5613	
+MOV00563	2023-11-09	P011	Purchase	58	Warehouse B	REF3940	
+MOV00564	2023-06-03	P096	Sale	42	Warehouse A	REF7244	Customer return
+MOV00565	2023-05-19	P076	Return	79	Store 2	REF2991	Supplier issue
+MOV00566	2024-04-01	P019	Purchase	-34	Store 2	REF1323	Quality check
+MOV00567	2023-12-01	P033	Return	49	Store 1	REF6354	Regular operation
+MOV00568	2023-06-10	P091	Return	-10	Warehouse A	REF9491	Quality check
+MOV00569	2023-11-30	P034	Damaged	84	Warehouse A	REF6428	Supplier issue
+MOV00570	2023-12-20	P080	Return	-50	Warehouse B	REF5823	Quality check
+MOV00571	2023-09-15	P084	Sale	57	Warehouse B	REF5015	Customer return
+MOV00572	2023-07-03	P030	Purchase	68	Store 1	REF5710	
+MOV00573	2024-03-29	P064	Purchase	-1	Warehouse B	REF1039	Quality check
+MOV00574	2023-01-18	P052	Purchase	2	Online Fulfillment	REF3134	Regular operation
+MOV00575	2023-08-29	P014	Transfer	56	Store 2	REF7968	Supplier issue
+MOV00576	2023-10-14	P040	Transfer	-8	Warehouse B	REF9360	Supplier issue
+MOV00577	2024-07-21	P002	Adjustment	-1	Online Fulfillment	REF2012	Regular operation
+MOV00578	2023-11-03	P079	Adjustment	8	Warehouse A	REF7335	Supplier issue
+MOV00579	2024-02-05	P058	Adjustment	-6	Online Fulfillment	REF7198	Regular operation
+MOV00580	2024-10-09	P021	Damaged	61	Store 1	REF2148	Regular operation
+MOV00581	2023-09-21	P092	Adjustment	-19	Store 2	REF5879	
+MOV00582	2023-12-02	P033	Return	78	Store 1	REF5991	Supplier issue
+MOV00583	2023-12-19	P060	Adjustment	-20	Warehouse B	REF8376	Regular operation
+MOV00584	2023-12-19	P026	Return	-8	Store 2	REF9224	
+MOV00585	2023-08-05	P082	Sale	83	Store 2	REF4522	Quality check
+MOV00586	2023-06-27	P060	Adjustment	59	Store 1	REF5211	
+MOV00587	2024-10-08	P038	Sale	77	Store 1	REF5745	Supplier issue
+MOV00588	2024-12-06	P040	Return	20	Warehouse A	REF4098	Regular operation
+MOV00589	2023-01-29	P020	Damaged	-25	Store 1	REF4828	Supplier issue
+MOV00590	2024-03-01	P042	Transfer	25	Store 1	REF4297	
+MOV00591	2024-07-20	P023	Sale	-16	Warehouse B	REF6007	Customer return
+MOV00592	2023-09-08	P028	Return	49	Store 2	REF9432	Quality check
+MOV00593	2023-05-16	P100	Transfer	56	Store 1	REF8934	Customer return
+MOV00594	2023-11-07	P078	Damaged	-12	Warehouse A	REF4622	
+MOV00595	2024-07-14	P001	Purchase	1	Warehouse B	REF8646	Supplier issue
+MOV00596	2023-03-16	P079	Purchase	43	Store 2	REF8894	Regular operation
+MOV00597	2023-04-12	P040	Purchase	-21	Warehouse A	REF6834	
+MOV00598	2023-04-21	P082	Adjustment	-11	Warehouse B	REF2132	Customer return
+MOV00599	2023-09-07	P079	Return	-9	Online Fulfillment	REF2201	Regular operation
+MOV00600	2024-01-02	P070	Adjustment	53	Store 1	REF1639	
+MOV00601	2023-03-07	P049	Sale	64	Store 1	REF1371	Customer return
+MOV00602	2024-03-25	P096	Transfer	-15	Warehouse A	REF7072	Regular operation
+MOV00603	2023-02-09	P084	Transfer	92	Warehouse A	REF2017	Regular operation
+MOV00604	2024-10-21	P075	Return	25	Warehouse B	REF1247	Regular operation
+MOV00605	2023-05-23	P059	Adjustment	7	Warehouse B	REF1231	Supplier issue
+MOV00606	2023-12-10	P051	Transfer	24	Warehouse B	REF8314	Supplier issue
+MOV00607	2024-10-05	P025	Transfer	-48	Online Fulfillment	REF3836	Supplier issue
+MOV00608	2023-07-22	P022	Adjustment	63	Store 2	REF4708	Regular operation
+MOV00609	2023-03-31	P040	Sale	-30	Warehouse A	REF8516	Customer return
+MOV00610	2023-08-23	P077	Transfer	71	Warehouse A	REF5527	Regular operation
+MOV00611	2023-09-30	P024	Adjustment	24	Warehouse B	REF4616	Regular operation
+MOV00612	2024-01-21	P086	Return	47	Warehouse A	REF5608	Quality check
+MOV00613	2024-06-02	P094	Sale	79	Warehouse A	REF7767	Supplier issue
+MOV00614	2023-11-04	P091	Damaged	-16	Online Fulfillment	REF6127	Customer return
+MOV00615	2023-02-22	P046	Transfer	22	Store 2	REF5252	Quality check
+MOV00616	2024-07-25	P075	Return	75	Store 1	REF3188	
+MOV00617	2024-08-26	P062	Sale	28	Store 1	REF8507	
+MOV00618	2024-07-23	P076	Transfer	-5	Warehouse B	REF5714	Customer return
+MOV00619	2023-12-20	P089	Return	-44	Store 1	REF3480	Regular operation
+MOV00620	2023-01-22	P002	Purchase	26	Online Fulfillment	REF7544	Regular operation
+MOV00621	2023-04-23	P098	Adjustment	64	Online Fulfillment	REF6271	Customer return
+MOV00622	2024-01-16	P027	Transfer	-42	Store 1	REF8211	
+MOV00623	2024-07-13	P049	Adjustment	-18	Store 2	REF3895	Quality check
+MOV00624	2023-08-31	P073	Return	11	Warehouse A	REF1532	Quality check
+MOV00625	2024-11-01	P045	Damaged	39	Warehouse B	REF6483	Quality check
+MOV00626	2024-10-16	P048	Adjustment	2	Store 2	REF8987	Quality check
+MOV00627	2023-04-19	P023	Return	-10	Store 1	REF6933	
+MOV00628	2024-05-16	P005	Purchase	6	Warehouse A	REF2916	Regular operation
+MOV00629	2024-03-31	P045	Purchase	75	Warehouse B	REF4379	Customer return
+MOV00630	2024-07-24	P026	Adjustment	-14	Store 1	REF3889	Regular operation
+MOV00631	2023-12-11	P012	Return	59	Online Fulfillment	REF6063	Customer return
+MOV00632	2023-08-14	P071	Adjustment	90	Store 2	REF2145	Supplier issue
+MOV00633	2023-03-12	P030	Return	5	Store 1	REF9413	
+MOV00634	2023-03-27	P008	Return	21	Online Fulfillment	REF3852	Customer return
+MOV00635	2024-03-19	P021	Damaged	73	Warehouse B	REF7955	Customer return
+MOV00636	2023-07-23	P087	Sale	-19	Store 2	REF2350	Quality check
+MOV00637	2023-01-01	P083	Transfer	-14	Online Fulfillment	REF7892	
+MOV00638	2024-11-08	P093	Damaged	71	Online Fulfillment	REF5804	Quality check
+MOV00639	2024-11-13	P089	Adjustment	73	Store 1	REF2685	Customer return
+MOV00640	2023-08-16	P051	Damaged	62	Warehouse B	REF1772	
+MOV00641	2024-03-26	P096	Return	-41	Store 2	REF7152	
+MOV00642	2024-08-30	P014	Damaged	-18	Online Fulfillment	REF6140	Supplier issue
+MOV00643	2024-06-14	P043	Transfer	20	Store 1	REF2289	Supplier issue
+MOV00644	2023-10-20	P074	Sale	2	Warehouse A	REF2372	Regular operation
+MOV00645	2023-11-24	P049	Damaged	88	Store 1	REF6114	Regular operation
+MOV00646	2023-06-24	P050	Damaged	-18	Warehouse A	REF9485	Regular operation
+MOV00647	2024-02-07	P092	Damaged	-48	Warehouse B	REF7698	Quality check
+MOV00648	2023-06-23	P030	Damaged	44	Warehouse A	REF6330	Quality check
+MOV00649	2023-05-29	P077	Damaged	-28	Store 2	REF6801	Supplier issue
+MOV00650	2023-04-06	P026	Damaged	-35	Store 2	REF4939	
+MOV00651	2024-06-11	P057	Purchase	24	Online Fulfillment	REF5737	Customer return
+MOV00652	2023-10-05	P040	Sale	-43	Warehouse A	REF8605	Customer return
+MOV00653	2023-12-12	P087	Adjustment	75	Store 2	REF5767	Regular operation
+MOV00654	2024-10-25	P038	Adjustment	38	Warehouse A	REF9215	Quality check
+MOV00655	2023-04-10	P052	Sale	1	Warehouse B	REF7011	Quality check
+MOV00656	2023-09-06	P091	Adjustment	0	Warehouse A	REF6447	Supplier issue
+MOV00657	2023-12-28	P060	Damaged	79	Store 2	REF7616	Regular operation
+MOV00658	2024-04-09	P008	Sale	36	Warehouse A	REF8479	Supplier issue
+MOV00659	2024-03-13	P055	Purchase	48	Online Fulfillment	REF6851	Regular operation
+MOV00660	2024-06-11	P047	Damaged	-13	Store 2	REF2341	Regular operation
+MOV00661	2024-03-06	P066	Transfer	54	Store 1	REF6671	Quality check
+MOV00662	2023-05-20	P050	Return	77	Store 1	REF2757	Customer return
+MOV00663	2023-03-07	P024	Damaged	19	Warehouse A	REF5259	Quality check
+MOV00664	2024-08-05	P056	Transfer	22	Online Fulfillment	REF4446	Customer return
+MOV00665	2024-08-20	P099	Adjustment	-38	Warehouse A	REF1087	Regular operation
+MOV00666	2024-07-19	P085	Damaged	-11	Warehouse A	REF9415	Supplier issue
+MOV00667	2023-04-19	P050	Damaged	5	Online Fulfillment	REF2994	
+MOV00668	2023-08-09	P091	Damaged	98	Warehouse B	REF8811	Regular operation
+MOV00669	2024-08-02	P013	Transfer	97	Warehouse B	REF2733	
+MOV00670	2024-07-01	P062	Transfer	-18	Warehouse A	REF7771	Customer return
+MOV00671	2023-01-03	P013	Transfer	-32	Store 2	REF6931	Supplier issue
+MOV00672	2024-03-07	P096	Purchase	-24	Online Fulfillment	REF1524	
+MOV00673	2024-03-17	P092	Adjustment	31	Warehouse B	REF3066	Supplier issue
+MOV00674	2023-05-15	P040	Transfer	-28	Store 1	REF3108	
+MOV00675	2024-09-21	P029	Sale	80	Warehouse A	REF7614	Supplier issue
+MOV00676	2023-12-12	P096	Purchase	74	Store 2	REF4291	Regular operation
+MOV00677	2023-07-31	P011	Transfer	67	Store 1	REF5030	Regular operation
+MOV00678	2023-09-03	P042	Sale	75	Store 2	REF3987	Customer return
+MOV00679	2023-12-17	P079	Sale	75	Store 2	REF7060	Regular operation
+MOV00680	2023-04-06	P067	Sale	32	Store 2	REF7944	Customer return
+MOV00681	2023-04-23	P050	Sale	-22	Store 2	REF3777	Supplier issue
+MOV00682	2023-04-08	P099	Return	14	Online Fulfillment	REF4183	Supplier issue
+MOV00683	2023-06-26	P069	Purchase	-1	Store 1	REF2990	Quality check
+MOV00684	2023-12-08	P004	Sale	1	Store 1	REF7590	Regular operation
+MOV00685	2024-12-31	P061	Return	56	Online Fulfillment	REF8224	Customer return
+MOV00686	2024-04-01	P039	Damaged	25	Store 2	REF6165	Customer return
+MOV00687	2024-12-26	P033	Transfer	-14	Warehouse A	REF9442	Supplier issue
+MOV00688	2023-08-11	P079	Transfer	-5	Warehouse A	REF3082	Customer return
+MOV00689	2023-11-30	P066	Transfer	75	Store 2	REF5579	Regular operation
+MOV00690	2023-12-26	P008	Sale	-34	Store 1	REF2086	Quality check
+MOV00691	2023-11-14	P098	Damaged	47	Store 1	REF1882	
+MOV00692	2024-12-22	P085	Adjustment	32	Store 2	REF8025	Quality check
+MOV00693	2024-07-12	P063	Return	25	Store 2	REF9060	Regular operation
+MOV00694	2023-08-22	P040	Purchase	-8	Store 1	REF4905	
+MOV00695	2024-12-13	P100	Damaged	13	Store 1	REF2429	Regular operation
+MOV00696	2024-03-10	P048	Adjustment	-16	Online Fulfillment	REF8299	Supplier issue
+MOV00697	2024-01-27	P047	Adjustment	-10	Warehouse A	REF7897	Supplier issue
+MOV00698	2024-10-08	P007	Sale	9	Warehouse B	REF7158	Supplier issue
+MOV00699	2024-11-27	P063	Adjustment	15	Store 1	REF2555	Regular operation
+MOV00700	2024-12-01	P072	Return	1	Online Fulfillment	REF8686	Regular operation
+MOV00701	2023-04-25	P067	Sale	-36	Warehouse A	REF4569	Customer return
+MOV00702	2023-02-06	P080	Damaged	12	Store 1	REF9374	Quality check
+MOV00703	2024-05-03	P095	Damaged	-21	Store 2	REF4245	Quality check
+MOV00704	2023-02-24	P028	Purchase	-48	Store 2	REF7510	Supplier issue
+MOV00705	2023-10-16	P056	Damaged	42	Warehouse A	REF9217	Customer return
+MOV00706	2024-05-01	P066	Transfer	77	Online Fulfillment	REF8651	
+MOV00707	2024-07-16	P066	Return	39	Online Fulfillment	REF9054	
+MOV00708	2023-12-31	P060	Damaged	98	Store 2	REF2397	Regular operation
+MOV00709	2023-10-27	P077	Purchase	67	Online Fulfillment	REF5812	Supplier issue
+MOV00710	2023-03-10	P083	Transfer	-37	Store 2	REF3898	Quality check
+MOV00711	2024-10-15	P092	Transfer	40	Warehouse A	REF1339	
+MOV00712	2024-10-26	P093	Damaged	2	Warehouse B	REF9080	
+MOV00713	2024-02-12	P051	Transfer	58	Online Fulfillment	REF9604	Customer return
+MOV00714	2023-05-30	P003	Purchase	8	Warehouse B	REF7312	Customer return
+MOV00715	2023-03-03	P083	Sale	-38	Store 1	REF3290	Customer return
+MOV00716	2023-04-07	P013	Return	-7	Warehouse A	REF8257	Supplier issue
+MOV00717	2024-01-18	P013	Sale	5	Store 1	REF3912	
+MOV00718	2023-10-17	P077	Return	71	Store 2	REF1869	Quality check
+MOV00719	2024-12-30	P081	Transfer	56	Warehouse A	REF1496	
+MOV00720	2023-10-04	P081	Damaged	95	Warehouse B	REF8829	Regular operation
+MOV00721	2023-11-05	P099	Return	2	Online Fulfillment	REF7949	
+MOV00722	2024-03-30	P051	Purchase	-14	Online Fulfillment	REF8350	Supplier issue
+MOV00723	2024-05-17	P049	Sale	-21	Warehouse B	REF6493	Customer return
+MOV00724	2024-10-08	P042	Adjustment	-33	Store 1	REF4713	Regular operation
+MOV00725	2023-12-19	P095	Sale	81	Warehouse B	REF5983	
+MOV00726	2024-10-18	P074	Transfer	42	Warehouse B	REF2087	Quality check
+MOV00727	2023-02-21	P005	Transfer	34	Online Fulfillment	REF1697	Customer return
+MOV00728	2023-02-18	P100	Purchase	-6	Store 1	REF2703	Supplier issue
+MOV00729	2023-02-02	P028	Adjustment	14	Warehouse B	REF4991	Supplier issue
+MOV00730	2023-09-12	P028	Purchase	2	Store 1	REF3442	Customer return
+MOV00731	2023-03-06	P038	Damaged	62	Warehouse A	REF9398	
+MOV00732	2024-05-08	P051	Sale	-31	Store 2	REF8684	
+MOV00733	2024-11-06	P094	Damaged	25	Warehouse B	REF3910	Regular operation
+MOV00734	2023-02-05	P014	Adjustment	-16	Store 2	REF5383	
+MOV00735	2023-05-17	P011	Damaged	37	Warehouse A	REF8866	Customer return
+MOV00736	2023-01-21	P094	Adjustment	95	Store 2	REF4865	Regular operation
+MOV00737	2023-08-19	P019	Return	-35	Store 1	REF7381	Regular operation
+MOV00738	2024-09-29	P054	Damaged	31	Warehouse A	REF7494	Supplier issue
+MOV00739	2023-06-25	P062	Purchase	20	Store 1	REF8933	Regular operation
+MOV00740	2024-03-10	P041	Damaged	86	Store 2	REF9313	Supplier issue
+MOV00741	2023-06-16	P099	Sale	63	Online Fulfillment	REF7095	Supplier issue
+MOV00742	2024-04-18	P013	Damaged	68	Warehouse A	REF3915	Regular operation
+MOV00743	2024-08-12	P076	Transfer	-1	Online Fulfillment	REF2415	Supplier issue
+MOV00744	2024-01-24	P093	Damaged	72	Warehouse A	REF9019	Regular operation
+MOV00745	2023-01-02	P017	Sale	62	Online Fulfillment	REF7945	Quality check
+MOV00746	2023-10-11	P040	Return	-4	Store 2	REF9286	Customer return
+MOV00747	2023-07-20	P001	Damaged	-48	Warehouse B	REF9930	Supplier issue
+MOV00748	2024-05-27	P082	Purchase	57	Store 1	REF7940	Customer return
+MOV00749	2024-07-31	P040	Damaged	-28	Online Fulfillment	REF7792	
+MOV00750	2024-10-23	P094	Return	80	Store 2	REF5452	
+MOV00751	2024-12-28	P025	Damaged	-5	Warehouse A	REF4432	
+MOV00752	2023-05-25	P022	Adjustment	91	Store 2	REF9211	Supplier issue
+MOV00753	2023-01-27	P083	Damaged	2	Store 2	REF7013	Customer return
+MOV00754	2024-05-17	P069	Return	23	Store 1	REF8931	Supplier issue
+MOV00755	2023-11-29	P028	Purchase	98	Warehouse B	REF5270	Supplier issue
+MOV00756	2023-10-22	P027	Purchase	79	Warehouse A	REF4645	Quality check
+MOV00757	2023-06-03	P023	Return	67	Store 1	REF1312	Customer return
+MOV00758	2023-03-19	P018	Sale	57	Store 2	REF6012	Quality check
+MOV00759	2024-12-09	P048	Damaged	-50	Online Fulfillment	REF5607	Customer return
+MOV00760	2024-01-14	P095	Damaged	63	Warehouse B	REF2606	Customer return
+MOV00761	2024-08-06	P020	Damaged	58	Store 2	REF3905	Quality check
+MOV00762	2024-11-04	P033	Adjustment	62	Store 2	REF1039	Quality check
+MOV00763	2024-07-22	P020	Damaged	78	Warehouse A	REF8885	Regular operation
+MOV00764	2023-03-04	P007	Sale	15	Store 1	REF9611	
+MOV00765	2024-11-24	P098	Adjustment	19	Warehouse A	REF8533	
+MOV00766	2023-09-03	P077	Transfer	49	Online Fulfillment	REF8837	
+MOV00767	2023-09-08	P085	Damaged	7	Online Fulfillment	REF4327	Quality check
+MOV00768	2024-06-01	P026	Damaged	0	Online Fulfillment	REF8309	Supplier issue
+MOV00769	2024-07-21	P066	Sale	91	Store 2	REF9552	
+MOV00770	2024-06-26	P020	Return	81	Warehouse A	REF8330	Quality check
+MOV00771	2024-07-24	P093	Adjustment	87	Warehouse A	REF7207	Customer return
+MOV00772	2023-07-04	P096	Sale	13	Store 1	REF1608	Supplier issue
+MOV00773	2024-10-12	P078	Damaged	10	Store 2	REF9903	Supplier issue
+MOV00774	2023-08-27	P094	Damaged	42	Warehouse B	REF2867	
+MOV00775	2024-09-10	P067	Purchase	46	Online Fulfillment	REF5188	
+MOV00776	2024-02-18	P004	Damaged	0	Warehouse B	REF5740	Quality check
+MOV00777	2024-08-31	P100	Transfer	39	Warehouse A	REF9866	Supplier issue
+MOV00778	2024-04-19	P020	Damaged	-11	Store 2	REF8109	Quality check
+MOV00779	2024-07-01	P012	Purchase	65	Store 2	REF8214	Supplier issue
+MOV00780	2024-03-30	P100	Transfer	55	Store 2	REF4750	
+MOV00781	2024-05-08	P010	Transfer	-33	Online Fulfillment	REF1743	Customer return
+MOV00782	2024-10-29	P074	Adjustment	17	Store 2	REF9214	
+MOV00783	2024-08-05	P030	Sale	-42	Store 1	REF4531	Supplier issue
+MOV00784	2023-10-15	P006	Damaged	58	Warehouse B	REF5199	Quality check
+MOV00785	2024-02-02	P016	Purchase	10	Warehouse B	REF3480	Customer return
+MOV00786	2024-07-23	P089	Adjustment	77	Warehouse B	REF7382	Customer return
+MOV00787	2023-04-22	P068	Transfer	20	Online Fulfillment	REF2819	
+MOV00788	2024-07-03	P053	Adjustment	-30	Warehouse B	REF3313	
+MOV00789	2023-11-05	P003	Adjustment	10	Store 1	REF8742	Quality check
+MOV00790	2023-09-28	P060	Adjustment	2	Online Fulfillment	REF6705	Supplier issue
+MOV00791	2023-05-31	P051	Damaged	83	Store 1	REF1565	Regular operation
+MOV00792	2024-04-21	P018	Transfer	26	Warehouse B	REF9325	Customer return
+MOV00793	2024-06-21	P100	Purchase	-44	Online Fulfillment	REF9371	Supplier issue
+MOV00794	2024-03-20	P088	Damaged	95	Warehouse B	REF5386	Customer return
+MOV00795	2024-12-07	P003	Return	-34	Store 1	REF1470	Customer return
+MOV00796	2024-05-30	P097	Adjustment	7	Store 1	REF8991	Customer return
+MOV00797	2023-10-07	P029	Return	32	Warehouse B	REF7253	Customer return
+MOV00798	2024-09-25	P073	Adjustment	-25	Warehouse A	REF8984	Supplier issue
+MOV00799	2024-08-10	P078	Damaged	63	Store 2	REF3333	Quality check
+MOV00800	2023-06-14	P019	Damaged	59	Store 1	REF7207	Regular operation
+MOV00801	2023-11-28	P031	Sale	-42	Warehouse A	REF3420	Supplier issue
+MOV00802	2023-01-12	P018	Adjustment	43	Warehouse A	REF8802	Supplier issue
+MOV00803	2024-09-18	P061	Damaged	61	Online Fulfillment	REF4985	
+MOV00804	2024-12-09	P005	Return	-23	Store 1	REF6871	Quality check
+MOV00805	2024-07-21	P049	Damaged	-48	Warehouse A	REF8124	
+MOV00806	2023-03-14	P020	Purchase	77	Store 1	REF1104	Regular operation
+MOV00807	2023-01-26	P052	Transfer	-30	Store 1	REF6995	
+MOV00808	2023-12-21	P073	Sale	99	Warehouse B	REF3353	Customer return
+MOV00809	2023-09-20	P041	Return	61	Store 1	REF3993	Quality check
+MOV00810	2023-07-05	P017	Purchase	27	Online Fulfillment	REF6064	Customer return
+MOV00811	2023-03-27	P025	Transfer	96	Online Fulfillment	REF7121	Regular operation
+MOV00812	2024-04-02	P052	Transfer	0	Warehouse B	REF1848	Quality check
+MOV00813	2024-07-18	P011	Return	61	Online Fulfillment	REF6359	
+MOV00814	2023-02-12	P062	Purchase	39	Store 2	REF7051	Regular operation
+MOV00815	2023-01-14	P056	Sale	55	Warehouse A	REF2043	Quality check
+MOV00816	2024-06-15	P063	Return	-40	Online Fulfillment	REF2852	Regular operation
+MOV00817	2024-04-09	P025	Purchase	46	Online Fulfillment	REF4755	
+MOV00818	2023-05-29	P009	Return	30	Warehouse B	REF9932	Supplier issue
+MOV00819	2024-06-15	P075	Transfer	98	Online Fulfillment	REF7496	Quality check
+MOV00820	2024-06-01	P074	Sale	-49	Warehouse B	REF5700	Regular operation
+MOV00821	2024-01-05	P019	Purchase	78	Store 1	REF1775	Customer return
+MOV00822	2024-01-28	P007	Transfer	-2	Warehouse A	REF2572	Quality check
+MOV00823	2024-10-30	P053	Purchase	17	Online Fulfillment	REF6798	
+MOV00824	2024-08-03	P054	Return	17	Online Fulfillment	REF2113	
+MOV00825	2023-10-06	P035	Purchase	11	Online Fulfillment	REF8010	Customer return
+MOV00826	2023-11-12	P059	Purchase	-3	Store 2	REF1842	Customer return
+MOV00827	2023-09-17	P066	Adjustment	28	Online Fulfillment	REF8732	Regular operation
+MOV00828	2023-12-11	P052	Adjustment	-11	Warehouse B	REF1449	Regular operation
+MOV00829	2024-01-16	P051	Purchase	99	Store 1	REF5459	Supplier issue
+MOV00830	2023-04-21	P047	Purchase	-26	Warehouse B	REF4623	Customer return
+MOV00831	2023-02-23	P054	Adjustment	45	Store 2	REF8090	Regular operation
+MOV00832	2024-01-04	P004	Return	-45	Online Fulfillment	REF6910	Customer return
+MOV00833	2024-12-13	P059	Adjustment	34	Store 2	REF9811	
+MOV00834	2023-08-06	P061	Transfer	13	Online Fulfillment	REF2576	
+MOV00835	2023-11-12	P063	Return	7	Store 2	REF3489	
+MOV00836	2024-08-30	P006	Damaged	-2	Store 1	REF3497	Regular operation
+MOV00837	2024-12-11	P099	Transfer	49	Warehouse A	REF3043	Regular operation
+MOV00838	2023-05-22	P059	Adjustment	19	Store 2	REF2167	Customer return
+MOV00839	2023-07-11	P033	Damaged	8	Warehouse B	REF2321	Regular operation
+MOV00840	2023-03-18	P081	Transfer	-38	Warehouse B	REF8157	Supplier issue
+MOV00841	2024-11-20	P018	Sale	74	Store 2	REF4148	
+MOV00842	2023-04-22	P029	Sale	-49	Online Fulfillment	REF9802	Quality check
+MOV00843	2023-04-11	P034	Return	-9	Warehouse B	REF9040	
+MOV00844	2023-01-14	P027	Return	48	Warehouse B	REF4212	Quality check
+MOV00845	2024-06-11	P057	Return	-11	Store 1	REF7829	Customer return
+MOV00846	2024-02-18	P071	Adjustment	55	Online Fulfillment	REF1558	Customer return
+MOV00847	2024-07-21	P006	Purchase	-38	Store 1	REF6729	Quality check
+MOV00848	2024-07-11	P015	Return	70	Store 1	REF1870	Regular operation
+MOV00849	2023-11-18	P035	Sale	89	Store 1	REF8439	
+MOV00850	2023-04-20	P072	Damaged	-38	Store 2	REF8439	
+MOV00851	2024-12-30	P036	Transfer	-23	Store 1	REF9691	
+MOV00852	2023-04-28	P045	Damaged	-21	Store 1	REF5441	Supplier issue
+MOV00853	2024-02-21	P012	Transfer	37	Store 1	REF2810	Supplier issue
+MOV00854	2023-04-06	P005	Purchase	54	Store 1	REF7799	Quality check
+MOV00855	2024-02-10	P051	Adjustment	87	Online Fulfillment	REF6931	Customer return
+MOV00856	2023-11-18	P086	Return	10	Store 2	REF4601	Supplier issue
+MOV00857	2024-05-23	P055	Adjustment	42	Online Fulfillment	REF6770	
+MOV00858	2024-09-05	P006	Sale	8	Store 1	REF5613	Quality check
+MOV00859	2023-08-27	P072	Purchase	59	Warehouse B	REF4023	Supplier issue
+MOV00860	2024-03-15	P035	Transfer	29	Online Fulfillment	REF2764	
+MOV00861	2024-10-25	P051	Purchase	29	Store 2	REF3624	
+MOV00862	2024-06-13	P030	Adjustment	5	Store 1	REF9806	Regular operation
+MOV00863	2024-11-06	P048	Sale	1	Warehouse A	REF6910	Regular operation
+MOV00864	2024-10-07	P026	Purchase	0	Store 1	REF8061	Regular operation
+MOV00865	2023-04-22	P057	Purchase	-9	Store 2	REF9302	Customer return
+MOV00866	2024-05-01	P025	Return	28	Store 2	REF4136	Supplier issue
+MOV00867	2023-06-24	P096	Sale	8	Online Fulfillment	REF2806	Supplier issue
+MOV00868	2024-01-25	P010	Transfer	54	Online Fulfillment	REF3629	Quality check
+MOV00869	2023-12-21	P067	Transfer	37	Online Fulfillment	REF5478	Quality check
+MOV00870	2023-05-04	P028	Damaged	30	Store 2	REF5987	Regular operation
+MOV00871	2024-06-24	P058	Return	64	Store 1	REF1452	Supplier issue
+MOV00872	2023-07-19	P079	Adjustment	-12	Online Fulfillment	REF7879	Regular operation
+MOV00873	2024-05-13	P045	Adjustment	37	Store 2	REF8947	
+MOV00874	2024-08-08	P008	Adjustment	-19	Online Fulfillment	REF4979	Customer return
+MOV00875	2023-09-26	P020	Return	-19	Warehouse A	REF9290	Regular operation
+MOV00876	2024-09-03	P041	Return	35	Store 1	REF2276	
+MOV00877	2024-11-09	P017	Return	-24	Store 1	REF3119	
+MOV00878	2024-03-18	P031	Return	90	Store 1	REF1099	Regular operation
+MOV00879	2024-03-12	P099	Purchase	65	Warehouse A	REF7236	Customer return
+MOV00880	2024-09-13	P016	Return	28	Store 1	REF4479	Quality check
+MOV00881	2024-05-19	P089	Return	-5	Warehouse A	REF2578	Customer return
+MOV00882	2024-01-26	P079	Purchase	20	Store 2	REF2788	Supplier issue
+MOV00883	2024-12-02	P039	Purchase	39	Store 2	REF4733	Quality check
+MOV00884	2024-05-01	P055	Transfer	19	Warehouse A	REF2452	Quality check
+MOV00885	2023-10-01	P010	Damaged	75	Online Fulfillment	REF2127	Regular operation
+MOV00886	2024-09-25	P001	Adjustment	-22	Online Fulfillment	REF7133	Supplier issue
+MOV00887	2024-10-19	P014	Damaged	26	Store 1	REF2665	Customer return
+MOV00888	2024-08-19	P046	Purchase	21	Online Fulfillment	REF6884	Customer return
+MOV00889	2024-06-28	P100	Sale	88	Store 2	REF4484	Supplier issue
+MOV00890	2024-07-16	P005	Adjustment	-6	Online Fulfillment	REF7456	Supplier issue
+MOV00891	2023-03-21	P067	Purchase	86	Store 1	REF4952	
+MOV00892	2024-06-15	P009	Adjustment	88	Store 1	REF9674	Quality check
+MOV00893	2024-04-24	P092	Sale	0	Warehouse A	REF1515	Supplier issue
+MOV00894	2023-01-18	P040	Damaged	48	Store 1	REF5108	Customer return
+MOV00895	2023-01-04	P031	Purchase	-49	Store 2	REF1042	Customer return
+MOV00896	2024-01-02	P092	Damaged	-19	Online Fulfillment	REF1779	
+MOV00897	2023-03-27	P066	Adjustment	9	Warehouse B	REF1864	Regular operation
+MOV00898	2023-07-01	P064	Damaged	46	Warehouse B	REF3272	Supplier issue
+MOV00899	2023-07-07	P022	Sale	77	Warehouse B	REF7991	
+MOV00900	2023-11-28	P008	Return	3	Warehouse B	REF7321	Regular operation
+MOV00901	2023-12-06	P075	Purchase	16	Store 2	REF4830	Customer return
+MOV00902	2023-08-04	P042	Sale	-8	Store 2	REF6997	Customer return
+MOV00903	2024-08-26	P027	Purchase	38	Warehouse B	REF8671	Quality check
+MOV00904	2023-11-09	P048	Purchase	-1	Store 1	REF8116	Customer return
+MOV00905	2023-05-29	P054	Purchase	47	Warehouse A	REF1417	
+MOV00906	2024-07-29	P080	Damaged	67	Warehouse B	REF8652	Customer return
+MOV00907	2023-01-12	P090	Return	-28	Store 1	REF4970	Regular operation
+MOV00908	2024-02-01	P038	Purchase	-33	Online Fulfillment	REF2458	Quality check
+MOV00909	2024-03-20	P047	Adjustment	29	Warehouse A	REF3562	Customer return
+MOV00910	2023-10-23	P023	Adjustment	-40	Warehouse A	REF7762	Quality check
+MOV00911	2024-07-06	P097	Damaged	97	Warehouse B	REF3740	Quality check
+MOV00912	2024-06-17	P034	Sale	42	Store 2	REF4074	
+MOV00913	2024-10-23	P077	Return	96	Store 1	REF7017	
+MOV00914	2024-08-01	P022	Sale	33	Warehouse A	REF8906	Customer return
+MOV00915	2024-05-12	P042	Sale	19	Online Fulfillment	REF8294	Supplier issue
+MOV00916	2023-12-30	P051	Return	30	Warehouse A	REF3660	
+MOV00917	2024-06-09	P087	Transfer	35	Store 2	REF4307	
+MOV00918	2023-07-12	P055	Adjustment	54	Store 2	REF6686	Supplier issue
+MOV00919	2023-03-01	P027	Purchase	-50	Warehouse A	REF3746	Quality check
+MOV00920	2024-10-04	P010	Sale	7	Online Fulfillment	REF9077	Customer return
+MOV00921	2023-08-04	P083	Damaged	17	Warehouse B	REF2207	Customer return
+MOV00922	2023-10-22	P095	Transfer	4	Store 1	REF5727	Customer return
+MOV00923	2024-04-09	P037	Transfer	79	Online Fulfillment	REF4785	
+MOV00924	2024-03-11	P067	Sale	93	Warehouse B	REF6931	Quality check
+MOV00925	2024-01-16	P037	Sale	-41	Online Fulfillment	REF4150	Customer return
+MOV00926	2024-12-06	P032	Return	-6	Warehouse A	REF6766	Regular operation
+MOV00927	2024-05-16	P026	Damaged	23	Store 2	REF7880	Regular operation
+MOV00928	2024-03-18	P069	Damaged	96	Online Fulfillment	REF3484	Customer return
+MOV00929	2024-04-26	P014	Return	71	Store 1	REF7802	Regular operation
+MOV00930	2023-01-18	P070	Purchase	-31	Warehouse A	REF4495	Regular operation
+MOV00931	2023-06-16	P023	Purchase	-15	Warehouse B	REF6541	Customer return
+MOV00932	2023-04-20	P023	Purchase	56	Online Fulfillment	REF9389	Quality check
+MOV00933	2023-05-20	P025	Sale	92	Store 1	REF5249	Regular operation
+MOV00934	2023-09-26	P017	Sale	54	Warehouse B	REF3180	Supplier issue
+MOV00935	2023-05-11	P015	Return	17	Store 1	REF4324	Supplier issue
+MOV00936	2023-04-19	P044	Damaged	-41	Store 1	REF6273	Regular operation
+MOV00937	2024-09-24	P051	Adjustment	89	Store 2	REF9089	
+MOV00938	2024-05-27	P005	Purchase	-19	Store 1	REF2645	Quality check
+MOV00939	2023-07-02	P055	Transfer	26	Warehouse B	REF4206	Quality check
+MOV00940	2024-12-24	P088	Adjustment	-2	Store 1	REF6821	Customer return
+MOV00941	2024-02-29	P079	Damaged	-40	Warehouse B	REF4149	Supplier issue
+MOV00942	2024-07-30	P091	Sale	-28	Warehouse A	REF6590	Supplier issue
+MOV00943	2023-03-26	P073	Adjustment	13	Warehouse B	REF4280	
+MOV00944	2023-04-13	P046	Return	37	Store 1	REF3255	Supplier issue
+MOV00945	2024-07-26	P094	Adjustment	61	Warehouse B	REF7241	Regular operation
+MOV00946	2023-07-06	P028	Return	59	Store 1	REF1358	
+MOV00947	2023-08-27	P002	Transfer	86	Store 2	REF9336	
+MOV00948	2023-03-22	P077	Damaged	45	Warehouse A	REF8892	
+MOV00949	2024-03-23	P064	Transfer	50	Online Fulfillment	REF4560	
+MOV00950	2023-04-21	P073	Damaged	-19	Online Fulfillment	REF5757	
+MOV00951	2024-11-29	P059	Return	49	Warehouse A	REF3839	Quality check
+MOV00952	2024-11-06	P011	Transfer	-48	Warehouse A	REF3326	Customer return
+MOV00953	2023-04-04	P047	Return	-22	Store 2	REF6355	
+MOV00954	2024-02-10	P028	Adjustment	3	Store 1	REF4348	Quality check
+MOV00955	2023-06-19	P061	Purchase	-17	Online Fulfillment	REF7583	Supplier issue
+MOV00956	2024-03-20	P065	Adjustment	86	Store 1	REF9836	Customer return
+MOV00957	2023-08-06	P009	Purchase	48	Warehouse B	REF2098	Regular operation
+MOV00958	2024-12-30	P086	Damaged	53	Store 1	REF2380	Customer return
+MOV00959	2024-12-18	P079	Return	68	Warehouse B	REF7595	Customer return
+MOV00960	2024-12-01	P038	Damaged	1	Warehouse A	REF1298	Customer return
+MOV00961	2023-12-29	P057	Adjustment	-34	Warehouse A	REF4357	Regular operation
+MOV00962	2024-11-08	P099	Sale	68	Store 1	REF7788	Regular operation
+MOV00963	2024-07-24	P081	Transfer	98	Store 1	REF9978	Supplier issue
+MOV00964	2024-09-16	P058	Transfer	-2	Store 1	REF9542	Customer return
+MOV00965	2023-07-28	P033	Sale	-2	Warehouse A	REF5288	
+MOV00966	2023-10-11	P099	Return	-8	Warehouse A	REF3765	Customer return
+MOV00967	2024-12-25	P071	Adjustment	-39	Store 2	REF3276	Regular operation
+MOV00968	2024-10-01	P066	Purchase	91	Warehouse A	REF5465	Regular operation
+MOV00969	2024-10-30	P074	Damaged	99	Warehouse A	REF6193	Regular operation
+MOV00970	2023-11-06	P096	Purchase	24	Warehouse A	REF6869	Regular operation
+MOV00971	2024-07-25	P045	Purchase	-30	Warehouse B	REF5362	Supplier issue
+MOV00972	2024-10-06	P035	Damaged	-9	Online Fulfillment	REF7578	Quality check
+MOV00973	2024-02-29	P033	Purchase	-4	Warehouse B	REF7749	Customer return
+MOV00974	2024-04-08	P018	Return	18	Warehouse B	REF3921	Customer return
+MOV00975	2023-12-15	P028	Transfer	51	Warehouse A	REF5738	Quality check
+MOV00976	2023-09-17	P004	Transfer	-29	Store 2	REF5639	Customer return
+MOV00977	2023-05-22	P048	Damaged	10	Online Fulfillment	REF7556	
+MOV00978	2024-10-28	P044	Damaged	-3	Store 2	REF8086	
+MOV00979	2023-07-01	P003	Transfer	-25	Online Fulfillment	REF9993	Regular operation
+MOV00980	2023-06-19	P020	Return	48	Store 2	REF3014	Customer return
+MOV00981	2023-06-13	P100	Transfer	-40	Online Fulfillment	REF8998	Regular operation
+MOV00982	2023-06-15	P002	Transfer	69	Online Fulfillment	REF1250	
+MOV00983	2024-03-21	P087	Sale	41	Warehouse A	REF6212	
+MOV00984	2023-03-21	P010	Adjustment	37	Warehouse B	REF4862	Regular operation
+MOV00985	2024-03-26	P008	Sale	39	Warehouse B	REF4919	Supplier issue
+MOV00986	2024-09-04	P061	Purchase	86	Store 2	REF1842	Customer return
+MOV00987	2024-10-24	P031	Adjustment	72	Store 1	REF8549	Quality check
+MOV00988	2024-01-12	P026	Adjustment	-28	Store 2	REF3266	Regular operation
+MOV00989	2024-12-02	P015	Return	8	Warehouse B	REF4721	Regular operation
+MOV00990	2023-01-08	P026	Sale	36	Store 2	REF7811	Customer return
+MOV00991	2024-03-31	P098	Return	-33	Warehouse B	REF4864	Regular operation
+MOV00992	2023-04-13	P046	Purchase	56	Online Fulfillment	REF4715	
+MOV00993	2023-10-25	P070	Damaged	27	Warehouse B	REF3310	Supplier issue
+MOV00994	2024-11-02	P056	Sale	-28	Store 1	REF5958	Quality check
+MOV00995	2023-01-19	P076	Transfer	-43	Warehouse B	REF6098	
+MOV00996	2023-05-01	P032	Purchase	41	Store 2	REF6613	Quality check
+MOV00997	2024-12-27	P049	Adjustment	77	Warehouse A	REF4394	Supplier issue
+MOV00998	2023-11-10	P054	Damaged	0	Store 1	REF2367	Customer return
+MOV00999	2023-11-29	P022	Sale	81	Warehouse B	REF4482	Quality check
+MOV01000	2023-11-29	P088	Sale	29	Online Fulfillment	REF6259	Quality check
+MOV01001	2024-09-01	P058	Transfer	95	Warehouse B	REF5188	
+MOV01002	2024-02-21	P046	Adjustment	66	Store 1	REF4930	Quality check
+MOV01003	2023-12-21	P023	Purchase	77	Warehouse A	REF7349	Customer return
+MOV01004	2023-01-07	P056	Return	-28	Warehouse B	REF4215	Regular operation
+MOV01005	2023-11-28	P036	Purchase	-11	Store 1	REF5280	Supplier issue
+MOV01006	2024-05-30	P027	Purchase	65	Store 1	REF1238	Regular operation
+MOV01007	2024-02-14	P026	Sale	77	Warehouse A	REF4105	Customer return
+MOV01008	2024-08-07	P015	Return	-24	Warehouse A	REF6672	Quality check
+MOV01009	2024-01-25	P078	Damaged	51	Warehouse B	REF7773	Customer return
+MOV01010	2023-06-21	P060	Sale	-32	Warehouse B	REF7655	Customer return
+MOV01011	2024-12-01	P041	Return	1	Store 2	REF8969	Supplier issue
+MOV01012	2024-06-05	P083	Adjustment	60	Store 2	REF6009	Supplier issue
+MOV01013	2024-05-05	P081	Sale	48	Online Fulfillment	REF9418	Supplier issue
+MOV01014	2024-12-27	P025	Purchase	-28	Warehouse B	REF4377	Quality check
+MOV01015	2023-05-16	P063	Transfer	93	Online Fulfillment	REF3209	Regular operation
+MOV01016	2024-04-08	P001	Sale	56	Store 2	REF2976	
+MOV01017	2024-08-03	P050	Purchase	25	Online Fulfillment	REF5638	
+MOV01018	2023-04-07	P070	Return	-20	Store 1	REF8531	Customer return
+MOV01019	2024-03-08	P016	Adjustment	-40	Warehouse B	REF9924	Customer return
+MOV01020	2024-08-20	P042	Damaged	-12	Store 2	REF1479	Supplier issue
+MOV01021	2024-06-11	P024	Sale	78	Store 2	REF6134	Supplier issue
+MOV01022	2023-03-15	P040	Purchase	-48	Online Fulfillment	REF7231	Supplier issue
+MOV01023	2023-03-13	P087	Return	-7	Online Fulfillment	REF4112	Quality check
+MOV01024	2023-12-12	P058	Transfer	-39	Online Fulfillment	REF9268	Customer return
+MOV01025	2023-02-14	P055	Transfer	-47	Warehouse B	REF1898	Quality check
+MOV01026	2023-10-20	P095	Damaged	73	Warehouse A	REF2283	Quality check
+MOV01027	2023-02-20	P018	Adjustment	4	Warehouse A	REF3276	Quality check
+MOV01028	2024-06-24	P081	Return	96	Store 1	REF2595	Quality check
+MOV01029	2024-08-29	P081	Sale	-41	Store 2	REF3497	Quality check
+MOV01030	2023-07-21	P006	Sale	12	Store 1	REF3459	Quality check
+MOV01031	2023-08-18	P074	Transfer	41	Warehouse A	REF2729	Regular operation
+MOV01032	2023-09-04	P081	Transfer	99	Store 2	REF8693	Quality check
+MOV01033	2024-07-08	P085	Adjustment	-10	Store 2	REF8664	Supplier issue
+MOV01034	2024-03-24	P069	Sale	12	Store 2	REF1125	
+MOV01035	2023-10-28	P024	Sale	48	Store 2	REF6390	Regular operation
+MOV01036	2023-11-08	P033	Damaged	16	Online Fulfillment	REF7173	Customer return
+MOV01037	2024-04-15	P035	Sale	-44	Store 2	REF3543	Regular operation
+MOV01038	2024-01-27	P068	Purchase	29	Online Fulfillment	REF5894	
+MOV01039	2024-09-21	P081	Purchase	100	Online Fulfillment	REF8193	Quality check
+MOV01040	2023-02-21	P023	Transfer	81	Warehouse A	REF2031	Quality check
+MOV01041	2023-01-11	P098	Purchase	82	Store 1	REF4893	Quality check
+MOV01042	2024-08-22	P016	Return	-29	Online Fulfillment	REF2903	Regular operation
+MOV01043	2024-12-18	P082	Adjustment	55	Warehouse B	REF4195	Regular operation
+MOV01044	2024-10-02	P044	Purchase	66	Store 1	REF6566	Regular operation
+MOV01045	2023-10-17	P037	Sale	-7	Store 2	REF2586	
+MOV01046	2023-06-20	P074	Transfer	-49	Warehouse B	REF9521	Customer return
+MOV01047	2024-10-27	P034	Purchase	54	Warehouse A	REF7189	
+MOV01048	2023-08-07	P088	Adjustment	-5	Store 1	REF1953	
+MOV01049	2024-06-22	P099	Return	-21	Store 2	REF4811	Quality check
+MOV01050	2023-09-04	P065	Purchase	0	Store 2	REF1228	Customer return
+MOV01051	2024-05-09	P092	Damaged	25	Warehouse A	REF1617	Quality check
+MOV01052	2024-05-02	P053	Sale	-6	Store 2	REF6482	
+MOV01053	2023-10-02	P016	Damaged	33	Warehouse B	REF6900	
+MOV01054	2023-08-04	P068	Return	-29	Store 2	REF4838	Customer return
+MOV01055	2024-05-19	P067	Purchase	-20	Store 2	REF5634	Customer return
+MOV01056	2024-03-20	P053	Transfer	20	Store 2	REF2743	Quality check
+MOV01057	2023-06-24	P088	Transfer	-35	Warehouse A	REF1964	Quality check
+MOV01058	2024-09-10	P084	Purchase	36	Online Fulfillment	REF6585	Regular operation
+MOV01059	2023-04-11	P071	Return	84	Warehouse A	REF2978	Regular operation
+MOV01060	2023-04-07	P037	Adjustment	-39	Warehouse B	REF4134	Customer return
+MOV01061	2023-09-13	P044	Damaged	51	Online Fulfillment	REF3670	
+MOV01062	2024-08-29	P002	Purchase	19	Warehouse A	REF9812	Regular operation
+MOV01063	2023-05-24	P089	Sale	36	Store 2	REF4732	Regular operation
+MOV01064	2024-02-13	P064	Adjustment	51	Warehouse A	REF3340	Supplier issue
+MOV01065	2023-04-08	P051	Transfer	99	Warehouse B	REF8588	
+MOV01066	2024-10-10	P072	Transfer	20	Store 2	REF9398	Supplier issue
+MOV01067	2023-04-02	P070	Purchase	0	Online Fulfillment	REF4760	Customer return
+MOV01068	2024-05-25	P086	Adjustment	-39	Store 1	REF2453	Regular operation
+MOV01069	2024-10-25	P098	Damaged	15	Store 2	REF4810	Regular operation
+MOV01070	2024-10-04	P072	Purchase	-3	Online Fulfillment	REF3696	Regular operation
+MOV01071	2023-08-09	P015	Damaged	-30	Store 1	REF9375	Quality check
+MOV01072	2023-11-15	P081	Purchase	27	Warehouse B	REF1342	Customer return
+MOV01073	2023-10-30	P040	Adjustment	95	Store 2	REF9724	
+MOV01074	2023-10-31	P019	Return	94	Store 2	REF4621	Customer return
+MOV01075	2024-08-16	P097	Purchase	-45	Warehouse A	REF8398	Supplier issue
+MOV01076	2024-06-22	P093	Damaged	7	Warehouse B	REF5534	Customer return
+MOV01077	2023-01-08	P008	Return	-24	Online Fulfillment	REF6964	Regular operation
+MOV01078	2024-11-13	P012	Sale	-39	Warehouse B	REF1431	Supplier issue
+MOV01079	2024-02-03	P050	Purchase	72	Warehouse A	REF7342	Regular operation
+MOV01080	2024-02-02	P088	Damaged	52	Online Fulfillment	REF5384	Supplier issue
+MOV01081	2023-11-15	P089	Transfer	-16	Warehouse A	REF9555	Supplier issue
+MOV01082	2023-05-10	P068	Return	83	Warehouse A	REF9386	Regular operation
+MOV01083	2024-07-01	P050	Transfer	50	Online Fulfillment	REF3288	Quality check
+MOV01084	2023-10-15	P033	Return	-36	Store 1	REF7060	Supplier issue
+MOV01085	2023-05-26	P040	Adjustment	68	Warehouse B	REF2358	Quality check
+MOV01086	2024-08-07	P053	Sale	53	Warehouse B	REF1419	
+MOV01087	2023-03-18	P053	Purchase	19	Online Fulfillment	REF5825	Regular operation
+MOV01088	2024-05-03	P095	Damaged	-10	Warehouse B	REF2118	
+MOV01089	2023-01-30	P009	Adjustment	-36	Store 2	REF7938	
+MOV01090	2024-01-20	P032	Adjustment	-16	Warehouse A	REF9938	Customer return
+MOV01091	2024-07-22	P074	Sale	38	Online Fulfillment	REF5099	Regular operation
+MOV01092	2023-11-09	P062	Purchase	43	Store 2	REF2447	Quality check
+MOV01093	2024-03-02	P041	Adjustment	38	Store 2	REF5559	Regular operation
+MOV01094	2024-11-27	P055	Return	51	Store 2	REF7874	Supplier issue
+MOV01095	2023-04-08	P043	Adjustment	-22	Warehouse A	REF2947	Quality check
+MOV01096	2023-02-09	P064	Purchase	-24	Online Fulfillment	REF1289	Customer return
+MOV01097	2024-10-03	P068	Transfer	-1	Store 1	REF7926	Supplier issue
+MOV01098	2024-10-08	P076	Sale	54	Warehouse B	REF6923	Customer return
+MOV01099	2023-05-21	P045	Adjustment	57	Warehouse A	REF6725	Regular operation
+MOV01100	2024-12-29	P092	Sale	-2	Store 1	REF9409	Customer return
+MOV01101	2024-07-02	P007	Transfer	56	Warehouse A	REF9257	Supplier issue
+MOV01102	2024-11-19	P098	Damaged	82	Warehouse B	REF1164	Customer return
+MOV01103	2023-07-29	P036	Sale	-9	Online Fulfillment	REF9126	
+MOV01104	2024-01-18	P028	Sale	-19	Warehouse A	REF2057	Quality check
+MOV01105	2023-08-13	P075	Transfer	94	Warehouse B	REF1157	
+MOV01106	2023-01-15	P036	Purchase	-38	Warehouse B	REF9027	Supplier issue
+MOV01107	2023-12-19	P071	Return	95	Warehouse A	REF2737	Customer return
+MOV01108	2023-02-13	P044	Adjustment	35	Warehouse A	REF3425	Customer return
+MOV01109	2024-04-05	P071	Adjustment	-41	Online Fulfillment	REF1760	
+MOV01110	2023-11-29	P079	Purchase	-14	Store 2	REF1113	Customer return
+MOV01111	2024-02-05	P025	Adjustment	-33	Online Fulfillment	REF2825	
+MOV01112	2023-07-17	P099	Transfer	57	Store 1	REF9693	
+MOV01113	2023-07-12	P049	Sale	54	Online Fulfillment	REF7793	Regular operation
+MOV01114	2024-02-27	P090	Sale	49	Store 2	REF8782	Regular operation
+MOV01115	2024-04-11	P091	Adjustment	31	Warehouse B	REF7734	
+MOV01116	2024-12-24	P039	Damaged	-4	Store 2	REF2626	Customer return
+MOV01117	2023-10-06	P091	Transfer	68	Online Fulfillment	REF9916	Regular operation
+MOV01118	2024-11-18	P082	Return	-26	Warehouse B	REF5224	Customer return
+MOV01119	2023-06-17	P057	Adjustment	-41	Store 1	REF1625	
+MOV01120	2024-04-28	P044	Return	-40	Store 1	REF8044	Quality check
+MOV01121	2023-09-29	P038	Transfer	-30	Online Fulfillment	REF9792	
+MOV01122	2024-11-06	P050	Adjustment	82	Online Fulfillment	REF7029	Regular operation
+MOV01123	2023-04-14	P029	Transfer	-22	Online Fulfillment	REF4291	
+MOV01124	2024-04-17	P008	Adjustment	21	Warehouse A	REF5895	Quality check
+MOV01125	2023-01-23	P013	Sale	20	Online Fulfillment	REF9813	Customer return
+MOV01126	2023-08-05	P071	Damaged	-6	Online Fulfillment	REF2231	Customer return
+MOV01127	2023-01-18	P038	Adjustment	-5	Store 1	REF8778	
+MOV01128	2024-03-23	P088	Damaged	0	Store 1	REF8209	Quality check
+MOV01129	2023-08-09	P053	Damaged	-9	Store 2	REF4723	Quality check
+MOV01130	2023-02-18	P065	Damaged	96	Warehouse A	REF4963	Customer return
+MOV01131	2023-11-23	P100	Return	29	Store 2	REF9192	Customer return
+MOV01132	2023-09-12	P098	Sale	-34	Warehouse A	REF6273	Customer return
+MOV01133	2024-09-07	P050	Transfer	57	Warehouse A	REF8981	Supplier issue
+MOV01134	2024-11-12	P025	Purchase	70	Online Fulfillment	REF1048	
+MOV01135	2024-09-27	P010	Damaged	96	Online Fulfillment	REF9207	Customer return
+MOV01136	2024-02-11	P058	Adjustment	-33	Store 2	REF1314	
+MOV01137	2024-08-11	P048	Purchase	-27	Warehouse A	REF4528	Customer return
+MOV01138	2024-02-18	P094	Sale	31	Store 2	REF7518	Quality check
+MOV01139	2023-03-12	P008	Damaged	-42	Warehouse B	REF9629	Regular operation
+MOV01140	2023-12-21	P059	Transfer	37	Store 1	REF1381	Regular operation
+MOV01141	2023-02-26	P098	Return	26	Store 1	REF2207	Customer return
+MOV01142	2024-03-12	P099	Adjustment	10	Warehouse A	REF7133	Supplier issue
+MOV01143	2023-06-10	P064	Return	61	Warehouse B	REF4070	Regular operation
+MOV01144	2023-06-17	P015	Adjustment	31	Online Fulfillment	REF3930	
+MOV01145	2023-08-06	P073	Damaged	-45	Store 1	REF4176	Supplier issue
+MOV01146	2023-01-30	P016	Damaged	8	Store 2	REF7429	Regular operation
+MOV01147	2024-11-12	P059	Sale	-49	Warehouse B	REF3501	Customer return
+MOV01148	2024-06-15	P078	Sale	-14	Warehouse B	REF8626	Supplier issue
+MOV01149	2024-01-10	P054	Adjustment	71	Online Fulfillment	REF5439	Supplier issue
+MOV01150	2024-02-02	P070	Return	2	Warehouse B	REF5543	Regular operation
+MOV01151	2023-10-28	P065	Return	-11	Store 2	REF9327	
+MOV01152	2023-02-06	P063	Adjustment	41	Store 2	REF5682	Supplier issue
+MOV01153	2023-12-19	P068	Return	62	Online Fulfillment	REF7090	Supplier issue
+MOV01154	2023-11-03	P047	Purchase	98	Warehouse B	REF5538	Quality check
+MOV01155	2024-04-04	P073	Sale	17	Store 2	REF9817	Quality check
+MOV01156	2024-10-30	P079	Damaged	93	Store 1	REF2494	Supplier issue
+MOV01157	2023-12-21	P019	Sale	83	Store 2	REF4404	Customer return
+MOV01158	2023-04-21	P012	Transfer	69	Store 2	REF9688	Supplier issue
+MOV01159	2023-09-04	P034	Damaged	-33	Store 1	REF5663	
+MOV01160	2024-05-04	P086	Adjustment	62	Store 1	REF8289	Supplier issue
+MOV01161	2023-07-21	P075	Adjustment	-31	Warehouse A	REF4166	Regular operation
+MOV01162	2024-06-20	P069	Adjustment	-5	Store 2	REF8970	
+MOV01163	2024-03-04	P008	Adjustment	88	Online Fulfillment	REF9551	Supplier issue
+MOV01164	2024-03-24	P086	Damaged	22	Warehouse B	REF1150	Customer return
+MOV01165	2024-12-03	P090	Purchase	33	Store 2	REF9765	Customer return
+MOV01166	2024-02-18	P023	Sale	-33	Store 2	REF4428	Customer return
+MOV01167	2024-02-21	P043	Purchase	86	Store 2	REF6209	Regular operation
+MOV01168	2023-12-21	P030	Purchase	-17	Warehouse A	REF5801	Regular operation
+MOV01169	2024-11-23	P030	Damaged	83	Warehouse B	REF9221	Supplier issue
+MOV01170	2024-09-30	P007	Transfer	60	Online Fulfillment	REF7999	Customer return
+MOV01171	2023-04-21	P082	Return	61	Store 2	REF1869	Regular operation
+MOV01172	2024-05-21	P002	Damaged	39	Online Fulfillment	REF4881	
+MOV01173	2024-02-29	P060	Purchase	-23	Store 1	REF7055	Quality check
+MOV01174	2023-07-08	P050	Return	-31	Warehouse B	REF5308	Supplier issue
+MOV01175	2024-01-19	P043	Sale	42	Store 2	REF8411	Quality check
+MOV01176	2023-11-21	P015	Adjustment	89	Warehouse B	REF3286	Regular operation
+MOV01177	2023-07-04	P021	Adjustment	-19	Warehouse A	REF4511	Regular operation
+MOV01178	2024-05-27	P007	Purchase	-14	Warehouse A	REF5555	
+MOV01179	2024-06-15	P007	Purchase	86	Store 1	REF8255	Customer return
+MOV01180	2023-12-07	P047	Adjustment	74	Warehouse B	REF5753	Quality check
+MOV01181	2023-06-03	P072	Sale	8	Online Fulfillment	REF2118	Quality check
+MOV01182	2023-05-11	P085	Damaged	-34	Online Fulfillment	REF4949	Supplier issue
+MOV01183	2024-02-04	P075	Damaged	17	Online Fulfillment	REF9479	Quality check
+MOV01184	2024-01-02	P076	Transfer	-48	Online Fulfillment	REF5448	Supplier issue
+MOV01185	2024-09-06	P067	Adjustment	2	Warehouse B	REF8424	Customer return
+MOV01186	2024-06-06	P035	Return	59	Warehouse B	REF8769	Regular operation
+MOV01187	2024-10-25	P025	Adjustment	-37	Warehouse B	REF5250	Customer return
+MOV01188	2024-02-06	P079	Transfer	20	Store 1	REF9876	
+MOV01189	2023-01-30	P078	Purchase	47	Store 2	REF1460	
+MOV01190	2023-11-01	P060	Transfer	0	Warehouse A	REF7826	Quality check
+MOV01191	2024-03-11	P038	Adjustment	34	Online Fulfillment	REF9714	
+MOV01192	2024-08-27	P071	Adjustment	-5	Store 1	REF5389	Customer return
+MOV01193	2024-02-03	P032	Purchase	-14	Online Fulfillment	REF5589	Quality check
+MOV01194	2024-12-04	P006	Transfer	-6	Store 2	REF6008	
+MOV01195	2023-09-09	P088	Transfer	-39	Online Fulfillment	REF9448	Regular operation
+MOV01196	2024-12-02	P011	Sale	-15	Warehouse A	REF3976	Regular operation
+MOV01197	2023-12-16	P084	Purchase	-15	Online Fulfillment	REF6799	Regular operation
+MOV01198	2023-08-04	P050	Transfer	21	Warehouse A	REF6319	Customer return
+MOV01199	2023-04-21	P092	Adjustment	34	Warehouse B	REF4767	Supplier issue
+MOV01200	2023-01-09	P001	Transfer	65	Store 2	REF8800	Customer return
+MOV01201	2023-03-21	P079	Purchase	-39	Warehouse B	REF3882	Quality check
+MOV01202	2024-03-17	P004	Adjustment	11	Store 1	REF8606	
+MOV01203	2023-10-21	P031	Sale	59	Store 2	REF5203	
+MOV01204	2023-11-14	P055	Return	6	Warehouse A	REF2013	Quality check
+MOV01205	2023-05-24	P028	Sale	89	Store 1	REF5219	Quality check
+MOV01206	2024-04-02	P092	Adjustment	73	Warehouse B	REF1903	Customer return
+MOV01207	2024-07-15	P044	Transfer	-6	Warehouse A	REF7927	Customer return
+MOV01208	2023-12-16	P078	Transfer	57	Online Fulfillment	REF3433	Quality check
+MOV01209	2023-10-05	P027	Purchase	-16	Warehouse A	REF3445	Customer return
+MOV01210	2024-01-10	P065	Transfer	83	Warehouse B	REF3759	Quality check
+MOV01211	2023-01-22	P062	Transfer	-20	Store 1	REF2819	Quality check
+MOV01212	2023-12-04	P060	Purchase	55	Store 2	REF1958	Supplier issue
+MOV01213	2024-05-25	P080	Damaged	-3	Store 1	REF5155	Customer return
+MOV01214	2023-11-04	P095	Adjustment	33	Online Fulfillment	REF8177	Regular operation
+MOV01215	2023-04-16	P030	Purchase	45	Store 2	REF9624	Supplier issue
+MOV01216	2023-08-04	P015	Damaged	-40	Warehouse B	REF5890	Quality check
+MOV01217	2024-02-01	P038	Return	59	Warehouse B	REF5583	Supplier issue
+MOV01218	2024-06-25	P037	Return	81	Warehouse B	REF2630	Regular operation
+MOV01219	2024-08-09	P002	Sale	38	Online Fulfillment	REF6651	
+MOV01220	2024-12-30	P061	Sale	46	Warehouse B	REF4071	Supplier issue
+MOV01221	2023-12-25	P005	Sale	75	Warehouse A	REF3533	Supplier issue
+MOV01222	2023-11-10	P024	Purchase	-49	Warehouse B	REF4855	
+MOV01223	2024-03-25	P021	Transfer	90	Warehouse A	REF9005	Quality check
+MOV01224	2024-03-21	P054	Damaged	28	Online Fulfillment	REF9087	Regular operation
+MOV01225	2024-01-23	P084	Transfer	30	Online Fulfillment	REF1043	Regular operation
+MOV01226	2024-07-30	P052	Damaged	18	Warehouse B	REF4926	Customer return
+MOV01227	2024-02-28	P019	Sale	98	Store 1	REF1436	Quality check
+MOV01228	2023-03-16	P010	Purchase	80	Store 2	REF1087	Regular operation
+MOV01229	2023-01-05	P006	Transfer	-15	Warehouse B	REF3094	Regular operation
+MOV01230	2024-01-03	P031	Sale	-8	Warehouse A	REF9876	
+MOV01231	2023-08-29	P074	Damaged	41	Store 2	REF1807	
+MOV01232	2024-08-07	P068	Purchase	24	Store 2	REF7274	Regular operation
+MOV01233	2024-04-02	P015	Purchase	-27	Store 1	REF8703	
+MOV01234	2023-07-05	P034	Adjustment	40	Online Fulfillment	REF2632	Regular operation
+MOV01235	2024-05-13	P025	Transfer	-39	Store 2	REF7860	Customer return
+MOV01236	2023-03-01	P095	Adjustment	81	Online Fulfillment	REF9235	Customer return
+MOV01237	2024-04-18	P092	Adjustment	-41	Warehouse B	REF8616	Quality check
+MOV01238	2023-05-05	P055	Purchase	11	Store 1	REF1871	Quality check
+MOV01239	2024-12-06	P040	Return	-47	Store 2	REF4264	Quality check
+MOV01240	2024-04-19	P008	Damaged	39	Warehouse B	REF5511	Regular operation
+MOV01241	2024-11-07	P055	Transfer	15	Store 1	REF8065	Customer return
+MOV01242	2024-01-26	P069	Adjustment	46	Store 2	REF7497	Customer return
+MOV01243	2024-02-26	P079	Purchase	21	Warehouse B	REF9274	Customer return
+MOV01244	2023-01-09	P003	Purchase	-47	Warehouse A	REF4468	Supplier issue
+MOV01245	2023-09-27	P025	Adjustment	80	Store 1	REF9013	Regular operation
+MOV01246	2023-01-18	P098	Adjustment	11	Online Fulfillment	REF3921	Quality check
+MOV01247	2023-07-04	P019	Return	88	Warehouse B	REF4656	Supplier issue
+MOV01248	2024-03-13	P100	Sale	-14	Warehouse B	REF4855	Customer return
+MOV01249	2023-12-04	P006	Purchase	37	Store 1	REF2943	Supplier issue
+MOV01250	2024-05-20	P052	Return	68	Online Fulfillment	REF7906	Supplier issue
+MOV01251	2023-03-22	P006	Damaged	-38	Warehouse A	REF1311	Customer return
+MOV01252	2024-09-04	P012	Purchase	85	Store 2	REF3665	Customer return
+MOV01253	2024-05-26	P078	Sale	5	Warehouse B	REF5937	
+MOV01254	2024-11-11	P074	Purchase	23	Warehouse A	REF3103	Supplier issue
+MOV01255	2024-08-25	P083	Damaged	49	Warehouse B	REF2412	Customer return
+MOV01256	2024-12-17	P045	Damaged	39	Online Fulfillment	REF1783	Regular operation
+MOV01257	2024-05-30	P062	Return	77	Store 1	REF8551	Customer return
+MOV01258	2023-04-11	P089	Sale	-22	Online Fulfillment	REF4659	
+MOV01259	2023-05-20	P025	Adjustment	-37	Online Fulfillment	REF5601	Customer return
+MOV01260	2023-09-20	P050	Transfer	31	Warehouse A	REF2726	Quality check
+MOV01261	2024-10-08	P070	Purchase	12	Online Fulfillment	REF7010	Customer return
+MOV01262	2023-04-22	P071	Return	-5	Online Fulfillment	REF4699	Quality check
+MOV01263	2024-02-17	P095	Return	32	Store 2	REF1752	Regular operation
+MOV01264	2024-04-26	P058	Sale	8	Store 2	REF1622	Regular operation
+MOV01265	2023-02-18	P055	Return	-1	Store 2	REF1724	Customer return
+MOV01266	2023-10-29	P093	Transfer	74	Warehouse A	REF4012	Supplier issue
+MOV01267	2024-08-14	P030	Purchase	-41	Online Fulfillment	REF3552	Supplier issue
+MOV01268	2023-06-18	P083	Damaged	73	Store 2	REF6137	Supplier issue
+MOV01269	2024-09-04	P078	Damaged	-50	Store 2	REF1361	Customer return
+MOV01270	2023-04-29	P065	Adjustment	49	Warehouse A	REF6888	Supplier issue
+MOV01271	2024-02-17	P013	Purchase	92	Warehouse B	REF3124	Regular operation
+MOV01272	2024-12-24	P003	Adjustment	30	Online Fulfillment	REF8057	Customer return
+MOV01273	2023-08-13	P047	Transfer	10	Warehouse A	REF9078	Customer return
+MOV01274	2023-08-17	P026	Damaged	46	Warehouse B	REF2849	Customer return
+MOV01275	2024-08-15	P018	Transfer	54	Online Fulfillment	REF2547	
+MOV01276	2024-12-03	P052	Purchase	71	Store 1	REF7466	
+MOV01277	2024-03-18	P028	Return	31	Store 1	REF7259	Customer return
+MOV01278	2024-11-14	P088	Sale	-6	Warehouse A	REF7816	
+MOV01279	2024-08-10	P086	Sale	36	Store 1	REF9662	Quality check
+MOV01280	2023-02-25	P002	Sale	39	Online Fulfillment	REF1967	
+MOV01281	2024-04-16	P048	Adjustment	12	Store 1	REF5748	
+MOV01282	2023-04-10	P093	Purchase	79	Online Fulfillment	REF6701	Quality check
+MOV01283	2023-10-25	P072	Transfer	11	Warehouse A	REF4054	Supplier issue
+MOV01284	2023-06-17	P058	Adjustment	79	Warehouse B	REF5727	Regular operation
+MOV01285	2024-05-23	P075	Damaged	-2	Warehouse B	REF9223	Regular operation
+MOV01286	2024-07-24	P012	Adjustment	71	Warehouse A	REF9045	Supplier issue
+MOV01287	2024-11-12	P013	Purchase	-49	Warehouse B	REF5661	Regular operation
+MOV01288	2023-06-28	P007	Adjustment	6	Store 2	REF2082	Supplier issue
+MOV01289	2023-11-15	P041	Adjustment	16	Warehouse A	REF8761	
+MOV01290	2023-03-09	P065	Return	85	Warehouse A	REF1294	Regular operation
+MOV01291	2023-01-29	P097	Purchase	-27	Warehouse B	REF4912	Regular operation
+MOV01292	2024-12-04	P082	Sale	-20	Store 1	REF9971	
+MOV01293	2023-01-19	P033	Purchase	-30	Warehouse A	REF5050	
+MOV01294	2023-06-15	P014	Return	92	Warehouse A	REF3457	Supplier issue
+MOV01295	2024-05-18	P019	Return	23	Warehouse B	REF8344	Supplier issue
+MOV01296	2023-10-23	P042	Adjustment	-31	Online Fulfillment	REF6083	Supplier issue
+MOV01297	2024-07-28	P074	Purchase	45	Online Fulfillment	REF4212	Quality check
+MOV01298	2024-02-11	P043	Transfer	63	Store 1	REF8985	Regular operation
+MOV01299	2024-10-06	P076	Purchase	24	Online Fulfillment	REF8559	Regular operation
+MOV01300	2024-09-09	P024	Damaged	-47	Online Fulfillment	REF4673	Quality check
+MOV01301	2024-06-18	P017	Damaged	46	Store 1	REF7915	Regular operation
+MOV01302	2024-08-03	P061	Transfer	98	Store 2	REF9903	Regular operation
+MOV01303	2023-05-19	P049	Adjustment	55	Online Fulfillment	REF2936	Supplier issue
+MOV01304	2024-08-10	P073	Sale	67	Store 2	REF1439	
+MOV01305	2024-10-11	P055	Damaged	46	Store 1	REF8470	Customer return
+MOV01306	2024-07-05	P094	Adjustment	45	Online Fulfillment	REF8371	Supplier issue
+MOV01307	2024-11-10	P041	Transfer	68	Store 2	REF8105	Supplier issue
+MOV01308	2023-08-08	P089	Damaged	79	Warehouse A	REF1642	Supplier issue
+MOV01309	2023-11-22	P005	Damaged	55	Online Fulfillment	REF3180	Quality check
+MOV01310	2024-11-02	P094	Sale	71	Warehouse B	REF4669	
+MOV01311	2023-09-02	P036	Adjustment	22	Warehouse A	REF3878	Supplier issue
+MOV01312	2024-05-25	P072	Transfer	53	Store 1	REF8353	Regular operation
+MOV01313	2024-04-02	P032	Damaged	89	Store 1	REF5284	Supplier issue
+MOV01314	2023-01-04	P096	Damaged	42	Warehouse B	REF2332	Supplier issue
+MOV01315	2023-08-04	P018	Purchase	13	Warehouse B	REF1049	Customer return
+MOV01316	2024-06-10	P057	Damaged	93	Online Fulfillment	REF3743	
+MOV01317	2024-06-21	P002	Sale	-10	Online Fulfillment	REF6677	Customer return
+MOV01318	2024-05-26	P051	Transfer	5	Warehouse A	REF9389	
+MOV01319	2024-07-04	P028	Adjustment	-42	Store 2	REF2121	
+MOV01320	2023-01-11	P054	Sale	-2	Warehouse A	REF6665	Customer return
+MOV01321	2023-08-19	P099	Return	25	Online Fulfillment	REF2290	
+MOV01322	2024-05-18	P040	Adjustment	-50	Online Fulfillment	REF5673	
+MOV01323	2024-02-11	P063	Purchase	-22	Store 2	REF3594	Customer return
+MOV01324	2024-09-16	P068	Damaged	30	Online Fulfillment	REF7178	Quality check
+MOV01325	2023-09-20	P026	Adjustment	45	Warehouse A	REF5106	Regular operation
+MOV01326	2024-03-03	P019	Damaged	50	Store 2	REF3924	Customer return
+MOV01327	2023-01-12	P065	Transfer	47	Warehouse B	REF9068	Regular operation
+MOV01328	2023-03-27	P092	Sale	-14	Warehouse A	REF7097	Supplier issue
+MOV01329	2024-03-10	P058	Purchase	-34	Online Fulfillment	REF2255	
+MOV01330	2024-04-21	P016	Adjustment	-22	Warehouse A	REF5387	Customer return
+MOV01331	2024-09-16	P074	Transfer	-10	Warehouse A	REF8804	Regular operation
+MOV01332	2024-06-12	P078	Transfer	-45	Warehouse B	REF3825	Regular operation
+MOV01333	2023-09-06	P014	Transfer	99	Store 2	REF1530	Customer return
+MOV01334	2023-02-05	P025	Return	48	Warehouse A	REF2472	Supplier issue
+MOV01335	2023-09-01	P038	Purchase	73	Store 1	REF2441	Customer return
+MOV01336	2024-02-22	P045	Return	26	Store 1	REF2407	Quality check
+MOV01337	2023-09-11	P027	Return	43	Online Fulfillment	REF2228	Supplier issue
+MOV01338	2023-11-05	P096	Transfer	-28	Store 1	REF7728	Supplier issue
+MOV01339	2023-07-18	P004	Damaged	0	Store 2	REF4273	Quality check
+MOV01340	2024-06-08	P053	Damaged	28	Online Fulfillment	REF7547	Customer return
+MOV01341	2023-01-20	P007	Adjustment	25	Store 1	REF4420	Customer return
+MOV01342	2023-07-03	P041	Damaged	-50	Warehouse A	REF2435	Supplier issue
+MOV01343	2024-01-10	P030	Adjustment	16	Store 2	REF1322	Supplier issue
+MOV01344	2024-10-28	P056	Transfer	59	Store 2	REF8953	
+MOV01345	2024-10-02	P013	Sale	17	Warehouse A	REF6061	Customer return
+MOV01346	2023-06-03	P036	Return	90	Store 2	REF5500	
+MOV01347	2023-03-08	P088	Return	5	Store 1	REF1401	
+MOV01348	2023-01-18	P086	Return	0	Store 1	REF2243	
+MOV01349	2023-10-11	P006	Adjustment	3	Online Fulfillment	REF3513	
+MOV01350	2024-12-29	P033	Damaged	53	Store 1	REF2610	Quality check
+MOV01351	2023-05-29	P059	Purchase	-38	Warehouse A	REF5902	
+MOV01352	2024-11-02	P075	Purchase	-6	Store 2	REF5591	Quality check
+MOV01353	2024-06-12	P034	Adjustment	-44	Online Fulfillment	REF2605	
+MOV01354	2023-06-12	P083	Purchase	42	Warehouse A	REF2557	Supplier issue
+MOV01355	2023-08-05	P031	Transfer	-12	Warehouse B	REF7406	Quality check
+MOV01356	2023-11-22	P075	Sale	-16	Online Fulfillment	REF8020	Customer return
+MOV01357	2024-05-16	P096	Purchase	-22	Online Fulfillment	REF3766	Customer return
+MOV01358	2024-08-10	P096	Purchase	-15	Online Fulfillment	REF4471	Regular operation
+MOV01359	2023-01-28	P055	Sale	11	Online Fulfillment	REF2846	
+MOV01360	2023-08-05	P084	Transfer	-7	Store 1	REF6964	Regular operation
+MOV01361	2024-02-29	P064	Transfer	-28	Store 2	REF8375	Supplier issue
+MOV01362	2023-05-06	P088	Damaged	96	Store 2	REF1128	Supplier issue
+MOV01363	2024-09-27	P011	Purchase	70	Warehouse B	REF3446	Quality check
+MOV01364	2023-08-22	P091	Return	94	Warehouse A	REF5078	Quality check
+MOV01365	2024-01-06	P027	Purchase	45	Warehouse B	REF6770	Supplier issue
+MOV01366	2023-06-21	P092	Transfer	67	Warehouse B	REF6097	Customer return
+MOV01367	2024-12-15	P082	Purchase	19	Warehouse A	REF5156	Regular operation
+MOV01368	2023-09-30	P058	Damaged	77	Warehouse A	REF8030	
+MOV01369	2023-06-19	P069	Damaged	87	Warehouse B	REF2270	
+MOV01370	2024-10-28	P017	Return	23	Store 2	REF9968	Quality check
+MOV01371	2023-04-10	P052	Sale	46	Warehouse B	REF8998	Regular operation
+MOV01372	2023-08-06	P067	Adjustment	22	Store 2	REF4779	Quality check
+MOV01373	2023-06-16	P028	Sale	-15	Store 1	REF3600	Supplier issue
+MOV01374	2023-07-24	P058	Transfer	4	Store 2	REF9395	Regular operation
+MOV01375	2023-06-12	P044	Return	-24	Store 1	REF6609	Quality check
+MOV01376	2024-06-17	P100	Adjustment	88	Store 1	REF8812	Customer return
+MOV01377	2024-09-17	P001	Return	16	Store 2	REF5637	Regular operation
+MOV01378	2024-03-29	P055	Return	4	Store 1	REF5404	Regular operation
+MOV01379	2023-01-04	P045	Adjustment	100	Store 1	REF1550	Supplier issue
+MOV01380	2024-12-08	P042	Sale	39	Warehouse B	REF3893	
+MOV01381	2023-09-10	P081	Sale	18	Store 1	REF5401	
+MOV01382	2023-08-26	P036	Damaged	45	Warehouse A	REF7046	Customer return
+MOV01383	2023-01-06	P097	Transfer	65	Store 2	REF6212	Customer return
+MOV01384	2024-05-20	P018	Damaged	89	Warehouse A	REF6279	Supplier issue
+MOV01385	2023-01-29	P055	Adjustment	-5	Store 1	REF1008	Regular operation
+MOV01386	2024-12-23	P055	Sale	-3	Warehouse A	REF5927	Quality check
+MOV01387	2024-11-06	P058	Adjustment	-19	Store 1	REF5673	
+MOV01388	2024-05-02	P022	Return	82	Store 1	REF3118	Supplier issue
+MOV01389	2023-04-30	P045	Sale	82	Warehouse B	REF1095	Customer return
+MOV01390	2024-03-11	P071	Sale	-37	Online Fulfillment	REF1771	
+MOV01391	2023-06-29	P003	Damaged	71	Online Fulfillment	REF1070	
+MOV01392	2024-05-28	P066	Sale	-7	Warehouse A	REF3119	Customer return
+MOV01393	2023-07-01	P081	Purchase	-49	Online Fulfillment	REF5485	Quality check
+MOV01394	2023-07-20	P082	Return	16	Store 2	REF2343	Quality check
+MOV01395	2023-02-20	P094	Sale	75	Online Fulfillment	REF3141	
+MOV01396	2024-08-17	P002	Sale	30	Warehouse A	REF1372	Regular operation
+MOV01397	2024-11-19	P022	Sale	72	Online Fulfillment	REF3231	Customer return
+MOV01398	2024-04-19	P074	Transfer	81	Online Fulfillment	REF5057	Customer return
+MOV01399	2024-09-19	P089	Damaged	14	Warehouse B	REF3766	Supplier issue
+MOV01400	2023-02-04	P030	Sale	-7	Store 1	REF1805	
+MOV01401	2023-01-05	P084	Adjustment	71	Warehouse A	REF1205	Quality check
+MOV01402	2024-05-07	P099	Transfer	-24	Store 2	REF2733	Customer return
+MOV01403	2023-02-20	P049	Transfer	33	Warehouse B	REF5811	Supplier issue
+MOV01404	2023-01-14	P065	Transfer	93	Online Fulfillment	REF7048	
+MOV01405	2023-06-15	P087	Purchase	88	Store 1	REF2918	Customer return
+MOV01406	2023-03-28	P100	Sale	-15	Online Fulfillment	REF7826	Supplier issue
+MOV01407	2023-02-16	P003	Transfer	99	Online Fulfillment	REF8482	Customer return
+MOV01408	2024-08-14	P036	Purchase	-24	Store 2	REF2801	Customer return
+MOV01409	2024-08-19	P008	Sale	53	Store 1	REF9205	Supplier issue
+MOV01410	2023-09-12	P061	Sale	38	Online Fulfillment	REF1350	Regular operation
+MOV01411	2023-05-30	P041	Transfer	97	Store 2	REF9292	Customer return
+MOV01412	2024-06-17	P089	Sale	18	Warehouse B	REF3216	
+MOV01413	2024-12-02	P089	Adjustment	88	Store 2	REF9032	Regular operation
+MOV01414	2023-12-10	P040	Damaged	-3	Online Fulfillment	REF6566	
+MOV01415	2024-09-01	P098	Return	74	Warehouse A	REF5948	Supplier issue
+MOV01416	2024-11-18	P084	Adjustment	-37	Warehouse A	REF8663	Regular operation
+MOV01417	2024-09-06	P011	Damaged	-38	Warehouse B	REF7004	Quality check
+MOV01418	2023-08-13	P052	Sale	39	Online Fulfillment	REF3433	Regular operation
+MOV01419	2024-10-02	P061	Sale	1	Store 1	REF1180	Customer return
+MOV01420	2024-10-08	P012	Return	32	Online Fulfillment	REF9901	Supplier issue
+MOV01421	2024-03-06	P032	Purchase	19	Warehouse B	REF9879	Supplier issue
+MOV01422	2023-02-27	P049	Purchase	-34	Store 1	REF5979	Quality check
+MOV01423	2023-04-29	P015	Damaged	83	Online Fulfillment	REF6537	
+MOV01424	2023-09-20	P077	Damaged	-21	Online Fulfillment	REF3423	Supplier issue
+MOV01425	2023-11-30	P086	Transfer	35	Warehouse A	REF8796	Quality check
+MOV01426	2023-08-27	P051	Damaged	49	Store 2	REF6004	
+MOV01427	2023-05-03	P036	Sale	-28	Warehouse B	REF8381	Customer return
+MOV01428	2023-01-24	P098	Damaged	-50	Warehouse A	REF9959	Regular operation
+MOV01429	2023-04-30	P014	Purchase	54	Warehouse B	REF3697	Quality check
+MOV01430	2023-10-08	P035	Sale	-10	Store 2	REF6690	Customer return
+MOV01431	2024-08-05	P094	Return	-30	Online Fulfillment	REF9209	Regular operation
+MOV01432	2024-10-19	P075	Adjustment	78	Store 1	REF6336	Regular operation
+MOV01433	2024-04-05	P077	Purchase	38	Store 1	REF4906	Supplier issue
+MOV01434	2024-08-16	P072	Purchase	4	Store 1	REF7015	
+MOV01435	2024-12-31	P033	Transfer	2	Warehouse A	REF5646	
+MOV01436	2023-10-07	P007	Transfer	-39	Online Fulfillment	REF2138	Regular operation
+MOV01437	2023-01-06	P054	Transfer	33	Store 2	REF9862	Regular operation
+MOV01438	2024-09-09	P069	Damaged	5	Warehouse B	REF4123	Regular operation
+MOV01439	2024-02-12	P061	Transfer	-7	Store 2	REF7304	Customer return
+MOV01440	2023-01-18	P098	Damaged	10	Warehouse A	REF8322	Customer return
+MOV01441	2023-01-03	P044	Transfer	97	Online Fulfillment	REF1443	Supplier issue
+MOV01442	2023-10-12	P003	Transfer	-21	Warehouse A	REF7152	Supplier issue
+MOV01443	2023-04-23	P008	Transfer	-24	Store 2	REF7157	Customer return
+MOV01444	2023-04-11	P003	Return	-9	Warehouse A	REF9852	Supplier issue
+MOV01445	2023-12-03	P028	Damaged	77	Store 1	REF5448	Customer return
+MOV01446	2024-12-08	P046	Damaged	86	Warehouse B	REF4083	Regular operation
+MOV01447	2024-06-21	P047	Damaged	61	Store 2	REF6443	Customer return
+MOV01448	2024-08-01	P032	Return	68	Online Fulfillment	REF2736	Quality check
+MOV01449	2024-02-25	P067	Transfer	81	Warehouse A	REF1118	Supplier issue
+MOV01450	2024-10-04	P081	Damaged	92	Store 2	REF4904	Quality check
+MOV01451	2023-03-02	P011	Transfer	68	Warehouse A	REF4570	Regular operation
+MOV01452	2024-05-17	P081	Transfer	-20	Store 2	REF7943	Quality check
+MOV01453	2023-09-13	P092	Sale	33	Store 1	REF9701	
+MOV01454	2023-04-27	P011	Damaged	-21	Warehouse B	REF8206	Supplier issue
+MOV01455	2024-03-04	P013	Return	-26	Online Fulfillment	REF1482	Supplier issue
+MOV01456	2024-05-29	P035	Return	-18	Store 1	REF7373	Supplier issue
+MOV01457	2024-03-21	P090	Purchase	-35	Store 1	REF3276	Customer return
+MOV01458	2024-09-14	P057	Adjustment	30	Store 2	REF2514	Quality check
+MOV01459	2023-12-13	P033	Return	39	Online Fulfillment	REF5936	Supplier issue
+MOV01460	2024-08-04	P086	Return	-28	Online Fulfillment	REF7405	Regular operation
+MOV01461	2023-09-18	P074	Transfer	-46	Warehouse A	REF5335	Regular operation
+MOV01462	2024-12-10	P076	Purchase	35	Store 1	REF5926	Customer return
+MOV01463	2024-08-08	P055	Sale	45	Warehouse B	REF2794	Supplier issue
+MOV01464	2023-12-24	P032	Transfer	66	Warehouse B	REF1788	Supplier issue
+MOV01465	2024-02-18	P050	Damaged	52	Store 2	REF6842	Quality check
+MOV01466	2023-09-20	P083	Return	-4	Warehouse A	REF4942	Regular operation
+MOV01467	2023-11-25	P062	Transfer	76	Warehouse A	REF7625	Customer return
+MOV01468	2024-07-24	P009	Purchase	-17	Store 1	REF7041	Regular operation
+MOV01469	2024-04-29	P057	Transfer	9	Store 2	REF4665	Customer return
+MOV01470	2023-02-13	P087	Transfer	57	Online Fulfillment	REF1799	Regular operation
+MOV01471	2024-08-05	P018	Sale	67	Warehouse A	REF7855	Supplier issue
+MOV01472	2023-06-25	P027	Transfer	8	Store 1	REF3952	Supplier issue
+MOV01473	2023-01-02	P011	Adjustment	64	Warehouse B	REF7826	Customer return
+MOV01474	2023-12-10	P065	Purchase	2	Warehouse B	REF8120	Regular operation
+MOV01475	2023-07-14	P043	Damaged	16	Warehouse B	REF8412	Regular operation
+MOV01476	2023-03-26	P086	Transfer	-18	Warehouse B	REF4313	Quality check
+MOV01477	2024-10-21	P081	Purchase	-37	Warehouse B	REF6313	Quality check
+MOV01478	2023-02-14	P036	Damaged	52	Store 2	REF6060	Regular operation
+MOV01479	2024-04-09	P013	Transfer	45	Warehouse B	REF4808	Regular operation
+MOV01480	2023-03-21	P044	Adjustment	25	Online Fulfillment	REF4603	Customer return
+MOV01481	2024-02-29	P023	Damaged	92	Store 2	REF6562	Quality check
+MOV01482	2024-12-03	P014	Transfer	16	Online Fulfillment	REF4879	Quality check
+MOV01483	2024-01-23	P037	Transfer	-12	Warehouse A	REF6646	Quality check
+MOV01484	2024-12-21	P076	Adjustment	14	Store 1	REF9534	Supplier issue
+MOV01485	2023-03-06	P049	Adjustment	-1	Online Fulfillment	REF4428	Regular operation
+MOV01486	2023-08-01	P017	Sale	-26	Store 2	REF9413	Regular operation
+MOV01487	2024-04-22	P001	Purchase	81	Warehouse B	REF2371	Customer return
+MOV01488	2023-12-11	P063	Return	-28	Warehouse B	REF7024	Regular operation
+MOV01489	2023-07-02	P014	Transfer	89	Warehouse B	REF4195	Customer return
+MOV01490	2023-01-16	P084	Purchase	70	Online Fulfillment	REF2185	
+MOV01491	2023-11-08	P035	Damaged	37	Store 1	REF8757	Supplier issue
+MOV01492	2024-02-02	P075	Damaged	46	Warehouse B	REF6633	Quality check
+MOV01493	2024-02-25	P058	Purchase	-24	Store 2	REF3012	Quality check
+MOV01494	2023-02-14	P030	Return	43	Store 2	REF5397	Regular operation
+MOV01495	2024-10-09	P057	Return	47	Store 1	REF3829	Quality check
+MOV01496	2023-01-06	P007	Sale	-3	Store 1	REF3920	Quality check
+MOV01497	2023-08-25	P058	Purchase	53	Store 2	REF6097	Quality check
+MOV01498	2023-08-11	P085	Damaged	-1	Store 1	REF2384	
+MOV01499	2024-09-29	P080	Adjustment	-10	Warehouse A	REF2082	Regular operation
+MOV01500	2023-11-21	P018	Transfer	-9	Store 2	REF1142	
+MOV01501	2024-11-28	P075	Sale	-36	Store 2	REF8719	Supplier issue
+MOV01502	2024-10-07	P033	Sale	-38	Warehouse A	REF2530	Supplier issue
+MOV01503	2024-12-11	P032	Purchase	-40	Warehouse A	REF1657	
+MOV01504	2023-04-28	P004	Damaged	17	Store 2	REF1587	Regular operation
+MOV01505	2023-12-06	P024	Damaged	-39	Store 1	REF6577	Supplier issue
+MOV01506	2024-03-03	P069	Adjustment	38	Warehouse A	REF1341	Quality check
+MOV01507	2024-07-15	P077	Return	3	Store 2	REF3975	Quality check
+MOV01508	2024-04-15	P099	Damaged	85	Warehouse B	REF3992	
+MOV01509	2023-01-09	P022	Return	4	Warehouse B	REF6038	Customer return
+MOV01510	2024-06-25	P070	Transfer	-45	Store 2	REF7704	
+MOV01511	2024-12-28	P056	Return	68	Store 2	REF7535	Customer return
+MOV01512	2023-11-16	P028	Transfer	40	Online Fulfillment	REF3690	
+MOV01513	2024-08-03	P013	Return	58	Warehouse B	REF2194	Quality check
+MOV01514	2024-11-02	P099	Return	37	Warehouse B	REF5246	Supplier issue
+MOV01515	2023-09-25	P075	Damaged	-34	Warehouse A	REF7655	Regular operation
+MOV01516	2024-06-05	P034	Damaged	69	Online Fulfillment	REF2974	
+MOV01517	2023-06-11	P019	Sale	4	Store 1	REF5440	
+MOV01518	2023-10-24	P036	Adjustment	27	Online Fulfillment	REF5976	
+MOV01519	2023-12-30	P086	Adjustment	29	Store 1	REF6383	Regular operation
+MOV01520	2024-12-17	P034	Sale	-20	Store 1	REF8593	Quality check
+MOV01521	2024-09-27	P096	Transfer	-27	Store 1	REF3170	Supplier issue
+MOV01522	2023-02-26	P062	Purchase	6	Warehouse B	REF2397	Customer return
+MOV01523	2023-08-28	P069	Sale	62	Store 2	REF5614	Supplier issue
+MOV01524	2023-04-29	P099	Sale	4	Online Fulfillment	REF6760	Customer return
+MOV01525	2023-09-28	P047	Damaged	-13	Store 1	REF2831	Quality check
+MOV01526	2024-03-28	P023	Purchase	55	Store 2	REF8231	Quality check
+MOV01527	2023-03-03	P080	Damaged	67	Online Fulfillment	REF1432	Quality check
+MOV01528	2024-09-18	P079	Damaged	4	Store 1	REF7559	
+MOV01529	2024-02-09	P021	Purchase	72	Store 1	REF4475	
+MOV01530	2023-04-29	P077	Purchase	99	Warehouse B	REF9994	Quality check
+MOV01531	2024-06-13	P088	Transfer	-29	Online Fulfillment	REF4453	Customer return
+MOV01532	2023-01-14	P057	Sale	78	Store 1	REF9719	Customer return
+MOV01533	2023-12-14	P002	Return	-41	Store 2	REF9346	Regular operation
+MOV01534	2023-12-21	P013	Damaged	-28	Store 1	REF7791	Quality check
+MOV01535	2024-04-16	P065	Return	51	Store 2	REF3638	Regular operation
+MOV01536	2024-04-25	P091	Adjustment	-9	Store 2	REF3902	Customer return
+MOV01537	2023-08-24	P065	Purchase	28	Store 1	REF6940	Supplier issue
+MOV01538	2023-12-26	P011	Damaged	18	Online Fulfillment	REF8411	Customer return
+MOV01539	2023-07-28	P084	Purchase	-33	Store 1	REF5253	Supplier issue
+MOV01540	2023-08-06	P032	Transfer	16	Store 1	REF6313	Customer return
+MOV01541	2023-12-08	P001	Purchase	-18	Warehouse B	REF3290	Regular operation
+MOV01542	2024-09-23	P088	Transfer	78	Store 1	REF2640	Quality check
+MOV01543	2023-03-22	P017	Purchase	41	Online Fulfillment	REF5014	Regular operation
+MOV01544	2024-07-20	P074	Transfer	9	Warehouse A	REF3490	Quality check
+MOV01545	2023-06-05	P092	Purchase	-8	Store 1	REF2131	Supplier issue
+MOV01546	2024-03-12	P053	Transfer	62	Warehouse A	REF7616	
+MOV01547	2023-07-26	P090	Transfer	-10	Online Fulfillment	REF3697	Supplier issue
+MOV01548	2024-12-25	P053	Adjustment	24	Warehouse A	REF1301	Regular operation
+MOV01549	2024-09-04	P085	Adjustment	74	Warehouse B	REF6369	Customer return
+MOV01550	2024-08-17	P085	Adjustment	-3	Store 1	REF6735	
+MOV01551	2023-01-19	P094	Purchase	-14	Warehouse A	REF4561	Customer return
+MOV01552	2023-12-07	P025	Purchase	-20	Warehouse B	REF6539	Quality check
+MOV01553	2023-09-16	P088	Sale	60	Store 1	REF7370	Supplier issue
+MOV01554	2024-08-18	P029	Adjustment	-35	Store 2	REF8791	Customer return
+MOV01555	2024-03-21	P039	Return	-45	Warehouse B	REF2414	Customer return
+MOV01556	2024-06-11	P023	Sale	-20	Warehouse A	REF5265	Customer return
+MOV01557	2024-12-15	P064	Sale	-46	Store 1	REF7143	Customer return
+MOV01558	2023-08-21	P021	Purchase	51	Online Fulfillment	REF6314	Customer return
+MOV01559	2023-11-21	P001	Sale	49	Online Fulfillment	REF5671	Customer return
+MOV01560	2023-01-15	P046	Transfer	3	Store 2	REF1881	Supplier issue
+MOV01561	2023-06-12	P020	Transfer	78	Store 1	REF4265	
+MOV01562	2023-06-03	P094	Transfer	93	Store 2	REF7359	
+MOV01563	2024-08-15	P068	Purchase	-25	Warehouse A	REF7552	Customer return
+MOV01564	2023-07-04	P068	Return	22	Store 1	REF4205	Regular operation
+MOV01565	2023-11-18	P023	Damaged	4	Store 2	REF2691	Customer return
+MOV01566	2023-04-08	P056	Sale	63	Warehouse A	REF8544	Quality check
+MOV01567	2024-05-23	P034	Damaged	-15	Warehouse A	REF1738	Customer return
+MOV01568	2023-02-24	P024	Damaged	25	Warehouse A	REF8250	
+MOV01569	2024-09-20	P030	Transfer	63	Store 2	REF9398	Regular operation
+MOV01570	2023-02-18	P034	Transfer	44	Online Fulfillment	REF2643	Customer return
+MOV01571	2024-09-03	P004	Damaged	41	Store 1	REF3796	Customer return
+MOV01572	2024-07-23	P097	Adjustment	83	Store 1	REF1721	Customer return
+MOV01573	2023-04-18	P099	Return	77	Warehouse A	REF5264	Regular operation
+MOV01574	2024-11-27	P066	Transfer	68	Store 2	REF6722	Regular operation
+MOV01575	2023-11-28	P090	Adjustment	100	Warehouse B	REF3192	
+MOV01576	2023-04-28	P083	Sale	66	Online Fulfillment	REF1554	Regular operation
+MOV01577	2024-02-12	P071	Transfer	22	Warehouse A	REF6048	Supplier issue
+MOV01578	2024-02-18	P089	Sale	8	Warehouse A	REF6076	Supplier issue
+MOV01579	2024-10-18	P077	Purchase	28	Warehouse A	REF6151	
+MOV01580	2023-07-10	P099	Transfer	27	Warehouse B	REF8655	Supplier issue
+MOV01581	2024-05-17	P059	Return	-24	Store 2	REF6507	Quality check
+MOV01582	2024-03-31	P036	Adjustment	46	Store 2	REF6628	Supplier issue
+MOV01583	2023-07-30	P088	Adjustment	-25	Store 2	REF5858	Quality check
+MOV01584	2024-02-11	P009	Damaged	-21	Warehouse A	REF7632	
+MOV01585	2024-01-13	P076	Return	-15	Store 1	REF2161	Supplier issue
+MOV01586	2023-05-01	P056	Transfer	76	Store 1	REF9039	
+MOV01587	2023-06-17	P041	Adjustment	13	Store 1	REF4342	Quality check
+MOV01588	2023-11-29	P012	Purchase	-19	Warehouse A	REF1443	Quality check
+MOV01589	2024-11-04	P072	Transfer	1	Warehouse A	REF5389	
+MOV01590	2024-11-13	P099	Purchase	19	Warehouse A	REF1872	Regular operation
+MOV01591	2023-04-02	P095	Sale	-39	Warehouse A	REF8427	Customer return
+MOV01592	2024-04-23	P034	Damaged	93	Warehouse A	REF6133	Supplier issue
+MOV01593	2024-08-05	P056	Purchase	100	Store 1	REF3121	Quality check
+MOV01594	2024-05-27	P008	Sale	-33	Warehouse B	REF5219	Customer return
+MOV01595	2024-12-11	P069	Sale	17	Store 2	REF1143	
+MOV01596	2023-01-26	P096	Adjustment	-39	Online Fulfillment	REF3956	Supplier issue
+MOV01597	2024-06-13	P083	Return	64	Store 1	REF4163	Supplier issue
+MOV01598	2024-12-11	P037	Sale	34	Store 1	REF3923	Customer return
+MOV01599	2024-11-26	P060	Purchase	-6	Store 2	REF2770	Customer return
+MOV01600	2024-11-08	P038	Adjustment	53	Store 2	REF3156	Regular operation
+MOV01601	2024-05-10	P100	Damaged	-6	Online Fulfillment	REF8522	Quality check
+MOV01602	2023-05-15	P097	Sale	-21	Online Fulfillment	REF8170	Regular operation
+MOV01603	2024-06-04	P053	Damaged	11	Warehouse B	REF5957	Customer return
+MOV01604	2023-12-25	P030	Transfer	62	Store 1	REF1766	
+MOV01605	2023-06-26	P073	Damaged	-45	Warehouse B	REF9414	Customer return
+MOV01606	2024-02-03	P090	Transfer	78	Warehouse A	REF3267	
+MOV01607	2023-11-07	P036	Purchase	-11	Store 2	REF9479	Quality check
+MOV01608	2024-03-05	P089	Sale	46	Online Fulfillment	REF5520	
+MOV01609	2023-10-31	P014	Damaged	25	Store 2	REF1904	Customer return
+MOV01610	2023-10-21	P059	Return	-30	Store 1	REF4841	Supplier issue
+MOV01611	2024-10-10	P078	Sale	52	Warehouse A	REF8066	Regular operation
+MOV01612	2024-07-06	P099	Sale	13	Online Fulfillment	REF3401	Regular operation
+MOV01613	2024-11-30	P003	Purchase	-6	Online Fulfillment	REF8742	
+MOV01614	2023-01-09	P054	Damaged	73	Online Fulfillment	REF3276	Customer return
+MOV01615	2024-03-08	P041	Damaged	30	Warehouse B	REF1078	
+MOV01616	2023-05-31	P020	Sale	-7	Warehouse A	REF3093	
+MOV01617	2024-07-14	P014	Adjustment	-45	Warehouse B	REF6246	
+MOV01618	2023-08-11	P100	Sale	-12	Warehouse B	REF3726	Supplier issue
+MOV01619	2023-05-28	P029	Return	16	Warehouse B	REF5389	Regular operation
+MOV01620	2024-02-06	P008	Transfer	4	Online Fulfillment	REF9602	Regular operation
+MOV01621	2023-09-18	P097	Transfer	99	Online Fulfillment	REF5440	
+MOV01622	2024-11-16	P022	Damaged	-8	Warehouse B	REF4138	Quality check
+MOV01623	2023-06-30	P065	Damaged	27	Store 2	REF7474	Regular operation
+MOV01624	2024-09-08	P075	Transfer	63	Warehouse A	REF1743	
+MOV01625	2024-12-25	P013	Transfer	52	Warehouse B	REF3403	Regular operation
+MOV01626	2023-09-03	P083	Sale	64	Store 1	REF3925	Regular operation
+MOV01627	2023-09-24	P045	Damaged	41	Store 1	REF5216	Supplier issue
+MOV01628	2023-05-15	P020	Adjustment	-43	Warehouse A	REF5327	
+MOV01629	2024-09-17	P088	Damaged	76	Store 1	REF5165	Quality check
+MOV01630	2023-06-29	P085	Return	65	Warehouse B	REF1521	Quality check
+MOV01631	2024-05-18	P033	Transfer	43	Warehouse A	REF9596	Quality check
+MOV01632	2024-03-24	P035	Sale	-13	Warehouse A	REF1855	Supplier issue
+MOV01633	2024-11-05	P001	Damaged	90	Warehouse B	REF1032	Supplier issue
+MOV01634	2024-05-14	P032	Adjustment	47	Store 2	REF6954	
+MOV01635	2023-12-31	P075	Transfer	63	Store 2	REF2533	Customer return
+MOV01636	2024-04-24	P030	Sale	9	Store 1	REF4643	
+MOV01637	2023-08-05	P064	Transfer	-41	Warehouse B	REF5041	
+MOV01638	2024-08-29	P038	Damaged	-36	Store 1	REF8156	
+MOV01639	2023-10-24	P087	Adjustment	47	Warehouse A	REF3765	Supplier issue
+MOV01640	2024-06-21	P016	Sale	-39	Store 2	REF7566	Quality check
+MOV01641	2023-10-14	P070	Purchase	97	Online Fulfillment	REF6786	Quality check
+MOV01642	2023-06-13	P034	Damaged	-16	Store 2	REF6369	Supplier issue
+MOV01643	2023-04-29	P058	Damaged	12	Store 2	REF3477	Regular operation
+MOV01644	2023-03-22	P061	Damaged	-45	Warehouse A	REF2840	Supplier issue
+MOV01645	2023-11-25	P082	Return	35	Store 2	REF8449	Supplier issue
+MOV01646	2023-10-29	P062	Sale	44	Warehouse A	REF1706	Supplier issue
+MOV01647	2024-04-09	P092	Return	26	Store 1	REF9324	
+MOV01648	2023-02-13	P091	Adjustment	-19	Store 2	REF8998	Supplier issue
+MOV01649	2024-06-15	P095	Damaged	81	Warehouse A	REF4850	Regular operation
+MOV01650	2023-06-19	P037	Transfer	-16	Warehouse B	REF1031	Regular operation
+MOV01651	2024-07-27	P028	Sale	27	Warehouse A	REF9739	Supplier issue
+MOV01652	2023-05-04	P100	Return	30	Warehouse A	REF4210	
+MOV01653	2024-10-02	P025	Purchase	8	Online Fulfillment	REF1160	Quality check
+MOV01654	2024-01-14	P035	Sale	-24	Warehouse B	REF8225	Quality check
+MOV01655	2023-04-22	P020	Damaged	96	Store 1	REF1472	Customer return
+MOV01656	2024-07-18	P066	Damaged	89	Warehouse A	REF9865	Supplier issue
+MOV01657	2024-12-19	P047	Transfer	94	Store 2	REF4740	Quality check
+MOV01658	2024-12-11	P023	Damaged	99	Warehouse B	REF8880	
+MOV01659	2023-02-09	P080	Transfer	-14	Online Fulfillment	REF4854	
+MOV01660	2024-07-06	P051	Sale	97	Warehouse A	REF1638	Supplier issue
+MOV01661	2023-07-02	P004	Return	59	Store 2	REF7795	Quality check
+MOV01662	2023-02-11	P099	Sale	88	Warehouse A	REF7348	
+MOV01663	2023-03-11	P074	Return	89	Store 2	REF8859	Regular operation
+MOV01664	2024-04-23	P084	Adjustment	87	Store 2	REF5200	Customer return
+MOV01665	2023-10-08	P076	Purchase	-20	Online Fulfillment	REF6751	Regular operation
+MOV01666	2023-02-13	P014	Return	17	Warehouse B	REF8214	Quality check
+MOV01667	2023-11-27	P043	Adjustment	8	Warehouse A	REF2678	
+MOV01668	2023-02-17	P068	Adjustment	-16	Store 1	REF9243	Customer return
+MOV01669	2023-06-29	P029	Purchase	-17	Warehouse B	REF8788	Quality check
+MOV01670	2024-05-11	P089	Return	-10	Warehouse A	REF6633	Quality check
+MOV01671	2024-05-13	P100	Damaged	-13	Warehouse B	REF2131	Regular operation
+MOV01672	2024-12-18	P035	Sale	23	Warehouse A	REF7325	Supplier issue
+MOV01673	2023-08-28	P070	Sale	56	Store 2	REF8194	Customer return
+MOV01674	2024-08-19	P057	Sale	69	Store 2	REF8637	Regular operation
+MOV01675	2024-10-31	P074	Transfer	20	Store 2	REF1435	Customer return
+MOV01676	2023-07-13	P090	Return	50	Store 1	REF8214	Customer return
+MOV01677	2023-03-04	P079	Adjustment	87	Warehouse B	REF5252	
+MOV01678	2024-03-23	P081	Transfer	79	Store 2	REF2537	Supplier issue
+MOV01679	2024-12-12	P038	Adjustment	-10	Online Fulfillment	REF3061	
+MOV01680	2023-04-06	P098	Adjustment	72	Warehouse B	REF7383	Regular operation
+MOV01681	2023-11-30	P031	Transfer	-50	Online Fulfillment	REF2054	Regular operation
+MOV01682	2023-01-14	P003	Purchase	73	Store 2	REF9854	Quality check
+MOV01683	2023-04-30	P067	Sale	54	Warehouse B	REF8808	Customer return
+MOV01684	2023-03-14	P076	Transfer	74	Warehouse A	REF4404	Quality check
+MOV01685	2023-07-10	P041	Purchase	81	Warehouse A	REF4258	Quality check
+MOV01686	2024-10-01	P087	Sale	-9	Store 2	REF5230	Customer return
+MOV01687	2024-01-14	P034	Damaged	39	Store 1	REF5639	Supplier issue
+MOV01688	2023-06-14	P057	Transfer	76	Online Fulfillment	REF3862	Customer return
+MOV01689	2023-10-17	P057	Damaged	67	Warehouse A	REF8464	Customer return
+MOV01690	2023-01-25	P053	Adjustment	92	Store 2	REF8362	
+MOV01691	2024-08-14	P096	Return	-18	Warehouse A	REF7159	Regular operation
+MOV01692	2023-08-12	P061	Adjustment	86	Warehouse B	REF4130	Supplier issue
+MOV01693	2024-01-20	P011	Transfer	-17	Store 1	REF4347	Regular operation
+MOV01694	2024-07-11	P064	Transfer	76	Online Fulfillment	REF1476	
+MOV01695	2023-03-13	P023	Transfer	-31	Warehouse B	REF2350	Quality check
+MOV01696	2024-02-20	P028	Return	92	Warehouse A	REF6985	Supplier issue
+MOV01697	2024-05-04	P010	Purchase	-6	Store 2	REF3807	Quality check
+MOV01698	2024-12-27	P042	Damaged	-24	Online Fulfillment	REF4273	Quality check
+MOV01699	2023-11-21	P054	Sale	79	Store 1	REF5761	Quality check
+MOV01700	2024-05-13	P087	Sale	88	Warehouse B	REF9192	Customer return
+MOV01701	2023-01-29	P093	Purchase	-8	Store 1	REF3173	Regular operation
+MOV01702	2023-02-14	P034	Sale	-3	Warehouse A	REF2139	
+MOV01703	2023-06-10	P065	Damaged	-20	Warehouse B	REF5778	Supplier issue
+MOV01704	2024-09-24	P051	Damaged	57	Store 2	REF8642	
+MOV01705	2023-07-31	P004	Sale	-26	Store 2	REF3776	
+MOV01706	2023-09-30	P007	Transfer	5	Store 2	REF6739	Regular operation
+MOV01707	2023-08-07	P063	Adjustment	86	Store 1	REF9690	Regular operation
+MOV01708	2023-11-07	P095	Damaged	-24	Online Fulfillment	REF7238	Supplier issue
+MOV01709	2024-07-30	P079	Purchase	92	Store 1	REF6346	Regular operation
+MOV01710	2024-09-30	P020	Purchase	80	Store 1	REF7988	Customer return
+MOV01711	2023-09-13	P066	Return	-27	Online Fulfillment	REF5298	Regular operation
+MOV01712	2024-01-18	P052	Transfer	24	Store 1	REF4507	Customer return
+MOV01713	2023-02-25	P013	Purchase	68	Store 1	REF3860	
+MOV01714	2024-04-08	P091	Transfer	71	Warehouse B	REF3280	Customer return
+MOV01715	2024-04-28	P094	Damaged	32	Warehouse A	REF3109	Quality check
+MOV01716	2023-12-11	P079	Sale	-20	Warehouse B	REF4025	Supplier issue
+MOV01717	2023-06-22	P048	Return	23	Online Fulfillment	REF6992	Customer return
+MOV01718	2024-10-02	P002	Sale	-47	Store 2	REF6196	
+MOV01719	2023-05-16	P043	Return	59	Store 2	REF8214	Quality check
+MOV01720	2023-09-01	P080	Adjustment	63	Store 2	REF9522	Quality check
+MOV01721	2024-07-31	P002	Adjustment	31	Warehouse A	REF7670	Quality check
+MOV01722	2024-07-10	P001	Adjustment	59	Warehouse B	REF7624	Supplier issue
+MOV01723	2024-09-28	P039	Purchase	98	Warehouse A	REF8520	Quality check
+MOV01724	2024-04-22	P093	Sale	-7	Online Fulfillment	REF2824	Supplier issue
+MOV01725	2024-02-04	P036	Transfer	-47	Warehouse B	REF7553	Regular operation
+MOV01726	2023-10-20	P082	Damaged	41	Store 1	REF5109	Regular operation
+MOV01727	2024-11-26	P092	Sale	-30	Online Fulfillment	REF6932	Supplier issue
+MOV01728	2023-12-07	P003	Damaged	33	Online Fulfillment	REF5600	
+MOV01729	2023-11-04	P010	Damaged	19	Online Fulfillment	REF3942	Quality check
+MOV01730	2024-07-04	P029	Return	52	Warehouse A	REF3191	Quality check
+MOV01731	2024-08-30	P030	Return	-34	Warehouse A	REF8988	Customer return
+MOV01732	2024-06-07	P082	Adjustment	-2	Store 2	REF4975	
+MOV01733	2023-02-17	P045	Transfer	14	Store 2	REF1545	Supplier issue
+MOV01734	2023-01-07	P085	Return	8	Store 1	REF2718	Supplier issue
+MOV01735	2024-01-19	P078	Sale	-30	Store 2	REF3629	Supplier issue
+MOV01736	2023-03-09	P005	Transfer	17	Store 1	REF7505	Quality check
+MOV01737	2024-10-22	P010	Return	64	Online Fulfillment	REF7505	Regular operation
+MOV01738	2023-07-03	P054	Return	-38	Online Fulfillment	REF9772	
+MOV01739	2024-09-11	P063	Return	35	Online Fulfillment	REF6243	Quality check
+MOV01740	2024-04-29	P076	Transfer	72	Online Fulfillment	REF9380	Regular operation
+MOV01741	2024-03-12	P092	Adjustment	81	Warehouse A	REF7629	Customer return
+MOV01742	2023-03-21	P014	Transfer	90	Online Fulfillment	REF8297	Customer return
+MOV01743	2024-10-21	P039	Damaged	71	Warehouse B	REF3960	Regular operation
+MOV01744	2024-05-01	P082	Adjustment	80	Store 1	REF5806	Customer return
+MOV01745	2024-04-17	P037	Adjustment	68	Warehouse A	REF7501	Regular operation
+MOV01746	2024-06-17	P099	Damaged	37	Store 1	REF9315	Quality check
+MOV01747	2023-11-16	P070	Return	56	Store 1	REF4795	Quality check
+MOV01748	2024-04-22	P091	Return	28	Warehouse A	REF2162	Customer return
+MOV01749	2024-03-12	P047	Sale	71	Store 2	REF1839	Regular operation
+MOV01750	2024-10-19	P045	Adjustment	-9	Store 2	REF7569	
+MOV01751	2024-08-01	P069	Purchase	88	Warehouse A	REF7020	Quality check
+MOV01752	2024-04-06	P076	Sale	-44	Warehouse A	REF6336	Customer return
+MOV01753	2024-02-12	P031	Purchase	58	Store 1	REF7702	Regular operation
+MOV01754	2024-02-14	P088	Adjustment	29	Online Fulfillment	REF4292	Quality check
+MOV01755	2023-09-02	P063	Return	34	Online Fulfillment	REF4450	
+MOV01756	2024-06-17	P026	Damaged	7	Warehouse B	REF2456	Customer return
+MOV01757	2024-08-18	P032	Damaged	-11	Store 1	REF5679	
+MOV01758	2023-11-29	P074	Damaged	-8	Online Fulfillment	REF3848	Regular operation
+MOV01759	2024-02-08	P055	Adjustment	32	Warehouse B	REF5238	Supplier issue
+MOV01760	2024-09-17	P058	Damaged	-28	Warehouse A	REF1348	Regular operation
+MOV01761	2023-06-05	P069	Purchase	-50	Warehouse A	REF1320	Quality check
+MOV01762	2023-06-21	P096	Adjustment	52	Store 2	REF2475	Supplier issue
+MOV01763	2024-07-28	P002	Transfer	80	Store 2	REF5207	Customer return
+MOV01764	2024-12-11	P080	Damaged	98	Warehouse A	REF7414	Quality check
+MOV01765	2024-05-21	P089	Adjustment	55	Store 1	REF1057	Quality check
+MOV01766	2024-09-15	P098	Return	-9	Store 1	REF2022	Regular operation
+MOV01767	2023-06-07	P018	Transfer	-21	Store 1	REF4298	Customer return
+MOV01768	2023-07-27	P059	Return	99	Warehouse B	REF8883	Regular operation
+MOV01769	2024-08-29	P060	Adjustment	50	Warehouse A	REF7159	Quality check
+MOV01770	2023-10-23	P018	Transfer	-2	Warehouse B	REF9692	Regular operation
+MOV01771	2023-04-23	P086	Purchase	71	Warehouse A	REF2893	Supplier issue
+MOV01772	2024-04-17	P097	Return	28	Store 2	REF1323	
+MOV01773	2023-08-15	P038	Transfer	46	Store 1	REF2918	Supplier issue
+MOV01774	2023-11-28	P002	Adjustment	90	Warehouse B	REF2559	Quality check
+MOV01775	2023-07-29	P029	Purchase	31	Warehouse B	REF5468	
+MOV01776	2024-05-25	P049	Sale	-24	Store 2	REF5697	Regular operation
+MOV01777	2024-10-15	P004	Damaged	6	Store 2	REF6708	Regular operation
+MOV01778	2023-11-02	P014	Adjustment	21	Online Fulfillment	REF7690	Supplier issue
+MOV01779	2024-06-24	P088	Transfer	93	Warehouse B	REF4106	
+MOV01780	2024-04-09	P087	Sale	-17	Store 2	REF9669	Supplier issue
+MOV01781	2023-02-02	P021	Transfer	24	Online Fulfillment	REF7768	Quality check
+MOV01782	2024-01-04	P047	Return	-46	Warehouse A	REF3312	Regular operation
+MOV01783	2024-11-04	P077	Damaged	95	Warehouse A	REF5301	
+MOV01784	2024-08-26	P045	Sale	32	Warehouse B	REF6519	
+MOV01785	2024-01-10	P031	Purchase	-29	Online Fulfillment	REF7351	Customer return
+MOV01786	2023-10-06	P073	Damaged	74	Warehouse A	REF6517	
+MOV01787	2023-10-24	P033	Return	100	Online Fulfillment	REF2642	Customer return
+MOV01788	2023-11-17	P019	Purchase	-49	Warehouse B	REF1615	Quality check
+MOV01789	2024-05-31	P070	Damaged	71	Warehouse A	REF8406	Regular operation
+MOV01790	2023-09-10	P096	Damaged	59	Warehouse A	REF5719	Quality check
+MOV01791	2023-03-10	P019	Purchase	-49	Warehouse A	REF5690	Supplier issue
+MOV01792	2024-07-08	P063	Transfer	70	Store 1	REF3363	Regular operation
+MOV01793	2023-02-11	P008	Transfer	22	Online Fulfillment	REF8071	Customer return
+MOV01794	2023-11-03	P023	Return	34	Store 2	REF9474	Supplier issue
+MOV01795	2023-05-26	P024	Sale	-36	Store 1	REF5362	Customer return
+MOV01796	2023-04-07	P059	Purchase	-46	Store 1	REF7271	Supplier issue
+MOV01797	2023-08-08	P077	Damaged	-14	Online Fulfillment	REF4547	Supplier issue
+MOV01798	2024-08-10	P005	Adjustment	-48	Store 2	REF5115	
+MOV01799	2024-10-23	P064	Sale	11	Store 1	REF9592	Quality check
+MOV01800	2024-07-29	P081	Transfer	35	Warehouse A	REF8571	Customer return
+MOV01801	2024-10-12	P018	Purchase	27	Store 2	REF8915	Regular operation
+MOV01802	2023-02-10	P040	Transfer	0	Warehouse A	REF8318	Supplier issue
+MOV01803	2023-05-13	P060	Sale	-7	Store 1	REF6617	Quality check
+MOV01804	2024-07-13	P021	Adjustment	28	Warehouse B	REF4837	Quality check
+MOV01805	2024-12-14	P051	Sale	-18	Store 1	REF1956	Supplier issue
+MOV01806	2023-08-02	P039	Transfer	3	Store 2	REF4860	Quality check
+MOV01807	2023-08-26	P001	Purchase	16	Store 2	REF5204	Supplier issue
+MOV01808	2024-05-09	P047	Purchase	13	Online Fulfillment	REF1920	
+MOV01809	2023-12-01	P095	Return	-29	Online Fulfillment	REF6166	Quality check
+MOV01810	2023-03-05	P028	Transfer	76	Warehouse A	REF1714	Regular operation
+MOV01811	2024-12-09	P003	Return	19	Warehouse B	REF4568	Regular operation
+MOV01812	2024-01-08	P098	Purchase	99	Online Fulfillment	REF1874	
+MOV01813	2024-08-24	P031	Return	-40	Online Fulfillment	REF7699	Regular operation
+MOV01814	2023-02-26	P094	Transfer	73	Store 2	REF9254	Customer return
+MOV01815	2024-11-13	P068	Adjustment	45	Store 1	REF9542	Customer return
+MOV01816	2023-06-09	P021	Return	-3	Store 2	REF8206	Supplier issue
+MOV01817	2024-06-19	P046	Adjustment	35	Store 1	REF8122	Customer return
+MOV01818	2023-11-16	P019	Transfer	-6	Store 2	REF9088	Customer return
+MOV01819	2023-01-24	P012	Transfer	3	Warehouse B	REF6891	Quality check
+MOV01820	2024-12-25	P053	Adjustment	29	Online Fulfillment	REF5576	Quality check
+MOV01821	2023-07-11	P098	Sale	-27	Store 2	REF7314	Regular operation
+MOV01822	2024-09-19	P046	Sale	-2	Online Fulfillment	REF2676	Customer return
+MOV01823	2024-09-15	P071	Adjustment	-31	Store 1	REF3975	Regular operation
+MOV01824	2024-12-18	P029	Damaged	31	Store 2	REF9171	Supplier issue
+MOV01825	2024-09-29	P029	Purchase	-5	Store 1	REF1831	Customer return
+MOV01826	2024-08-26	P032	Transfer	48	Warehouse B	REF7144	Quality check
+MOV01827	2023-08-23	P009	Adjustment	36	Store 1	REF4343	Quality check
+MOV01828	2024-04-23	P026	Damaged	26	Store 2	REF8666	Supplier issue
+MOV01829	2023-08-11	P008	Damaged	61	Store 1	REF9786	Customer return
+MOV01830	2024-06-05	P019	Adjustment	60	Store 1	REF5915	Supplier issue
+MOV01831	2024-09-28	P076	Purchase	38	Online Fulfillment	REF9017	Quality check
+MOV01832	2024-10-12	P004	Damaged	12	Store 2	REF9359	Customer return
+MOV01833	2024-06-24	P014	Return	29	Warehouse B	REF9585	Quality check
+MOV01834	2024-02-23	P069	Adjustment	54	Warehouse A	REF1345	Supplier issue
+MOV01835	2023-11-17	P004	Return	51	Warehouse A	REF2624	Customer return
+MOV01836	2023-12-28	P047	Purchase	-39	Store 2	REF5899	
+MOV01837	2024-10-02	P070	Purchase	93	Online Fulfillment	REF7576	
+MOV01838	2024-01-26	P014	Purchase	45	Online Fulfillment	REF9646	
+MOV01839	2023-01-29	P009	Adjustment	-32	Online Fulfillment	REF8182	Quality check
+MOV01840	2024-08-29	P059	Purchase	-30	Warehouse B	REF7793	
+MOV01841	2023-08-07	P083	Purchase	41	Store 2	REF3763	Customer return
+MOV01842	2023-07-10	P008	Adjustment	-38	Store 1	REF2133	Regular operation
+MOV01843	2024-02-18	P080	Adjustment	56	Online Fulfillment	REF1172	Customer return
+MOV01844	2023-09-30	P032	Return	-12	Store 2	REF3054	Regular operation
+MOV01845	2024-09-11	P039	Damaged	64	Warehouse A	REF1020	Quality check
+MOV01846	2024-11-13	P032	Sale	77	Warehouse A	REF1527	Supplier issue
+MOV01847	2023-09-10	P017	Return	65	Store 1	REF3295	Regular operation
+MOV01848	2023-07-05	P031	Purchase	1	Store 1	REF9334	
+MOV01849	2024-07-31	P098	Damaged	-35	Store 1	REF7712	Customer return
+MOV01850	2023-07-29	P011	Adjustment	-15	Warehouse A	REF1940	Customer return
+MOV01851	2024-02-09	P027	Purchase	-32	Online Fulfillment	REF7328	Supplier issue
+MOV01852	2023-01-17	P084	Purchase	94	Online Fulfillment	REF9109	
+MOV01853	2023-08-03	P045	Purchase	31	Store 1	REF5836	Customer return
+MOV01854	2024-09-26	P025	Purchase	90	Warehouse A	REF4642	Regular operation
+MOV01855	2023-06-02	P046	Return	63	Warehouse A	REF9185	Quality check
+MOV01856	2023-09-20	P014	Sale	41	Warehouse A	REF6603	Customer return
+MOV01857	2024-12-10	P001	Adjustment	55	Store 1	REF8910	Regular operation
+MOV01858	2024-10-27	P072	Damaged	48	Warehouse B	REF5423	Quality check
+MOV01859	2024-02-23	P071	Damaged	-22	Warehouse B	REF2444	Customer return
+MOV01860	2023-12-08	P030	Transfer	22	Online Fulfillment	REF1136	Supplier issue
+MOV01861	2023-05-17	P100	Purchase	62	Online Fulfillment	REF5099	Customer return
+MOV01862	2024-11-13	P067	Return	34	Online Fulfillment	REF5936	Regular operation
+MOV01863	2023-07-01	P017	Sale	63	Store 2	REF7207	Regular operation
+MOV01864	2023-05-13	P013	Transfer	-37	Store 2	REF8107	Supplier issue
+MOV01865	2023-05-10	P043	Sale	64	Online Fulfillment	REF4144	Customer return
+MOV01866	2023-09-18	P035	Return	-19	Online Fulfillment	REF1626	Supplier issue
+MOV01867	2024-03-26	P063	Return	-14	Warehouse A	REF1127	
+MOV01868	2023-07-16	P002	Adjustment	3	Store 1	REF5837	Quality check
+MOV01869	2024-05-16	P014	Purchase	82	Store 1	REF3737	Customer return
+MOV01870	2024-03-31	P094	Return	19	Warehouse B	REF4753	Supplier issue
+MOV01871	2023-09-02	P044	Sale	16	Online Fulfillment	REF8475	Quality check
+MOV01872	2023-11-15	P067	Adjustment	83	Online Fulfillment	REF9350	Quality check
+MOV01873	2023-06-19	P021	Return	6	Store 1	REF1430	Quality check
+MOV01874	2023-07-06	P058	Adjustment	16	Store 2	REF1120	Quality check
+MOV01875	2023-08-24	P067	Return	75	Warehouse A	REF4599	Supplier issue
+MOV01876	2023-01-10	P044	Transfer	76	Store 2	REF6488	Quality check
+MOV01877	2023-06-16	P024	Purchase	-9	Warehouse A	REF1549	Customer return
+MOV01878	2023-01-13	P082	Sale	4	Store 1	REF3176	Regular operation
+MOV01879	2023-07-12	P029	Damaged	89	Store 2	REF4453	
+MOV01880	2023-11-05	P048	Sale	41	Warehouse A	REF1890	Quality check
+MOV01881	2023-04-10	P041	Damaged	55	Warehouse B	REF9897	Quality check
+MOV01882	2024-02-17	P049	Adjustment	94	Store 1	REF4092	Supplier issue
+MOV01883	2023-12-13	P065	Adjustment	27	Online Fulfillment	REF2161	
+MOV01884	2024-08-13	P062	Transfer	32	Warehouse A	REF4602	Customer return
+MOV01885	2023-10-28	P041	Damaged	32	Warehouse B	REF3647	
+MOV01886	2024-02-04	P064	Adjustment	-2	Store 2	REF6165	
+MOV01887	2023-11-16	P020	Transfer	3	Warehouse A	REF9249	
+MOV01888	2024-06-21	P085	Adjustment	-23	Store 2	REF7861	Supplier issue
+MOV01889	2023-08-24	P032	Return	-3	Online Fulfillment	REF1568	
+MOV01890	2023-03-25	P013	Return	16	Warehouse A	REF7211	
+MOV01891	2023-06-26	P038	Transfer	68	Store 2	REF1093	Customer return
+MOV01892	2024-11-24	P034	Damaged	96	Warehouse A	REF2157	Customer return
+MOV01893	2023-02-02	P055	Return	19	Store 2	REF7500	Customer return
+MOV01894	2023-04-08	P024	Adjustment	73	Store 1	REF1287	Supplier issue
+MOV01895	2024-01-01	P029	Return	-25	Warehouse B	REF9413	Quality check
+MOV01896	2023-09-24	P047	Adjustment	-8	Online Fulfillment	REF4541	Quality check
+MOV01897	2023-11-06	P086	Transfer	33	Store 2	REF6418	Regular operation
+MOV01898	2023-12-09	P089	Transfer	-11	Warehouse B	REF4500	Regular operation
+MOV01899	2024-08-31	P039	Adjustment	52	Warehouse A	REF6605	
+MOV01900	2024-03-13	P058	Adjustment	43	Store 2	REF2372	Quality check
+MOV01901	2023-10-07	P073	Transfer	5	Warehouse B	REF5891	Customer return
+MOV01902	2023-04-10	P040	Adjustment	74	Online Fulfillment	REF7298	
+MOV01903	2023-07-29	P066	Transfer	-12	Store 1	REF3703	
+MOV01904	2023-04-14	P037	Damaged	7	Store 2	REF4493	Customer return
+MOV01905	2024-10-16	P084	Damaged	-10	Online Fulfillment	REF1781	
+MOV01906	2023-08-19	P011	Damaged	-30	Store 2	REF9432	Supplier issue
+MOV01907	2024-04-03	P089	Return	17	Store 2	REF9588	Supplier issue
+MOV01908	2024-06-22	P058	Sale	-17	Warehouse A	REF8495	Regular operation
+MOV01909	2024-06-28	P012	Purchase	53	Online Fulfillment	REF5149	Customer return
+MOV01910	2023-04-28	P085	Transfer	-14	Store 2	REF9160	Regular operation
+MOV01911	2024-05-31	P092	Adjustment	-36	Warehouse A	REF6616	Quality check
+MOV01912	2024-08-08	P072	Damaged	68	Store 1	REF1343	Customer return
+MOV01913	2023-10-06	P010	Transfer	-34	Online Fulfillment	REF5902	
+MOV01914	2024-07-01	P082	Return	-19	Warehouse A	REF8881	Customer return
+MOV01915	2023-06-22	P050	Purchase	29	Warehouse B	REF3324	Supplier issue
+MOV01916	2023-11-14	P004	Return	41	Warehouse A	REF3749	Quality check
+MOV01917	2024-06-20	P088	Return	78	Online Fulfillment	REF4582	Supplier issue
+MOV01918	2023-01-31	P072	Purchase	-38	Warehouse B	REF6663	Supplier issue
+MOV01919	2024-11-30	P036	Sale	-28	Online Fulfillment	REF2910	Regular operation
+MOV01920	2023-01-31	P040	Damaged	99	Warehouse B	REF5181	Supplier issue
+MOV01921	2023-02-07	P098	Purchase	-12	Online Fulfillment	REF6878	Customer return
+MOV01922	2024-11-14	P084	Transfer	97	Store 2	REF3927	Supplier issue
+MOV01923	2023-08-22	P013	Damaged	35	Warehouse A	REF9388	Regular operation
+MOV01924	2023-01-09	P071	Adjustment	61	Store 2	REF1864	Customer return
+MOV01925	2024-11-23	P100	Sale	98	Store 1	REF8355	
+MOV01926	2023-01-19	P028	Return	21	Warehouse A	REF7346	Customer return
+MOV01927	2023-06-03	P096	Damaged	85	Warehouse B	REF4640	Customer return
+MOV01928	2024-08-05	P065	Return	86	Online Fulfillment	REF8950	Supplier issue
+MOV01929	2024-09-29	P085	Purchase	87	Store 2	REF5629	
+MOV01930	2024-12-11	P037	Purchase	-6	Warehouse A	REF3434	Quality check
+MOV01931	2023-10-16	P073	Adjustment	-42	Store 1	REF4346	Supplier issue
+MOV01932	2023-02-13	P091	Adjustment	-13	Store 2	REF3346	Quality check
+MOV01933	2023-12-09	P018	Adjustment	19	Warehouse B	REF7251	Regular operation
+MOV01934	2023-04-24	P032	Transfer	86	Store 2	REF1946	Customer return
+MOV01935	2024-04-25	P014	Adjustment	-9	Online Fulfillment	REF9305	Customer return
+MOV01936	2024-05-24	P094	Return	27	Online Fulfillment	REF9075	Regular operation
+MOV01937	2023-02-23	P073	Adjustment	15	Store 2	REF2931	Customer return
+MOV01938	2024-01-20	P074	Transfer	21	Online Fulfillment	REF5010	
+MOV01939	2024-10-07	P046	Adjustment	-39	Warehouse A	REF8120	Supplier issue
+MOV01940	2024-05-30	P044	Transfer	55	Store 2	REF8200	
+MOV01941	2024-09-09	P043	Sale	-15	Store 1	REF8381	Customer return
+MOV01942	2023-08-09	P079	Sale	-40	Warehouse B	REF7401	Regular operation
+MOV01943	2024-09-18	P074	Transfer	3	Warehouse B	REF7194	Regular operation
+MOV01944	2023-09-11	P070	Damaged	51	Warehouse A	REF7080	Supplier issue
+MOV01945	2024-10-19	P037	Sale	-2	Store 2	REF9766	Quality check
+MOV01946	2024-04-05	P095	Transfer	-48	Warehouse B	REF8407	Regular operation
+MOV01947	2024-04-23	P010	Transfer	60	Store 1	REF9817	
+MOV01948	2023-01-22	P059	Return	53	Warehouse A	REF3401	Regular operation
+MOV01949	2023-09-15	P053	Return	27	Store 1	REF7190	Customer return
+MOV01950	2024-03-20	P050	Sale	48	Warehouse B	REF7401	Quality check
+MOV01951	2024-12-23	P071	Damaged	-21	Warehouse B	REF3342	Quality check
+MOV01952	2023-06-30	P027	Purchase	22	Warehouse B	REF2586	Regular operation
+MOV01953	2023-08-25	P063	Transfer	96	Online Fulfillment	REF4047	Regular operation
+MOV01954	2023-11-06	P083	Transfer	64	Online Fulfillment	REF4521	Supplier issue
+MOV01955	2023-02-17	P097	Purchase	-6	Warehouse B	REF4291	Customer return
+MOV01956	2024-04-03	P090	Transfer	5	Store 2	REF8719	Customer return
+MOV01957	2024-09-03	P001	Purchase	-5	Online Fulfillment	REF3127	
+MOV01958	2024-11-27	P080	Sale	-11	Warehouse A	REF2112	Quality check
+MOV01959	2023-08-03	P057	Purchase	23	Store 1	REF8770	Customer return
+MOV01960	2024-12-31	P001	Damaged	91	Store 1	REF1808	Supplier issue
+MOV01961	2024-12-23	P038	Transfer	-30	Warehouse A	REF4700	
+MOV01962	2023-06-09	P069	Sale	0	Store 2	REF7922	Customer return
+MOV01963	2024-09-30	P031	Transfer	-13	Store 2	REF4674	Regular operation
+MOV01964	2023-09-02	P071	Purchase	-46	Warehouse B	REF5091	
+MOV01965	2023-07-22	P031	Adjustment	66	Warehouse B	REF7628	Regular operation
+MOV01966	2023-11-03	P093	Purchase	22	Store 2	REF7783	Regular operation
+MOV01967	2024-09-12	P037	Return	57	Warehouse A	REF6235	
+MOV01968	2023-04-21	P065	Purchase	-31	Warehouse A	REF7520	
+MOV01969	2024-09-08	P037	Damaged	-12	Online Fulfillment	REF4021	Quality check
+MOV01970	2023-08-30	P009	Damaged	75	Online Fulfillment	REF6618	
+MOV01971	2024-08-17	P027	Damaged	-13	Warehouse A	REF2052	Regular operation
+MOV01972	2024-11-27	P072	Transfer	82	Warehouse A	REF1117	Supplier issue
+MOV01973	2023-06-12	P030	Sale	-14	Store 2	REF5915	Supplier issue
+MOV01974	2024-06-15	P031	Purchase	-27	Online Fulfillment	REF6062	Customer return
+MOV01975	2023-05-07	P001	Transfer	87	Warehouse B	REF6030	Customer return
+MOV01976	2023-09-14	P020	Return	13	Store 2	REF5777	Quality check
+MOV01977	2023-10-01	P077	Return	-27	Store 2	REF9211	Customer return
+MOV01978	2024-07-16	P034	Adjustment	77	Warehouse A	REF3544	Quality check
+MOV01979	2024-08-20	P017	Transfer	-2	Warehouse A	REF1905	
+MOV01980	2023-03-09	P048	Adjustment	-33	Online Fulfillment	REF2535	Regular operation
+MOV01981	2023-10-27	P083	Sale	63	Online Fulfillment	REF3866	Quality check
+MOV01982	2023-11-14	P012	Purchase	-11	Store 1	REF3364	Customer return
+MOV01983	2023-02-17	P042	Transfer	49	Warehouse B	REF2743	Regular operation
+MOV01984	2024-01-21	P098	Sale	58	Online Fulfillment	REF5807	Customer return
+MOV01985	2023-03-09	P071	Adjustment	69	Store 2	REF9847	
+MOV01986	2024-02-29	P012	Damaged	70	Store 2	REF9736	Supplier issue
+MOV01987	2024-12-19	P024	Transfer	56	Warehouse B	REF1325	Customer return
+MOV01988	2023-06-24	P099	Transfer	76	Store 1	REF9946	Regular operation
+MOV01989	2023-03-01	P012	Damaged	29	Warehouse A	REF1769	Regular operation
+MOV01990	2024-06-23	P094	Sale	38	Online Fulfillment	REF3932	Quality check
+MOV01991	2023-02-18	P050	Return	-26	Warehouse A	REF8843	Supplier issue
+MOV01992	2024-07-24	P021	Return	-20	Store 1	REF3490	
+MOV01993	2024-06-10	P004	Purchase	29	Online Fulfillment	REF7824	Regular operation
+MOV01994	2024-01-09	P036	Adjustment	94	Warehouse A	REF7117	Regular operation
+MOV01995	2024-06-02	P039	Damaged	100	Store 1	REF2427	Supplier issue
+MOV01996	2023-01-15	P034	Sale	-38	Store 1	REF8853	Quality check
+MOV01997	2023-01-23	P068	Adjustment	93	Online Fulfillment	REF8229	Customer return
+MOV01998	2023-05-10	P050	Sale	-9	Warehouse B	REF9555	Customer return
+MOV01999	2023-10-30	P015	Sale	9	Warehouse B	REF6269	
+MOV02000	2024-10-29	P007	Sale	-32	Warehouse A	REF4535	Supplier issue

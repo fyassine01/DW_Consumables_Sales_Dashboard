@@ -1,0 +1,24 @@
+# Fichiers temporaires
+*.user
+*.tmp
+*.log
+*.bak
+*.backup
+
+# Visual Studio / SSIS
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+*.vsp
+*.vspscc
+*.vssscc
+.vs/
+
+# dossiers de build
+bin/
+obj/
+
+# PowerBI caches
+*.pbit

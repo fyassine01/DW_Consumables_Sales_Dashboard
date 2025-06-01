@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<data>
+  <record>
+    <supplierid>SUP001</supplierid>
+    <companyname>Dell</companyname>
+    <contactperson>Zineb Alami</contactperson>
+    <email>contact@dell.com</email>
+    <phone>+1-2120671315</phone>
+    <address>4010 Business St, City 1</address>
+    <country>China</country>
+    <paymentterms>2/10 Net 30</paymentterms>
+    <rating>4.1</rating>
+    <yearspartnership>4</yearspartnership>
+    <lastorderdate>2023-06-19</lastorderdate>
+  </record>
+  <record>
+    <supplierid>SUP002</supplierid>
+    <companyname>Sony</companyname>
+    <contactperson>Ali Hassani</contactperson>
+    <email>contact@sony.com</email>
+    <phone>+1-2746998590</phone>
+    <address>5182 Business St, City 2</address>
+    <country>USA</country>
+    <paymentterms>2/10 Net 30</paymentterms>
+    <rating>3.9</rating>
+    <yearspartnership>1</yearspartnership>
+    <lastorderdate>2023-09-18</lastorderdate>
+  </record>
+  <record>
+    <supplierid>SUP003</supplierid>
+    <companyname>Apple</companyname>
+    <contactperson>Hamid Douiri</contactperson>
+    <email>contact@apple.com</email>
+    <phone>+1-7013737117</phone>
+    <address>6541 Business St, City 3</address>
+    <country>USA</country>
+    <paymentterms>2/10 Net 30</paymentterms>
+    <rating>3.2</rating>
+    <yearspartnership>2</yearspartnership>
+    <lastorderdate>2023-06-09</lastorderdate>
+  </record>
+  <record>
+    <supplierid>SUP004</supplierid>
+    <companyname>Samsung</companyname>
+    <contactperson>Aicha Ghazi</contactperson>
+    <email>contact@samsung.com</email>
+    <phone>+1-5604441654</phone>
+    <address>3701 Business St, City 4</address>
+    <country>Germany</country>
+    <paymentterms>Net 30</paymentterms>
+    <rating>4.4</rating>
+    <yearspartnership>11</yearspartnership>
+    <lastorderdate>2023-12-28</lastorderdate>
+  </record>
+  <record>
+    <supplierid>SUP005</supplierid>
+    <companyname>Logitech</companyname>
+    <contactperson>Hamid Kabbaj</contactperson>
+    <email>contact@logitech.com</email>
+    <phone>+1-6944501521</phone>
+    <address>5136 Business St, City 5</address>
+    <country>Germany</country>
+    <paymentterms>2/10 Net 30</paymentterms>
+    <rating>3.9</rating>
+    <yearspartnership>5</yearspartnership>
+    <lastorderdate>2023-11-30</lastorderdate>
+  </record>
+  <record>
+    <supplierid>SUP006</supplierid>
+    <companyname>Microsoft</companyname>
+    <contactperson>Omar El Fassi</contactperson>
+    <email>contact@microsoft.com</email>
+    <phone>+1-5106976037</phone>
+    <address>3308 Business St, City 6</address>
+    <country>China</country>
+    <paymentterms>Net 30</paymentterms>
+    <rating>3.5</rating>
+    <yearspartnership>1</yearspartnership>
+    <lastorderdate>2023-04-22</lastorderdate>
+  </record>
+  <record>
+    <supplierid>SUP007</supplierid>
+    <companyname>HP</companyname>
+    <contactperson>Ali Ghazi</contactperson>
+    <email>contact@hp.com</email>
+    <phone>+1-8646563830</phone>
+    <address>1432 Business St, City 7</address>
+    <country>South Korea</country>
+    <paymentterms>Net 30</paymentterms>
+    <rating>3.7</rating>
+    <yearspartnership>9</yearspartnership>
+    <lastorderdate>2023-06-29</lastorderdate>
+  </record>
+  <record>
+    <supplierid>SUP008</supplierid>
+    <companyname>Canon</companyname>
+    <contactperson>Aicha Ghazi</contactperson>
+    <email>contact@canon.com</email>
+    <phone>+1-6308761796</phone>
+    <address>7142 Business St, City 8</address>
+    <country>China</country>
+    <paymentterms>Net 60</paymentterms>
+    <rating>3.7</rating>
+    <yearspartnership>14</yearspartnership>
+    <lastorderdate>2023-10-02</lastorderdate>
+  </record>
+  <record>
+    <supplierid>SUP009</supplierid>
+    <companyname>Nike</companyname>
+    <contactperson>Ali Kabbaj</contactperson>
+    <email>contact@nike.com</email>
+    <phone>+1-9747334572</phone>
+    <address>4621 Business St, City 9</address>
+    <country>South Korea</country>
+    <paymentterms>Net 30</paymentterms>
+    <rating>4.9</rating>
+    <yearspartnership>11</yearspartnership>
+    <lastorderdate>2023-05-09</lastorderdate>
+  </record>
+  <record>
+    <supplierid>SUP010</supplierid>
+    <companyname>Adidas</companyname>
+    <contactperson>Aicha Idrissi</contactperson>
+    <email>contact@adidas.com</email>
+    <phone>+1-6014843134</phone>
+    <address>4002 Business St, City 10</address>
+    <country>China</country>
+    <paymentterms>Net 30</paymentterms>
+    <rating>3.4</rating>
+    <yearspartnership>14</yearspartnership>
+    <lastorderdate>2023-11-11</lastorderdate>
+  </record>
+  <record>
+    <supplierid>SUP011</supplierid>
+    <companyname>Staples</companyname>
+    <contactperson>Aicha Jabri</contactperson>
+    <email>contact@staples.com</email>
+    <phone>+1-7931468572</phone>
+    <address>5881 Business St, City 11</address>
+    <country>Germany</country>
+    <paymentterms>COD</paymentterms>
+    <rating>4.6</rating>
+    <yearspartnership>6</yearspartnership>
+    <lastorderdate>2023-12-03</lastorderdate>
+  </record>
+  <record>
+    <supplierid>SUP012</supplierid>
+    <companyname>IKEA</companyname>
+    <contactperson>Ali Chakir</contactperson>
+    <email>contact@ikea.com</email>
+    <phone>+1-5828700402</phone>
+    <address>259 Business St, City 12</address>
+    <country>South Korea</country>
+    <paymentterms>Net 30</paymentterms>
+    <rating>3.7</rating>
+    <yearspartnership>9</yearspartnership>
+    <lastorderdate>2023-12-28</lastorderdate>
+  </record>
+</data>

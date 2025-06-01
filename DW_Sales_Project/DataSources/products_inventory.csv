@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,Supplier,UnitPrice,StockLevel,MinStockLevel,LastRestocked,Discontinued,Weight_kg,Dimensions,WarrantyMonths
+P001,Laptop,Accessories,HP,752.21,574,6,2023-01-01,False,21.84,39x91x29,6
+P002,Wireless Headphones,Electronics,Adidas,1901.68,863,48,2023-01-04,False,36.53,79x22x47,36
+P003,Notebook,Books,Canon,1465.33,742,30,2023-01-08,False,2.48,80x13x10,6
+P004,Gaming Mouse,Home & Garden,Nike,1199.32,240,36,2023-01-12,False,28.35,62x21x38,12
+P005,Smartphone,Home & Garden,Logitech,316.26,563,10,2023-01-15,False,8.02,11x50x13,12
+P006,Tablet,Stationery,Nike,316.21,95,36,2023-01-19,False,6.1,44x46x9,12
+P007,Monitor,Accessories,Dell,120.88,899,8,2023-01-23,False,17.16,54x31x2,12
+P008,Keyboard,Accessories,Staples,1733.02,733,15,2023-01-26,False,4.68,9x33x37,24
+P009,Webcam,Sports,IKEA,1204.22,484,21,2023-01-30,False,4.8,42x87x8,36
+P010,Printer,Electronics,Sony,1417.6,406,42,2023-02-03,False,15.64,69x90x17,6
+P011,Router,Electronics,Staples,46.07,230,28,2023-02-06,False,48.98,75x93x45,6
+P012,External HDD,Accessories,Nike,1939.97,748,9,2023-02-10,False,8.85,8x40x6,12
+P013,USB Cable,Home & Garden,Logitech,1665.72,654,38,2023-02-14,True,0.96,35x23x44,12
+P014,Power Bank,Home & Garden,Staples,428.62,170,10,2023-02-17,False,38.19,58x43x27,0
+P015,Bluetooth Speaker,Electronics,Microsoft,367.74,540,26,2023-02-21,False,40.36,78x94x19,36
+P016,Office Chair,Home & Garden,Sony,370.89,35,15,2023-02-25,False,17.38,43x71x45,24
+P017,Desk Lamp,Sports,Logitech,611.96,524,20,2023-02-28,False,23.29,17x96x20,6
+P018,Water Bottle,Home & Garden,HP,1051.89,159,37,2023-03-04,False,32.52,96x76x41,0
+P019,Coffee Mug,Food & Beverages,Apple,866.73,838,13,2023-03-08,False,2.5,43x5x3,0
+P020,Backpack,Books,Canon,586.0,698,10,2023-03-12,False,47.46,81x96x49,6
+P021,Running Shoes,Electronics,Dell,1225.65,242,20,2023-03-15,False,44.35,29x60x33,24
+P022,T-Shirt,Stationery,IKEA,283.29,85,33,2023-03-19,False,13.12,42x10x44,0
+P023,Jeans,Sports,IKEA,587.83,795,7,2023-03-23,False,0.86,49x36x45,0
+P024,Watch,Clothing,Logitech,735.89,577,24,2023-03-26,True,46.68,65x51x21,36
+P025,Sunglasses,Books,Nike,914.86,681,40,2023-03-30,False,25.1,84x89x11,24
+P026,Book - Fiction,Stationery,Apple,1571.43,556,23,2023-04-03,False,27.01,40x23x20,0
+P027,Book - Technical,Home & Garden,Nike,403.35,573,30,2023-04-06,False,34.23,61x22x47,24
+P028,Magazine,Clothing,Sony,1030.9,952,7,2023-04-10,False,30.83,53x18x15,6
+P029,Pen Set,Accessories,Staples,1186.87,645,23,2023-04-14,False,47.2,35x5x3,12
+P030,Calculator,Accessories,Logitech,97.67,795,24,2023-04-17,False,47.22,20x91x11,0
+P031,Product_31,Sports,Staples,1217.05,27,36,2023-04-21,False,43.37,16x78x32,36
+P032,Product_32,Accessories,Nike,345.2,619,11,2023-04-25,False,31.86,20x76x38,6
+P033,Product_33,Clothing,Adidas,134.78,555,45,2023-04-28,True,40.07,80x28x28,24
+P034,Product_34,Clothing,Samsung,1898.03,339,37,2023-05-02,False,33.89,12x96x36,6
+P035,Product_35,Books,Apple,1931.44,797,44,2023-05-06,False,28.71,94x12x28,0
+P036,Product_36,Electronics,Microsoft,1617.75,957,43,2023-05-10,False,6.51,96x45x36,24
+P037,Product_37,Food & Beverages,Apple,612.7,330,22,2023-05-13,False,40.58,68x31x17,12
+P038,Product_38,Accessories,Nike,199.86,639,44,2023-05-17,False,41.05,77x37x20,6
+P039,Product_39,Sports,Nike,1370.04,505,5,2023-05-21,False,31.33,81x96x48,0
+P040,Product_40,Accessories,Dell,883.1,347,15,2023-05-24,False,41.04,33x17x46,36
+P041,Product_41,Books,Adidas,248.47,472,32,2023-05-28,False,32.61,39x10x18,24
+P042,Product_42,Clothing,Microsoft,992.88,230,29,2023-06-01,False,10.41,73x51x25,6
+P043,Product_43,Home & Garden,Canon,73.61,189,27,2023-06-04,False,13.77,70x14x30,6
+P044,Product_44,Accessories,Dell,1819.09,224,35,2023-06-08,False,10.81,9x37x1,12
+P045,Product_45,Electronics,Sony,521.27,384,34,2023-06-12,False,18.93,22x53x11,12
+P046,Product_46,Home & Garden,Microsoft,1326.73,376,46,2023-06-15,False,2.04,89x30x25,36
+P047,Product_47,Books,Logitech,626.86,282,39,2023-06-19,False,30.95,90x63x27,36
+P048,Product_48,Accessories,Samsung,1042.54,957,11,2023-06-23,True,16.89,53x81x33,0
+P049,Product_49,Home & Garden,Dell,1095.69,632,20,2023-06-26,True,32.82,5x25x48,0
+P050,Product_50,Accessories,Samsung,373.78,627,30,2023-06-30,False,19.33,59x10x28,36
+P051,Product_51,Sports,Adidas,1939.32,972,6,2023-07-04,False,34.11,85x73x31,36
+P052,Product_52,Books,Sony,1551.39,744,5,2023-07-08,True,17.1,9x7x23,24
+P053,Product_53,Food & Beverages,Sony,1879.3,258,16,2023-07-11,False,13.11,57x41x10,12
+P054,Product_54,Clothing,IKEA,1790.18,358,9,2023-07-15,True,24.85,78x87x17,0
+P055,Product_55,Stationery,Canon,1197.81,709,41,2023-07-19,False,34.68,89x82x9,12
+P056,Product_56,Clothing,Sony,1844.14,455,36,2023-07-22,True,17.48,5x55x45,12
+P057,Product_57,Clothing,Nike,181.54,410,13,2023-07-26,False,46.84,81x8x1,36
+P058,Product_58,Home & Garden,Apple,395.99,648,45,2023-07-30,False,2.06,36x38x28,24
+P059,Product_59,Books,Apple,95.23,317,39,2023-08-02,False,20.96,99x76x39,6
+P060,Product_60,Accessories,Staples,654.03,676,23,2023-08-06,False,48.38,30x38x3,24
+P061,Product_61,Stationery,Canon,780.41,224,20,2023-08-10,False,27.44,54x16x1,24
+P062,Product_62,Home & Garden,Nike,546.34,818,7,2023-08-13,False,21.23,58x9x30,12
+P063,Product_63,Stationery,Apple,1658.33,233,24,2023-08-17,False,28.47,98x61x17,24
+P064,Product_64,Food & Beverages,Logitech,716.72,683,28,2023-08-21,False,28.84,51x27x15,0
+P065,Product_65,Sports,Nike,565.46,663,37,2023-08-24,False,36.61,89x18x2,12
+P066,Product_66,Books,Adidas,1087.68,974,28,2023-08-28,True,6.47,79x55x39,0
+P067,Product_67,Home & Garden,HP,286.14,826,15,2023-09-01,False,12.58,42x68x34,6
+P068,Product_68,Clothing,Samsung,1605.38,373,12,2023-09-05,False,29.07,42x54x34,12
+P069,Product_69,Electronics,Nike,153.73,671,40,2023-09-08,False,43.37,86x34x15,6
+P070,Product_70,Home & Garden,IKEA,1973.84,607,42,2023-09-12,False,28.14,95x55x34,12
+P071,Product_71,Electronics,IKEA,1545.63,471,44,2023-09-16,False,12.01,56x42x33,36
+P072,Product_72,Clothing,Samsung,401.44,232,24,2023-09-19,False,34.02,92x83x30,24
+P073,Product_73,Sports,IKEA,16.02,691,39,2023-09-23,False,37.02,55x85x5,36
+P074,Product_74,Books,Logitech,1631.85,112,29,2023-09-27,False,11.99,33x8x10,6
+P075,Product_75,Accessories,HP,1415.18,829,39,2023-09-30,False,18.95,60x21x10,24
+P076,Product_76,Home & Garden,Staples,1459.37,496,29,2023-10-04,False,26.76,21x88x24,12
+P077,Product_77,Clothing,Staples,1543.68,441,33,2023-10-08,False,24.88,73x38x6,24
+P078,Product_78,Home & Garden,Microsoft,152.72,563,22,2023-10-11,False,19.54,57x70x13,0
+P079,Product_79,Food & Beverages,Canon,720.14,267,22,2023-10-15,False,14.95,47x79x47,24
+P080,Product_80,Sports,Nike,236.16,509,6,2023-10-19,False,5.09,27x59x16,0
+P081,Product_81,Food & Beverages,Canon,1726.89,806,39,2023-10-22,False,2.77,99x79x16,24
+P082,Product_82,Stationery,Sony,1248.48,385,20,2023-10-26,True,47.93,12x8x40,0
+P083,Product_83,Books,Samsung,665.14,386,45,2023-10-30,False,42.37,8x60x25,6
+P084,Product_84,Stationery,Samsung,131.8,112,40,2023-11-03,False,17.81,71x71x27,36
+P085,Product_85,Home & Garden,Sony,625.41,612,37,2023-11-06,False,47.84,97x36x19,12
+P086,Product_86,Books,Microsoft,653.74,624,8,2023-11-10,False,33.87,25x9x18,24
+P087,Product_87,Sports,Dell,1460.56,951,37,2023-11-14,False,24.18,96x46x22,36
+P088,Product_88,Sports,Adidas,1276.93,80,18,2023-11-17,True,24.7,25x74x1,12
+P089,Product_89,Clothing,Nike,1774.99,698,25,2023-11-21,False,4.26,9x16x26,12
+P090,Product_90,Home & Garden,Samsung,947.07,112,24,2023-11-25,False,4.68,50x38x49,0
+P091,Product_91,Stationery,Adidas,243.59,1,12,2023-11-28,True,30.16,82x94x45,6
+P092,Product_92,Food & Beverages,Samsung,1427.92,641,11,2023-12-02,False,27.73,31x77x26,6
+P093,Product_93,Accessories,Dell,1522.77,219,7,2023-12-06,False,10.72,51x90x47,36
+P094,Product_94,Electronics,Sony,1124.75,565,21,2023-12-09,False,47.32,60x98x43,6
+P095,Product_95,Accessories,IKEA,1543.08,854,37,2023-12-13,True,39.09,67x52x17,24
+P096,Product_96,Stationery,Staples,990.12,996,16,2023-12-17,False,5.76,30x40x1,6
+P097,Product_97,Stationery,Dell,1047.85,735,26,2023-12-20,False,46.55,12x56x15,36
+P098,Product_98,Sports,Samsung,857.94,224,26,2023-12-24,False,48.71,51x60x22,6
+P099,Product_99,Accessories,Sony,55.71,384,34,2023-12-28,False,49.8,18x94x28,24
+P100,Product_100,Sports,Dell,220.24,402,42,2024-01-01,False,2.89,91x82x24,0

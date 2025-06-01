@@ -1,0 +1,1605 @@
+company_info:
+  established: '2010'
+  headquarters: Casablanca, Morocco
+  name: TechMart Morocco
+employees:
+- employee_id: EMP001
+  job_info:
+    department: Marketing
+    hire_date: '2021-11-16'
+    manager_id: null
+    position: Junior Associate
+    salary: 31541.71
+  performance:
+    goals_met: 72
+    last_review_date: '2022-11-16'
+    rating: 4.4
+  personal_info:
+    email: employee1@techmart.ma
+    first_name: Omar
+    last_name: Idrissi
+    phone: +212-794356321
+- employee_id: EMP002
+  job_info:
+    department: IT
+    hire_date: '2022-05-30'
+    manager_id: null
+    position: Associate
+    salary: 102106.95
+  performance:
+    goals_met: 96
+    last_review_date: '2023-05-30'
+    rating: 4.2
+  personal_info:
+    email: employee2@techmart.ma
+    first_name: Youssef
+    last_name: Kabbaj
+    phone: +212-639078869
+- employee_id: EMP003
+  job_info:
+    department: Finance
+    hire_date: '2022-08-22'
+    manager_id: null
+    position: Senior Associate
+    salary: 90664.87
+  performance:
+    goals_met: 92
+    last_review_date: '2023-08-22'
+    rating: 3.0
+  personal_info:
+    email: employee3@techmart.ma
+    first_name: Zineb
+    last_name: Idrissi
+    phone: +212-652474422
+- employee_id: EMP004
+  job_info:
+    department: Marketing
+    hire_date: '2020-11-16'
+    manager_id: null
+    position: Intern
+    salary: 40198.0
+  performance:
+    goals_met: 70
+    last_review_date: '2021-11-16'
+    rating: 3.0
+  personal_info:
+    email: employee4@techmart.ma
+    first_name: Fatima
+    last_name: El Fassi
+    phone: +212-716011547
+- employee_id: EMP005
+  job_info:
+    department: Operations
+    hire_date: '2022-12-22'
+    manager_id: null
+    position: Manager
+    salary: 43700.6
+  performance:
+    goals_met: 80
+    last_review_date: '2023-12-22'
+    rating: 4.8
+  personal_info:
+    email: employee5@techmart.ma
+    first_name: Aicha
+    last_name: Douiri
+    phone: +212-740135076
+- employee_id: EMP006
+  job_info:
+    department: Finance
+    hire_date: '2020-12-28'
+    manager_id: null
+    position: Manager
+    salary: 61554.28
+  performance:
+    goals_met: 61
+    last_review_date: '2021-12-28'
+    rating: 3.7
+  personal_info:
+    email: employee6@techmart.ma
+    first_name: Youssef
+    last_name: Douiri
+    phone: +212-690691281
+- employee_id: EMP007
+  job_info:
+    department: Operations
+    hire_date: '2023-04-05'
+    manager_id: null
+    position: Manager
+    salary: 119873.76
+  performance:
+    goals_met: 70
+    last_review_date: '2024-04-04'
+    rating: 3.2
+  personal_info:
+    email: employee7@techmart.ma
+    first_name: Mohammed
+    last_name: Alami
+    phone: +212-793030165
+- employee_id: EMP008
+  job_info:
+    department: Finance
+    hire_date: '2021-09-30'
+    manager_id: null
+    position: Senior Associate
+    salary: 48905.8
+  performance:
+    goals_met: 88
+    last_review_date: '2022-09-30'
+    rating: 3.4
+  personal_info:
+    email: employee8@techmart.ma
+    first_name: Khadija
+    last_name: Chakir
+    phone: +212-649801468
+- employee_id: EMP009
+  job_info:
+    department: Customer Service
+    hire_date: '2023-10-16'
+    manager_id: null
+    position: Intern
+    salary: 45949.03
+  performance:
+    goals_met: 82
+    last_review_date: '2024-10-15'
+    rating: 4.3
+  personal_info:
+    email: employee9@techmart.ma
+    first_name: Ali
+    last_name: Jabri
+    phone: +212-778601459
+- employee_id: EMP010
+  job_info:
+    department: Operations
+    hire_date: '2020-03-12'
+    manager_id: null
+    position: Intern
+    salary: 90698.9
+  performance:
+    goals_met: 89
+    last_review_date: '2021-03-12'
+    rating: 3.0
+  personal_info:
+    email: employee10@techmart.ma
+    first_name: Mohammed
+    last_name: Hassani
+    phone: +212-641947904
+- employee_id: EMP011
+  job_info:
+    department: Customer Service
+    hire_date: '2021-07-25'
+    manager_id: null
+    position: Associate
+    salary: 77517.59
+  performance:
+    goals_met: 74
+    last_review_date: '2022-07-25'
+    rating: 4.5
+  personal_info:
+    email: employee11@techmart.ma
+    first_name: Fatima
+    last_name: Ghazi
+    phone: +212-652814889
+- employee_id: EMP012
+  job_info:
+    department: Operations
+    hire_date: '2021-03-01'
+    manager_id: null
+    position: Intern
+    salary: 59695.05
+  performance:
+    goals_met: 99
+    last_review_date: '2022-03-01'
+    rating: 4.1
+  personal_info:
+    email: employee12@techmart.ma
+    first_name: Hamid
+    last_name: Idrissi
+    phone: +212-736489860
+- employee_id: EMP013
+  job_info:
+    department: Finance
+    hire_date: '2020-02-15'
+    manager_id: null
+    position: Associate
+    salary: 57326.38
+  performance:
+    goals_met: 96
+    last_review_date: '2021-02-14'
+    rating: 3.7
+  personal_info:
+    email: employee13@techmart.ma
+    first_name: Khadija
+    last_name: Douiri
+    phone: +212-608662235
+- employee_id: EMP014
+  job_info:
+    department: Marketing
+    hire_date: '2021-12-09'
+    manager_id: null
+    position: Associate
+    salary: 101819.05
+  performance:
+    goals_met: 74
+    last_review_date: '2022-12-09'
+    rating: 3.7
+  personal_info:
+    email: employee14@techmart.ma
+    first_name: Ali
+    last_name: Jabri
+    phone: +212-787720639
+- employee_id: EMP015
+  job_info:
+    department: HR
+    hire_date: '2021-01-08'
+    manager_id: null
+    position: Manager
+    salary: 78158.08
+  performance:
+    goals_met: 64
+    last_review_date: '2022-01-08'
+    rating: 4.7
+  personal_info:
+    email: employee15@techmart.ma
+    first_name: Aicha
+    last_name: Alami
+    phone: +212-601524014
+- employee_id: EMP016
+  job_info:
+    department: Finance
+    hire_date: '2023-02-16'
+    manager_id: null
+    position: Associate
+    salary: 62412.49
+  performance:
+    goals_met: 89
+    last_review_date: '2024-02-16'
+    rating: 3.6
+  personal_info:
+    email: employee16@techmart.ma
+    first_name: Omar
+    last_name: Kabbaj
+    phone: +212-681470353
+- employee_id: EMP017
+  job_info:
+    department: Finance
+    hire_date: '2023-07-15'
+    manager_id: null
+    position: Manager
+    salary: 50543.33
+  performance:
+    goals_met: 83
+    last_review_date: '2024-07-14'
+    rating: 3.1
+  personal_info:
+    email: employee17@techmart.ma
+    first_name: Khadija
+    last_name: Chakir
+    phone: +212-799489030
+- employee_id: EMP018
+  job_info:
+    department: Finance
+    hire_date: '2023-08-17'
+    manager_id: null
+    position: Junior Associate
+    salary: 79280.74
+  performance:
+    goals_met: 68
+    last_review_date: '2024-08-16'
+    rating: 4.2
+  personal_info:
+    email: employee18@techmart.ma
+    first_name: Omar
+    last_name: Ghazi
+    phone: +212-611097065
+- employee_id: EMP019
+  job_info:
+    department: Customer Service
+    hire_date: '2022-07-28'
+    manager_id: null
+    position: Senior Associate
+    salary: 89361.31
+  performance:
+    goals_met: 100
+    last_review_date: '2023-07-28'
+    rating: 3.4
+  personal_info:
+    email: employee19@techmart.ma
+    first_name: Ali
+    last_name: Chakir
+    phone: +212-689372816
+- employee_id: EMP020
+  job_info:
+    department: Operations
+    hire_date: '2023-10-01'
+    manager_id: null
+    position: Manager
+    salary: 109755.06
+  performance:
+    goals_met: 82
+    last_review_date: '2024-09-30'
+    rating: 4.7
+  personal_info:
+    email: employee20@techmart.ma
+    first_name: Mohammed
+    last_name: Benali
+    phone: +212-629681195
+- employee_id: EMP021
+  job_info:
+    department: Marketing
+    hire_date: '2022-04-21'
+    manager_id: EMP015
+    position: Junior Associate
+    salary: 87672.8
+  performance:
+    goals_met: 92
+    last_review_date: '2023-04-21'
+    rating: 3.6
+  personal_info:
+    email: employee21@techmart.ma
+    first_name: Youssef
+    last_name: El Fassi
+    phone: +212-619248654
+- employee_id: EMP022
+  job_info:
+    department: Operations
+    hire_date: '2020-02-24'
+    manager_id: EMP010
+    position: Associate
+    salary: 79000.3
+  performance:
+    goals_met: 75
+    last_review_date: '2021-02-23'
+    rating: 3.7
+  personal_info:
+    email: employee22@techmart.ma
+    first_name: Salma
+    last_name: El Fassi
+    phone: +212-613248444
+- employee_id: EMP023
+  job_info:
+    department: Customer Service
+    hire_date: '2021-02-15'
+    manager_id: EMP011
+    position: Associate
+    salary: 105027.02
+  performance:
+    goals_met: 69
+    last_review_date: '2022-02-15'
+    rating: 4.4
+  personal_info:
+    email: employee23@techmart.ma
+    first_name: Omar
+    last_name: El Fassi
+    phone: +212-645775050
+- employee_id: EMP024
+  job_info:
+    department: Customer Service
+    hire_date: '2020-02-19'
+    manager_id: EMP014
+    position: Senior Associate
+    salary: 38322.08
+  performance:
+    goals_met: 78
+    last_review_date: '2021-02-18'
+    rating: 4.1
+  personal_info:
+    email: employee24@techmart.ma
+    first_name: Omar
+    last_name: Ghazi
+    phone: +212-672653201
+- employee_id: EMP025
+  job_info:
+    department: Operations
+    hire_date: '2021-03-28'
+    manager_id: EMP012
+    position: Senior Associate
+    salary: 70453.28
+  performance:
+    goals_met: 77
+    last_review_date: '2022-03-28'
+    rating: 2.9
+  personal_info:
+    email: employee25@techmart.ma
+    first_name: Mohammed
+    last_name: Alami
+    phone: +212-786693794
+- employee_id: EMP026
+  job_info:
+    department: Sales
+    hire_date: '2021-01-25'
+    manager_id: EMP014
+    position: Associate
+    salary: 89203.11
+  performance:
+    goals_met: 61
+    last_review_date: '2022-01-25'
+    rating: 3.8
+  personal_info:
+    email: employee26@techmart.ma
+    first_name: Fatima
+    last_name: Alami
+    phone: +212-763395766
+- employee_id: EMP027
+  job_info:
+    department: Sales
+    hire_date: '2023-06-22'
+    manager_id: EMP012
+    position: Senior Associate
+    salary: 40535.62
+  performance:
+    goals_met: 85
+    last_review_date: '2024-06-21'
+    rating: 2.9
+  personal_info:
+    email: employee27@techmart.ma
+    first_name: Khadija
+    last_name: Douiri
+    phone: +212-795046950
+- employee_id: EMP028
+  job_info:
+    department: HR
+    hire_date: '2021-07-19'
+    manager_id: EMP014
+    position: Intern
+    salary: 69036.52
+  performance:
+    goals_met: 100
+    last_review_date: '2022-07-19'
+    rating: 3.6
+  personal_info:
+    email: employee28@techmart.ma
+    first_name: Salma
+    last_name: Idrissi
+    phone: +212-675625057
+- employee_id: EMP029
+  job_info:
+    department: Marketing
+    hire_date: '2023-10-01'
+    manager_id: EMP008
+    position: Intern
+    salary: 64289.84
+  performance:
+    goals_met: 61
+    last_review_date: '2024-09-30'
+    rating: 2.6
+  personal_info:
+    email: employee29@techmart.ma
+    first_name: Omar
+    last_name: El Fassi
+    phone: +212-675647826
+- employee_id: EMP030
+  job_info:
+    department: Sales
+    hire_date: '2022-08-01'
+    manager_id: EMP004
+    position: Manager
+    salary: 94650.44
+  performance:
+    goals_met: 78
+    last_review_date: '2023-08-01'
+    rating: 2.8
+  personal_info:
+    email: employee30@techmart.ma
+    first_name: Hamid
+    last_name: Benali
+    phone: +212-797176846
+- employee_id: EMP031
+  job_info:
+    department: Finance
+    hire_date: '2022-12-09'
+    manager_id: EMP004
+    position: Associate
+    salary: 114532.24
+  performance:
+    goals_met: 92
+    last_review_date: '2023-12-09'
+    rating: 2.8
+  personal_info:
+    email: employee31@techmart.ma
+    first_name: Ali
+    last_name: Ghazi
+    phone: +212-705153905
+- employee_id: EMP032
+  job_info:
+    department: Sales
+    hire_date: '2022-09-15'
+    manager_id: EMP019
+    position: Manager
+    salary: 51549.23
+  performance:
+    goals_met: 63
+    last_review_date: '2023-09-15'
+    rating: 2.7
+  personal_info:
+    email: employee32@techmart.ma
+    first_name: Mohammed
+    last_name: Kabbaj
+    phone: +212-775264642
+- employee_id: EMP033
+  job_info:
+    department: Operations
+    hire_date: '2023-09-10'
+    manager_id: EMP010
+    position: Senior Associate
+    salary: 90332.79
+  performance:
+    goals_met: 71
+    last_review_date: '2024-09-09'
+    rating: 4.8
+  personal_info:
+    email: employee33@techmart.ma
+    first_name: Ali
+    last_name: Idrissi
+    phone: +212-645512828
+- employee_id: EMP034
+  job_info:
+    department: Marketing
+    hire_date: '2020-03-05'
+    manager_id: EMP014
+    position: Manager
+    salary: 92729.42
+  performance:
+    goals_met: 76
+    last_review_date: '2021-03-05'
+    rating: 3.2
+  personal_info:
+    email: employee34@techmart.ma
+    first_name: Mohammed
+    last_name: Kabbaj
+    phone: +212-761316137
+- employee_id: EMP035
+  job_info:
+    department: HR
+    hire_date: '2020-06-25'
+    manager_id: EMP009
+    position: Manager
+    salary: 88768.28
+  performance:
+    goals_met: 73
+    last_review_date: '2021-06-25'
+    rating: 4.2
+  personal_info:
+    email: employee35@techmart.ma
+    first_name: Youssef
+    last_name: Benali
+    phone: +212-615836694
+- employee_id: EMP036
+  job_info:
+    department: Customer Service
+    hire_date: '2020-06-03'
+    manager_id: EMP012
+    position: Manager
+    salary: 45617.55
+  performance:
+    goals_met: 92
+    last_review_date: '2021-06-03'
+    rating: 4.3
+  personal_info:
+    email: employee36@techmart.ma
+    first_name: Ali
+    last_name: Ghazi
+    phone: +212-699446854
+- employee_id: EMP037
+  job_info:
+    department: HR
+    hire_date: '2022-07-23'
+    manager_id: EMP014
+    position: Junior Associate
+    salary: 26464.83
+  performance:
+    goals_met: 82
+    last_review_date: '2023-07-23'
+    rating: 3.6
+  personal_info:
+    email: employee37@techmart.ma
+    first_name: Hamid
+    last_name: Ghazi
+    phone: +212-610441276
+- employee_id: EMP038
+  job_info:
+    department: IT
+    hire_date: '2023-08-20'
+    manager_id: EMP003
+    position: Intern
+    salary: 46654.7
+  performance:
+    goals_met: 61
+    last_review_date: '2024-08-19'
+    rating: 3.3
+  personal_info:
+    email: employee38@techmart.ma
+    first_name: Fatima
+    last_name: El Fassi
+    phone: +212-631142730
+- employee_id: EMP039
+  job_info:
+    department: Operations
+    hire_date: '2023-03-07'
+    manager_id: EMP016
+    position: Senior Associate
+    salary: 113476.54
+  performance:
+    goals_met: 69
+    last_review_date: '2024-03-06'
+    rating: 2.6
+  personal_info:
+    email: employee39@techmart.ma
+    first_name: Khadija
+    last_name: Benali
+    phone: +212-671359505
+- employee_id: EMP040
+  job_info:
+    department: HR
+    hire_date: '2020-05-14'
+    manager_id: EMP011
+    position: Manager
+    salary: 34948.17
+  performance:
+    goals_met: 65
+    last_review_date: '2021-05-14'
+    rating: 2.8
+  personal_info:
+    email: employee40@techmart.ma
+    first_name: Khadija
+    last_name: Douiri
+    phone: +212-744923752
+- employee_id: EMP041
+  job_info:
+    department: HR
+    hire_date: '2023-12-24'
+    manager_id: EMP012
+    position: Manager
+    salary: 49325.19
+  performance:
+    goals_met: 76
+    last_review_date: '2024-12-23'
+    rating: 4.0
+  personal_info:
+    email: employee41@techmart.ma
+    first_name: Omar
+    last_name: Chakir
+    phone: +212-794590964
+- employee_id: EMP042
+  job_info:
+    department: Operations
+    hire_date: '2020-08-18'
+    manager_id: EMP001
+    position: Junior Associate
+    salary: 116531.08
+  performance:
+    goals_met: 91
+    last_review_date: '2021-08-18'
+    rating: 4.1
+  personal_info:
+    email: employee42@techmart.ma
+    first_name: Ali
+    last_name: Hassani
+    phone: +212-628196056
+- employee_id: EMP043
+  job_info:
+    department: Sales
+    hire_date: '2021-01-18'
+    manager_id: EMP016
+    position: Manager
+    salary: 72193.89
+  performance:
+    goals_met: 71
+    last_review_date: '2022-01-18'
+    rating: 4.7
+  personal_info:
+    email: employee43@techmart.ma
+    first_name: Khadija
+    last_name: Ghazi
+    phone: +212-657834670
+- employee_id: EMP044
+  job_info:
+    department: IT
+    hire_date: '2020-10-26'
+    manager_id: EMP010
+    position: Manager
+    salary: 76845.33
+  performance:
+    goals_met: 71
+    last_review_date: '2021-10-26'
+    rating: 3.3
+  personal_info:
+    email: employee44@techmart.ma
+    first_name: Ali
+    last_name: Idrissi
+    phone: +212-638931610
+- employee_id: EMP045
+  job_info:
+    department: HR
+    hire_date: '2021-09-08'
+    manager_id: EMP014
+    position: Manager
+    salary: 95270.49
+  performance:
+    goals_met: 68
+    last_review_date: '2022-09-08'
+    rating: 4.2
+  personal_info:
+    email: employee45@techmart.ma
+    first_name: Ali
+    last_name: Jabri
+    phone: +212-738931575
+- employee_id: EMP046
+  job_info:
+    department: Sales
+    hire_date: '2021-10-13'
+    manager_id: EMP019
+    position: Manager
+    salary: 88854.52
+  performance:
+    goals_met: 99
+    last_review_date: '2022-10-13'
+    rating: 4.3
+  personal_info:
+    email: employee46@techmart.ma
+    first_name: Aicha
+    last_name: Douiri
+    phone: +212-709389995
+- employee_id: EMP047
+  job_info:
+    department: Sales
+    hire_date: '2023-03-24'
+    manager_id: EMP001
+    position: Associate
+    salary: 98396.32
+  performance:
+    goals_met: 99
+    last_review_date: '2024-03-23'
+    rating: 4.5
+  personal_info:
+    email: employee47@techmart.ma
+    first_name: Aicha
+    last_name: Benali
+    phone: +212-758586558
+- employee_id: EMP048
+  job_info:
+    department: Customer Service
+    hire_date: '2023-10-31'
+    manager_id: EMP004
+    position: Intern
+    salary: 67908.66
+  performance:
+    goals_met: 97
+    last_review_date: '2024-10-30'
+    rating: 5.0
+  personal_info:
+    email: employee48@techmart.ma
+    first_name: Hamid
+    last_name: Benali
+    phone: +212-644222288
+- employee_id: EMP049
+  job_info:
+    department: HR
+    hire_date: '2020-10-05'
+    manager_id: EMP011
+    position: Associate
+    salary: 94633.27
+  performance:
+    goals_met: 76
+    last_review_date: '2021-10-05'
+    rating: 4.3
+  personal_info:
+    email: employee49@techmart.ma
+    first_name: Youssef
+    last_name: Jabri
+    phone: +212-739797754
+- employee_id: EMP050
+  job_info:
+    department: Operations
+    hire_date: '2023-06-30'
+    manager_id: EMP011
+    position: Senior Associate
+    salary: 53296.05
+  performance:
+    goals_met: 69
+    last_review_date: '2024-06-29'
+    rating: 4.6
+  personal_info:
+    email: employee50@techmart.ma
+    first_name: Youssef
+    last_name: Ghazi
+    phone: +212-671051773
+- employee_id: EMP051
+  job_info:
+    department: Marketing
+    hire_date: '2022-04-10'
+    manager_id: EMP014
+    position: Junior Associate
+    salary: 48070.65
+  performance:
+    goals_met: 85
+    last_review_date: '2023-04-10'
+    rating: 4.1
+  personal_info:
+    email: employee51@techmart.ma
+    first_name: Omar
+    last_name: El Fassi
+    phone: +212-773080548
+- employee_id: EMP052
+  job_info:
+    department: Sales
+    hire_date: '2022-06-15'
+    manager_id: EMP006
+    position: Manager
+    salary: 56756.1
+  performance:
+    goals_met: 68
+    last_review_date: '2023-06-15'
+    rating: 3.9
+  personal_info:
+    email: employee52@techmart.ma
+    first_name: Mohammed
+    last_name: Jabri
+    phone: +212-616791143
+- employee_id: EMP053
+  job_info:
+    department: Marketing
+    hire_date: '2023-12-03'
+    manager_id: EMP016
+    position: Manager
+    salary: 94913.13
+  performance:
+    goals_met: 99
+    last_review_date: '2024-12-02'
+    rating: 3.7
+  personal_info:
+    email: employee53@techmart.ma
+    first_name: Zineb
+    last_name: Chakir
+    phone: +212-672770088
+- employee_id: EMP054
+  job_info:
+    department: HR
+    hire_date: '2022-11-25'
+    manager_id: EMP016
+    position: Intern
+    salary: 31331.68
+  performance:
+    goals_met: 68
+    last_review_date: '2023-11-25'
+    rating: 2.5
+  personal_info:
+    email: employee54@techmart.ma
+    first_name: Aicha
+    last_name: Hassani
+    phone: +212-722276852
+- employee_id: EMP055
+  job_info:
+    department: Customer Service
+    hire_date: '2021-05-30'
+    manager_id: EMP003
+    position: Senior Associate
+    salary: 85140.09
+  performance:
+    goals_met: 74
+    last_review_date: '2022-05-30'
+    rating: 4.3
+  personal_info:
+    email: employee55@techmart.ma
+    first_name: Ali
+    last_name: Jabri
+    phone: +212-763659605
+- employee_id: EMP056
+  job_info:
+    department: Finance
+    hire_date: '2021-01-27'
+    manager_id: EMP006
+    position: Senior Associate
+    salary: 30202.43
+  performance:
+    goals_met: 87
+    last_review_date: '2022-01-27'
+    rating: 4.2
+  personal_info:
+    email: employee56@techmart.ma
+    first_name: Fatima
+    last_name: Ghazi
+    phone: +212-721978469
+- employee_id: EMP057
+  job_info:
+    department: Marketing
+    hire_date: '2022-03-01'
+    manager_id: EMP005
+    position: Manager
+    salary: 32822.81
+  performance:
+    goals_met: 80
+    last_review_date: '2023-03-01'
+    rating: 4.0
+  personal_info:
+    email: employee57@techmart.ma
+    first_name: Fatima
+    last_name: Hassani
+    phone: +212-772585747
+- employee_id: EMP058
+  job_info:
+    department: Customer Service
+    hire_date: '2020-08-28'
+    manager_id: EMP018
+    position: Junior Associate
+    salary: 30504.85
+  performance:
+    goals_met: 86
+    last_review_date: '2021-08-28'
+    rating: 4.8
+  personal_info:
+    email: employee58@techmart.ma
+    first_name: Youssef
+    last_name: Hassani
+    phone: +212-772982930
+- employee_id: EMP059
+  job_info:
+    department: Customer Service
+    hire_date: '2023-04-17'
+    manager_id: EMP001
+    position: Manager
+    salary: 77694.3
+  performance:
+    goals_met: 99
+    last_review_date: '2024-04-16'
+    rating: 4.2
+  personal_info:
+    email: employee59@techmart.ma
+    first_name: Omar
+    last_name: Benali
+    phone: +212-623470804
+- employee_id: EMP060
+  job_info:
+    department: Operations
+    hire_date: '2020-02-26'
+    manager_id: EMP016
+    position: Junior Associate
+    salary: 62152.63
+  performance:
+    goals_met: 86
+    last_review_date: '2021-02-25'
+    rating: 3.0
+  personal_info:
+    email: employee60@techmart.ma
+    first_name: Salma
+    last_name: Chakir
+    phone: +212-776708114
+- employee_id: EMP061
+  job_info:
+    department: Customer Service
+    hire_date: '2020-02-13'
+    manager_id: EMP019
+    position: Senior Associate
+    salary: 45761.68
+  performance:
+    goals_met: 82
+    last_review_date: '2021-02-12'
+    rating: 4.0
+  personal_info:
+    email: employee61@techmart.ma
+    first_name: Hamid
+    last_name: Hassani
+    phone: +212-661344611
+- employee_id: EMP062
+  job_info:
+    department: HR
+    hire_date: '2020-04-01'
+    manager_id: EMP011
+    position: Junior Associate
+    salary: 65679.81
+  performance:
+    goals_met: 93
+    last_review_date: '2021-04-01'
+    rating: 3.4
+  personal_info:
+    email: employee62@techmart.ma
+    first_name: Omar
+    last_name: Hassani
+    phone: +212-788497855
+- employee_id: EMP063
+  job_info:
+    department: Customer Service
+    hire_date: '2023-08-16'
+    manager_id: EMP002
+    position: Manager
+    salary: 89483.79
+  performance:
+    goals_met: 62
+    last_review_date: '2024-08-15'
+    rating: 3.9
+  personal_info:
+    email: employee63@techmart.ma
+    first_name: Ali
+    last_name: Alami
+    phone: +212-691203361
+- employee_id: EMP064
+  job_info:
+    department: Sales
+    hire_date: '2022-05-03'
+    manager_id: EMP002
+    position: Intern
+    salary: 97355.15
+  performance:
+    goals_met: 83
+    last_review_date: '2023-05-03'
+    rating: 3.4
+  personal_info:
+    email: employee64@techmart.ma
+    first_name: Salma
+    last_name: Chakir
+    phone: +212-696826576
+- employee_id: EMP065
+  job_info:
+    department: Finance
+    hire_date: '2022-06-02'
+    manager_id: EMP003
+    position: Intern
+    salary: 96136.81
+  performance:
+    goals_met: 76
+    last_review_date: '2023-06-02'
+    rating: 4.6
+  personal_info:
+    email: employee65@techmart.ma
+    first_name: Mohammed
+    last_name: El Fassi
+    phone: +212-620892912
+- employee_id: EMP066
+  job_info:
+    department: Sales
+    hire_date: '2021-03-09'
+    manager_id: EMP006
+    position: Associate
+    salary: 26220.89
+  performance:
+    goals_met: 97
+    last_review_date: '2022-03-09'
+    rating: 4.0
+  personal_info:
+    email: employee66@techmart.ma
+    first_name: Omar
+    last_name: Benali
+    phone: +212-705344301
+- employee_id: EMP067
+  job_info:
+    department: Sales
+    hire_date: '2023-06-04'
+    manager_id: EMP017
+    position: Intern
+    salary: 36176.82
+  performance:
+    goals_met: 79
+    last_review_date: '2024-06-03'
+    rating: 2.8
+  personal_info:
+    email: employee67@techmart.ma
+    first_name: Ali
+    last_name: Idrissi
+    phone: +212-707086508
+- employee_id: EMP068
+  job_info:
+    department: HR
+    hire_date: '2023-06-06'
+    manager_id: EMP001
+    position: Intern
+    salary: 50035.1
+  performance:
+    goals_met: 65
+    last_review_date: '2024-06-05'
+    rating: 3.1
+  personal_info:
+    email: employee68@techmart.ma
+    first_name: Hamid
+    last_name: Douiri
+    phone: +212-710879206
+- employee_id: EMP069
+  job_info:
+    department: Customer Service
+    hire_date: '2022-07-11'
+    manager_id: EMP016
+    position: Manager
+    salary: 117537.91
+  performance:
+    goals_met: 81
+    last_review_date: '2023-07-11'
+    rating: 3.6
+  personal_info:
+    email: employee69@techmart.ma
+    first_name: Zineb
+    last_name: El Fassi
+    phone: +212-751261106
+- employee_id: EMP070
+  job_info:
+    department: Marketing
+    hire_date: '2022-01-31'
+    manager_id: EMP007
+    position: Junior Associate
+    salary: 57204.12
+  performance:
+    goals_met: 66
+    last_review_date: '2023-01-31'
+    rating: 4.3
+  personal_info:
+    email: employee70@techmart.ma
+    first_name: Ali
+    last_name: Alami
+    phone: +212-674914054
+- employee_id: EMP071
+  job_info:
+    department: Operations
+    hire_date: '2021-11-12'
+    manager_id: EMP020
+    position: Senior Associate
+    salary: 109847.65
+  performance:
+    goals_met: 94
+    last_review_date: '2022-11-12'
+    rating: 3.3
+  personal_info:
+    email: employee71@techmart.ma
+    first_name: Zineb
+    last_name: Ghazi
+    phone: +212-773040022
+- employee_id: EMP072
+  job_info:
+    department: Marketing
+    hire_date: '2021-05-23'
+    manager_id: EMP014
+    position: Intern
+    salary: 30594.35
+  performance:
+    goals_met: 95
+    last_review_date: '2022-05-23'
+    rating: 3.7
+  personal_info:
+    email: employee72@techmart.ma
+    first_name: Hamid
+    last_name: Hassani
+    phone: +212-609604205
+- employee_id: EMP073
+  job_info:
+    department: HR
+    hire_date: '2022-05-30'
+    manager_id: EMP011
+    position: Associate
+    salary: 106075.4
+  performance:
+    goals_met: 80
+    last_review_date: '2023-05-30'
+    rating: 4.9
+  personal_info:
+    email: employee73@techmart.ma
+    first_name: Zineb
+    last_name: Ghazi
+    phone: +212-706202520
+- employee_id: EMP074
+  job_info:
+    department: Marketing
+    hire_date: '2021-05-24'
+    manager_id: EMP016
+    position: Intern
+    salary: 113737.91
+  performance:
+    goals_met: 66
+    last_review_date: '2022-05-24'
+    rating: 2.5
+  personal_info:
+    email: employee74@techmart.ma
+    first_name: Mohammed
+    last_name: Idrissi
+    phone: +212-676357705
+- employee_id: EMP075
+  job_info:
+    department: Sales
+    hire_date: '2020-12-16'
+    manager_id: EMP018
+    position: Manager
+    salary: 44711.4
+  performance:
+    goals_met: 60
+    last_review_date: '2021-12-16'
+    rating: 2.7
+  personal_info:
+    email: employee75@techmart.ma
+    first_name: Ali
+    last_name: Idrissi
+    phone: +212-746482681
+- employee_id: EMP076
+  job_info:
+    department: Marketing
+    hire_date: '2020-08-25'
+    manager_id: EMP008
+    position: Manager
+    salary: 72763.91
+  performance:
+    goals_met: 66
+    last_review_date: '2021-08-25'
+    rating: 3.1
+  personal_info:
+    email: employee76@techmart.ma
+    first_name: Ali
+    last_name: Douiri
+    phone: +212-770191471
+- employee_id: EMP077
+  job_info:
+    department: Finance
+    hire_date: '2022-04-10'
+    manager_id: EMP012
+    position: Manager
+    salary: 79796.28
+  performance:
+    goals_met: 93
+    last_review_date: '2023-04-10'
+    rating: 3.7
+  personal_info:
+    email: employee77@techmart.ma
+    first_name: Ali
+    last_name: Kabbaj
+    phone: +212-783974897
+- employee_id: EMP078
+  job_info:
+    department: HR
+    hire_date: '2023-01-01'
+    manager_id: EMP016
+    position: Manager
+    salary: 78438.15
+  performance:
+    goals_met: 76
+    last_review_date: '2024-01-01'
+    rating: 4.7
+  personal_info:
+    email: employee78@techmart.ma
+    first_name: Khadija
+    last_name: Benali
+    phone: +212-707521585
+- employee_id: EMP079
+  job_info:
+    department: IT
+    hire_date: '2021-10-02'
+    manager_id: EMP010
+    position: Senior Associate
+    salary: 99487.29
+  performance:
+    goals_met: 85
+    last_review_date: '2022-10-02'
+    rating: 4.4
+  personal_info:
+    email: employee79@techmart.ma
+    first_name: Mohammed
+    last_name: Kabbaj
+    phone: +212-612878496
+- employee_id: EMP080
+  job_info:
+    department: Operations
+    hire_date: '2020-06-03'
+    manager_id: EMP015
+    position: Senior Associate
+    salary: 118593.12
+  performance:
+    goals_met: 66
+    last_review_date: '2021-06-03'
+    rating: 2.8
+  personal_info:
+    email: employee80@techmart.ma
+    first_name: Omar
+    last_name: Chakir
+    phone: +212-633591441
+- employee_id: EMP081
+  job_info:
+    department: Customer Service
+    hire_date: '2020-02-09'
+    manager_id: EMP013
+    position: Manager
+    salary: 41090.46
+  performance:
+    goals_met: 71
+    last_review_date: '2021-02-08'
+    rating: 2.5
+  personal_info:
+    email: employee81@techmart.ma
+    first_name: Khadija
+    last_name: El Fassi
+    phone: +212-773994841
+- employee_id: EMP082
+  job_info:
+    department: Operations
+    hire_date: '2022-12-08'
+    manager_id: EMP003
+    position: Associate
+    salary: 80548.88
+  performance:
+    goals_met: 97
+    last_review_date: '2023-12-08'
+    rating: 4.3
+  personal_info:
+    email: employee82@techmart.ma
+    first_name: Mohammed
+    last_name: Hassani
+    phone: +212-695482658
+- employee_id: EMP083
+  job_info:
+    department: Customer Service
+    hire_date: '2021-10-12'
+    manager_id: EMP020
+    position: Junior Associate
+    salary: 110806.46
+  performance:
+    goals_met: 73
+    last_review_date: '2022-10-12'
+    rating: 3.9
+  personal_info:
+    email: employee83@techmart.ma
+    first_name: Omar
+    last_name: Jabri
+    phone: +212-736135046
+- employee_id: EMP084
+  job_info:
+    department: IT
+    hire_date: '2021-01-29'
+    manager_id: EMP003
+    position: Senior Associate
+    salary: 108298.28
+  performance:
+    goals_met: 71
+    last_review_date: '2022-01-29'
+    rating: 3.8
+  personal_info:
+    email: employee84@techmart.ma
+    first_name: Salma
+    last_name: Idrissi
+    phone: +212-673666353
+- employee_id: EMP085
+  job_info:
+    department: HR
+    hire_date: '2021-04-23'
+    manager_id: EMP010
+    position: Junior Associate
+    salary: 33004.56
+  performance:
+    goals_met: 74
+    last_review_date: '2022-04-23'
+    rating: 3.3
+  personal_info:
+    email: employee85@techmart.ma
+    first_name: Hamid
+    last_name: El Fassi
+    phone: +212-749373115
+- employee_id: EMP086
+  job_info:
+    department: Customer Service
+    hire_date: '2021-04-05'
+    manager_id: EMP002
+    position: Manager
+    salary: 83945.64
+  performance:
+    goals_met: 88
+    last_review_date: '2022-04-05'
+    rating: 3.8
+  personal_info:
+    email: employee86@techmart.ma
+    first_name: Zineb
+    last_name: Douiri
+    phone: +212-701399512
+- employee_id: EMP087
+  job_info:
+    department: IT
+    hire_date: '2021-11-27'
+    manager_id: EMP007
+    position: Junior Associate
+    salary: 62272.82
+  performance:
+    goals_met: 73
+    last_review_date: '2022-11-27'
+    rating: 2.8
+  personal_info:
+    email: employee87@techmart.ma
+    first_name: Aicha
+    last_name: Idrissi
+    phone: +212-761826372
+- employee_id: EMP088
+  job_info:
+    department: Finance
+    hire_date: '2023-09-02'
+    manager_id: EMP010
+    position: Manager
+    salary: 26237.72
+  performance:
+    goals_met: 70
+    last_review_date: '2024-09-01'
+    rating: 4.8
+  personal_info:
+    email: employee88@techmart.ma
+    first_name: Mohammed
+    last_name: Chakir
+    phone: +212-790718148
+- employee_id: EMP089
+  job_info:
+    department: Marketing
+    hire_date: '2023-08-09'
+    manager_id: EMP003
+    position: Senior Associate
+    salary: 53063.27
+  performance:
+    goals_met: 70
+    last_review_date: '2024-08-08'
+    rating: 3.3
+  personal_info:
+    email: employee89@techmart.ma
+    first_name: Zineb
+    last_name: Jabri
+    phone: +212-691776014
+- employee_id: EMP090
+  job_info:
+    department: Operations
+    hire_date: '2020-08-17'
+    manager_id: EMP020
+    position: Manager
+    salary: 102957.57
+  performance:
+    goals_met: 65
+    last_review_date: '2021-08-17'
+    rating: 3.5
+  personal_info:
+    email: employee90@techmart.ma
+    first_name: Omar
+    last_name: Idrissi
+    phone: +212-708244435
+- employee_id: EMP091
+  job_info:
+    department: Finance
+    hire_date: '2020-02-11'
+    manager_id: EMP006
+    position: Intern
+    salary: 67349.03
+  performance:
+    goals_met: 68
+    last_review_date: '2021-02-10'
+    rating: 4.3
+  personal_info:
+    email: employee91@techmart.ma
+    first_name: Omar
+    last_name: Hassani
+    phone: +212-685185993
+- employee_id: EMP092
+  job_info:
+    department: Marketing
+    hire_date: '2022-01-27'
+    manager_id: EMP011
+    position: Intern
+    salary: 45760.61
+  performance:
+    goals_met: 100
+    last_review_date: '2023-01-27'
+    rating: 3.1
+  personal_info:
+    email: employee92@techmart.ma
+    first_name: Omar
+    last_name: Ghazi
+    phone: +212-748274181
+- employee_id: EMP093
+  job_info:
+    department: IT
+    hire_date: '2020-03-27'
+    manager_id: EMP019
+    position: Manager
+    salary: 90494.76
+  performance:
+    goals_met: 72
+    last_review_date: '2021-03-27'
+    rating: 3.9
+  personal_info:
+    email: employee93@techmart.ma
+    first_name: Mohammed
+    last_name: El Fassi
+    phone: +212-768042426
+- employee_id: EMP094
+  job_info:
+    department: HR
+    hire_date: '2022-12-16'
+    manager_id: EMP017
+    position: Intern
+    salary: 96771.59
+  performance:
+    goals_met: 76
+    last_review_date: '2023-12-16'
+    rating: 2.8
+  personal_info:
+    email: employee94@techmart.ma
+    first_name: Aicha
+    last_name: El Fassi
+    phone: +212-701203049
+- employee_id: EMP095
+  job_info:
+    department: Sales
+    hire_date: '2021-08-26'
+    manager_id: EMP013
+    position: Senior Associate
+    salary: 82476.97
+  performance:
+    goals_met: 74
+    last_review_date: '2022-08-26'
+    rating: 4.5
+  personal_info:
+    email: employee95@techmart.ma
+    first_name: Salma
+    last_name: Jabri
+    phone: +212-705039427
+- employee_id: EMP096
+  job_info:
+    department: IT
+    hire_date: '2021-01-11'
+    manager_id: EMP001
+    position: Senior Associate
+    salary: 27105.15
+  performance:
+    goals_met: 98
+    last_review_date: '2022-01-11'
+    rating: 3.7
+  personal_info:
+    email: employee96@techmart.ma
+    first_name: Hamid
+    last_name: Douiri
+    phone: +212-620596627
+- employee_id: EMP097
+  job_info:
+    department: Operations
+    hire_date: '2020-08-02'
+    manager_id: EMP017
+    position: Intern
+    salary: 91122.2
+  performance:
+    goals_met: 61
+    last_review_date: '2021-08-02'
+    rating: 3.6
+  personal_info:
+    email: employee97@techmart.ma
+    first_name: Salma
+    last_name: Alami
+    phone: +212-678245520
+- employee_id: EMP098
+  job_info:
+    department: Operations
+    hire_date: '2020-06-05'
+    manager_id: EMP008
+    position: Senior Associate
+    salary: 111642.64
+  performance:
+    goals_met: 77
+    last_review_date: '2021-06-05'
+    rating: 4.8
+  personal_info:
+    email: employee98@techmart.ma
+    first_name: Khadija
+    last_name: Alami
+    phone: +212-738409336
+- employee_id: EMP099
+  job_info:
+    department: Finance
+    hire_date: '2021-10-15'
+    manager_id: EMP009
+    position: Senior Associate
+    salary: 82275.29
+  performance:
+    goals_met: 65
+    last_review_date: '2022-10-15'
+    rating: 3.4
+  personal_info:
+    email: employee99@techmart.ma
+    first_name: Fatima
+    last_name: Chakir
+    phone: +212-762719930
+- employee_id: EMP100
+  job_info:
+    department: Finance
+    hire_date: '2022-11-07'
+    manager_id: EMP016
+    position: Intern
+    salary: 35264.8
+  performance:
+    goals_met: 79
+    last_review_date: '2023-11-07'
+    rating: 4.4
+  personal_info:
+    email: employee100@techmart.ma
+    first_name: Aicha
+    last_name: Douiri
+    phone: +212-733190630
